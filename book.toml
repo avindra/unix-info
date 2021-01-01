@@ -1,0 +1,6 @@
+[book]
+authors = ["Avindra Goolcharan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Unix Operating System"
