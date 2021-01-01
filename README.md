@@ -20,7 +20,7 @@ Fortunately, there are many good primary sources of information about Unix avail
 * 1981: [Computer Aids for Writers](https://archive.org/details/sigplan-sigoa-text-manipulation/page/n67/mode/2up) ([ACM](https://dl.acm.org/doi/abs/10.1145/872730.806455?originalServiceName=showPdf))
   * by [Lorinda Cherry](https://www.princeton.edu/~hos/frs122/precis/cherry1.htm)
   * Transcribed to [HTML](https://www.mirbsd.org/htman/i386/manUSD/29.diction.htm), from a MirBSD man page on diction
-* 1982: _The UNIX System_ a 2-part VHS video from Bell Labs, produced by [EWB Productions, Inc.](https://opencorporates.com/companies/us_nj/0100098790). ([Worldcat](http://www.worldcat.org/identities/nc-ewb%20productions%20inc/))
+* 1982: 📼 _The UNIX System_ a 2-part VHS video from Bell Labs, produced by [EWB Productions, Inc.](https://opencorporates.com/companies/us_nj/0100098790). ([Worldcat](http://www.worldcat.org/identities/nc-ewb%20productions%20inc/))
   * [_Making Computers More Productive_](https://www.youtube.com/watch?v=tc4ROCJYbm0)
     * Roughly half-hour length
     * Brian Kernighan explains and demonstrates the pipeline
@@ -35,7 +35,7 @@ Fortunately, there are many good primary sources of information about Unix avail
 * 1984: [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html)
   * by Ken Thompson
   * Multi-stage compiler backdoor hack presented at acceptance of an ACM award
-* 1985: [_The Computer Chronicles: UNIX_](https://archive.org/details/UNIX1985)
+* 1985: 📼 [_The Computer Chronicles: UNIX_](https://archive.org/details/UNIX1985)
   * John Mashey, manager from Bell Labs video, is seen again, 3 years later.
   * He moved to [MIPS](https://en.wikipedia.org/wiki/MIPS_Technologies) in the same year of video production.
 * 1993: [The Development of the C Language](http://www.bell-labs.com/usr/dmr/www/chist.pdf)
@@ -70,7 +70,7 @@ Note that objects before 1970 are pre-Unix and might be considered prior art:
   * An early Graphical User Interface (GUI) created by Rob Pike and Bart Locanthi for Unix.
 * 1985: [Munix, Vol III](https://archive.org/details/h42_PCS_MUNIX_Volume_III/mode/2up)
   * [Munix](https://de.wikipedia.org/wiki/MUNIX), created by [a German company called PCS](https://en.wikipedia.org/wiki/Periphere_Computer_Systeme) based on SystemV Unix. [Hubbard](https://en.wikipedia.org/wiki/Jordan_Hubbard) would go on to help create FreeBSD.
-* 1989: [_The Computer Chronicles: UNIX_](https://archive.org/details/unix_2)
+* 1989: 📼 [_The Computer Chronicles: UNIX_](https://archive.org/details/unix_2)
   * 2nd episode on UNIX, 4 years after the first
   * large segment on GUIs, one from Sun Microsystems and another from HP
   * some challenges are described,
