@@ -17,7 +17,7 @@ Fortunately, there are many good primary sources of information about Unix avail
 * 1982: 📼 _The UNIX System_ a 2-part VHS video from Bell Labs, produced by [EWB Productions, Inc.](https://opencorporates.com/companies/us_nj/0100098790). ([Worldcat](http://www.worldcat.org/identities/nc-ewb%20productions%20inc/))
   * [_Making Computers More Productive_](https://www.youtube.com/watch?v=tc4ROCJYbm0)
     * Roughly half-hour length
-    * Brian Kernighan explains and demonstrates the pipeline
+    * Kernighan explains and demonstrates the pipeline
     * Dennis Ritchie is briefly seen explaining a few topics, including input/output redirection.
   * [_Making Computers Easier to Use_](https://www.youtube.com/watch?v=XvDZLjaCJuw)
     * A shorter cut probably aimed at a more general audience
@@ -25,7 +25,7 @@ Fortunately, there are many good primary sources of information about Unix avail
     * Contains additional explanations not found in the other video
     * Some employees featured are exclusively seen in this video
 * 1984: [The UNIX Programming Environment](https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up)
-  * by Kernighan and Rob Pike.
+  * by [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) and [Rob Pike](https://twitter.com/rob_pike).
 * 1984: [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html)
   * by Ken Thompson
   * Multi-stage compiler backdoor hack presented at acceptance of an ACM award
