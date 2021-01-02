@@ -1,0 +1,318 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Primary sources - The Unix Operating System</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        
+        <link rel="stylesheet" href="css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="early_history.html"><strong aria-hidden="true">2.</strong> Early history</a></li><li class="chapter-item expanded "><a href="primary_sources.html" class="active"><strong aria-hidden="true">3.</strong> Primary sources</a></li><li class="chapter-item expanded "><a href="out_of_tree.html"><strong aria-hidden="true">4.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="source_code.html"><strong aria-hidden="true">5.</strong> Source code</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">The Unix Operating System</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>Fortunately, there are many good primary sources of information about Unix available freely online. Here are a few:</p>
+<ul>
+<li>1971: <a href="https://www.bell-labs.com/usr/dmr/www/1stEdman.html">Unix Programmer's Manual (<em>1st</em> ed)</a> (<a href="https://www.livingcomputers.org/UI/UserDocs/Unix-v7-1/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.pdf">1983 edition</a>)
+<ul>
+<li>by <a href="http://cs.bell-labs.co/who/ken/">Ken Thompson</a> and Dennis Ritchie</li>
+<li>first edition before pipes and grep were invented</li>
+<li><a href="https://en.wikipedia.org/wiki/Man_page#History">read more about the early documentation history</a></li>
+</ul>
+</li>
+<li>1976: <a href="https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf">The Unix Command Language</a> (<a href="https://github.com/susam/tucl#combined-pdf">more info</a>)
+<ul>
+<li>by Ken Thompson</li>
+</ul>
+</li>
+<li>1978: <a href="https://archive.org/details/bstj57-6-1899/mode/2up">UNIX Time-Sharing System</a>
+<ul>
+<li>Transcribed to <a href="https://danluu.com/mcilroy-unix/">HTML</a></li>
+<li>Featured in an August edition of <a href="https://en.wikipedia.org/wiki/Bell_Labs_Technical_Journal">Bell System Technical Journal (BSTJ)</a>.</li>
+</ul>
+</li>
+<li>1981: <a href="https://archive.org/details/sigplan-sigoa-text-manipulation/page/n67/mode/2up">Computer Aids for Writers</a> (<a href="https://dl.acm.org/doi/abs/10.1145/872730.806455?originalServiceName=showPdf">ACM</a>)
+<ul>
+<li>by <a href="https://www.princeton.edu/%7Ehos/frs122/precis/cherry1.htm">Lorinda Cherry</a></li>
+<li>Transcribed to <a href="https://www.mirbsd.org/htman/i386/manUSD/29.diction.htm">HTML</a>, from a MirBSD man page on diction</li>
+</ul>
+</li>
+<li>1982: 📼 <em>The UNIX System</em> a 2-part VHS video from Bell Labs, produced by <a href="https://opencorporates.com/companies/us_nj/0100098790">EWB Productions, Inc.</a>. (<a href="http://www.worldcat.org/identities/nc-ewb%20productions%20inc/">Worldcat</a>)
+<ul>
+<li><a href="https://www.youtube.com/watch?v=tc4ROCJYbm0"><em>Making Computers More Productive</em></a>
+<ul>
+<li>Roughly half-hour length</li>
+<li>Brian Kernighan explains and demonstrates the pipeline</li>
+<li>Dennis Ritchie is briefly seen explaining a few topics, including input/output redirection.</li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=XvDZLjaCJuw"><em>Making Computers Easier to Use</em></a>
+<ul>
+<li>A shorter cut probably aimed at a more general audience</li>
+<li>Kernighan's pipeline explanation is redone in discrete steps, with intermediate results stored to output files.</li>
+<li>Contains additional explanations not found in the other video</li>
+<li>Some employees featured are exclusively seen in this video</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>1984: <a href="https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up">The UNIX Programming Environment</a>
+<ul>
+<li>by Kernighan and Rob Pike.</li>
+</ul>
+</li>
+<li>1984: <a href="https://www.win.tue.nl/%7Eaeb/linux/hh/thompson/trust.html">Reflections on Trusting Trust</a>
+<ul>
+<li>by Ken Thompson</li>
+<li>Multi-stage compiler backdoor hack presented at acceptance of an ACM award</li>
+</ul>
+</li>
+<li>1985: 📼 <a href="https://archive.org/details/UNIX1985"><em>The Computer Chronicles: UNIX</em></a>
+<ul>
+<li>John Mashey, manager from Bell Labs video, is seen again, 3 years later.</li>
+<li>He moved to <a href="https://en.wikipedia.org/wiki/MIPS_Technologies">MIPS</a> in the same year of video production.</li>
+</ul>
+</li>
+<li>1993: <a href="http://www.bell-labs.com/usr/dmr/www/chist.pdf">The Development of the C Language</a>
+<ul>
+<li>by Dennis Ritchie, principal creator of C</li>
+</ul>
+</li>
+<li>2003: <a href="http://www.princeton.edu/%7Ehos/frs122/unixhist/oralhistory.htm">Unix: An Oral History</a>
+<ul>
+<li>collection of writings from a Princeton University course on the development, ethos, and other topics surrounding Unix</li>
+</ul>
+</li>
+<li>2004: <a href="https://dl.acm.org/ft_gateway.cfm?id=1039532&amp;ftid=297456&amp;dwn=1">Languages, Levels, Libraries, and Longevity</a>
+<ul>
+<li>written by <a href="https://twitter.com/johnmashey">John Mashey</a></li>
+<li>covers computer language development at Bell Labs</li>
+</ul>
+</li>
+<li>2011: <a href="https://www.bell-labs.com/usr/dmr/www/">/usr/dmr/www</a>
+<ul>
+<li>Dennis Ritchie's website</li>
+</ul>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="early_history.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="out_of_tree.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="early_history.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="out_of_tree.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
