@@ -1,7 +1,7 @@
 
-Unix's familial branches.
+Unix is where many things started, and we can learn a lot just by studying it. However, it is difficult to think about Unix without also considering various branches of it.
 
-While Unix is generally seen as the parent, 
+In particular, branches closer to the epoch (1970) are of great interest.
 
 ## Timeline
 
