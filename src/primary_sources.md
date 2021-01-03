@@ -2,9 +2,15 @@
 Fortunately, there are many good primary sources of information about Unix available freely online. Here are a few:
 
 
-* 1971: [Unix Programmer's Manual (_1st_ ed)](https://www.bell-labs.com/usr/dmr/www/1stEdman.html) ([1983 edition](https://www.livingcomputers.org/UI/UserDocs/Unix-v7-1/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.pdf))
+* 1971: Unix Programmer's Manual
   * by [Ken Thompson](http://cs.bell-labs.co/who/ken/) and Dennis Ritchie
-  * first edition before pipes and grep were invented
+  * [1st ed](http://man.cat-v.org/unix-1st/)
+    - pipes and grep were not invented yet
+    - [preserved on dmr/www](https://www.bell-labs.com/usr/dmr/www/1stEdman.html)
+  * [7th ed](https://www.livingcomputers.org/UI/UserDocs/Unix-v7-1/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.pdf)
+    - Volume II, pulished 1983
+    - PDF scan with cover art depicting U N I X on a set of blocks
+  * [8th ed](http://man.cat-v.org/unix_8th/)
   * [read more about the early documentation history](https://en.wikipedia.org/wiki/Man_page#History)
 * 1976: [The Unix Command Language](https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf) ([more info](https://github.com/susam/tucl#combined-pdf))
   * by Ken Thompson
@@ -41,3 +47,5 @@ Fortunately, there are many good primary sources of information about Unix avail
   * covers computer language development at Bell Labs
 * 2011: [/usr/dmr/www](https://www.bell-labs.com/usr/dmr/www/)
   * Dennis Ritchie's website
+* 2020+:
+  * [cs.bell-labs.co](http://cs.bell-labs.co/) which archives Unix among other things
