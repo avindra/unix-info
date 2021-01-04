@@ -12,15 +12,17 @@ Fortunately, there are many good primary sources of information about Unix avail
     - PDF scan with cover art depicting U N I X on a set of blocks
   * [8th ed](http://man.cat-v.org/unix_8th/)
   * [read more about the early documentation history](https://en.wikipedia.org/wiki/Man_page#History)
+* 1974: [The UNIX Time-Sharing System](https://dl.acm.org/doi/10.1145/361011.361061)
+  * by Dennis M. Ritchie and Ken Thompson
+  * The text [can be found embedded in a 6th ed manual (1975)](https://archive.org/details/v6-manual/page/n307/mode/2up)
+  * Republished in [Apr 1978 revision](https://ieeexplore.ieee.org/document/6770404)
+  * 2nd revision transcribed to [HTML](https://cseweb.ucsd.edu/~ricko/CSE80/Unix_TimeSharing_System_cacm.html)
 * 1976: [The Unix Command Language](https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf) ([more info](https://github.com/susam/tucl#combined-pdf))
   * by Ken Thompson
-* 1978, Mar: [UNIX Time-Sharing System](https://archive.org/details/bstj57-6-1899/mode/2up)
+* 1978: [UNIX Time-Sharing System](https://archive.org/details/bstj57-6-1899/mode/2up)
   * by [Douglas McIlroy](https://www.cs.dartmouth.edu/~doug/), [Berk Tague](http://doc.cat-v.org/unix/oral-history/precis/tague.htm) and [Elliot N. Pinson](https://dl.acm.org/profile/81385595755)
   * Transcribed to [HTML](https://danluu.com/mcilroy-unix/)
   * Featured in an August edition of [Bell System Technical Journal (BSTJ)](https://en.wikipedia.org/wiki/Bell_Labs_Technical_Journal).
-* 1978, Apr: [The UNIX Time-Sharing System](https://ieeexplore.ieee.org/document/6770404)
-  * by Dennis M. Ritchie and Ken Thompson
-  * Transcribed to [HTML](https://cseweb.ucsd.edu/~ricko/CSE80/Unix_TimeSharing_System_cacm.html)
 * 1979: [The UNIX Programming Environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380090102)
   * by [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) and [John Mashey](https://twitter.com/johnmashey)
   * an expanded [1984 edition](https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up) was later published with [Rob Pike](https://twitter.com/rob_pike) as the co-author
