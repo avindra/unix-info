@@ -14,9 +14,13 @@ Fortunately, there are many good primary sources of information about Unix avail
   * [read more about the early documentation history](https://en.wikipedia.org/wiki/Man_page#History)
 * 1976: [The Unix Command Language](https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf) ([more info](https://github.com/susam/tucl#combined-pdf))
   * by Ken Thompson
-* 1978: [UNIX Time-Sharing System](https://archive.org/details/bstj57-6-1899/mode/2up)
+* 1978, Mar: [UNIX Time-Sharing System](https://archive.org/details/bstj57-6-1899/mode/2up)
+  * by [Douglas McIlroy](https://www.cs.dartmouth.edu/~doug/), [Berk Tague](http://doc.cat-v.org/unix/oral-history/precis/tague.htm) and [Elliot N. Pinson](https://dl.acm.org/profile/81385595755)
   * Transcribed to [HTML](https://danluu.com/mcilroy-unix/)
   * Featured in an August edition of [Bell System Technical Journal (BSTJ)](https://en.wikipedia.org/wiki/Bell_Labs_Technical_Journal).
+* 1978, Apr: [The UNIX Time-Sharing System](https://ieeexplore.ieee.org/document/6770404)
+  * by Dennis M. Ritchie and Ken Thompson
+  * Transcribed to [HTML](https://cseweb.ucsd.edu/~ricko/CSE80/Unix_TimeSharing_System_cacm.html)
 * 1979: [The UNIX Programming Environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380090102)
   * by [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) and [John Mashey](https://twitter.com/johnmashey)
   * an expanded [1984 edition](https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up) was later published with [Rob Pike](https://twitter.com/rob_pike) as the co-author
@@ -39,6 +43,8 @@ Fortunately, there are many good primary sources of information about Unix avail
 * 1985: 📼 [_The Computer Chronicles: UNIX_](https://archive.org/details/UNIX1985)
   * John Mashey, manager from Bell Labs video, is seen again, 3 years later.
   * He moved to [MIPS](https://en.wikipedia.org/wiki/MIPS_Technologies) in the same year of video production.
+* 1987: [UNIX System Readings and Applications Volume I](http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf)
+  * An official, 400-page dense compilation of many writings on Unix from Bell Labs
 * 1993: [The Development of the C Language](http://www.bell-labs.com/usr/dmr/www/chist.pdf)
   * by Dennis Ritchie, principal creator of C
 * 2003: [Unix: An Oral History](http://www.princeton.edu/~hos/frs122/unixhist/oralhistory.htm)
