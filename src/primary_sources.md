@@ -49,9 +49,8 @@ Fortunately, there are many good primary sources of information about Unix avail
   * by Ken Thompson
   * Multi-stage compiler backdoor hack presented at acceptance of an ACM award
 * 1985: 📼 [_The Computer Chronicles: UNIX_](https://archive.org/details/UNIX1985) ([YouTube](https://www.youtube.com/watch?v=0DdoGPav3fc))
-  * John Mashey, manager from Bell Labs video, has now moved on to MIPS (and 1 other venture).
-  * Bill Joy, creator of Vi and founder of Sun Microsystems is seen remarking on how standards commitees can end up slowing down development.
-  * He moved to [MIPS](https://en.wikipedia.org/wiki/MIPS_Technologies) in the same year of video production.
+  * John Mashey, manager from Bell Labs video, has now moved on to [MIPS](https://en.wikipedia.org/wiki/MIPS_Technologies) (and 1 other venture).
+  * Bill Joy, creator of Vi and a founder of Sun Microsystems is seen remarking on how standards commitees can end up slowing down development.
 * 1987: [UNIX System Readings and Applications Volume I](http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf)
   * An official, 400-page dense compilation of many writings on Unix from Bell Labs
 * 1993: [The Development of the C Language](http://www.bell-labs.com/usr/dmr/www/chist.pdf)
@@ -65,7 +64,7 @@ Fortunately, there are many good primary sources of information about Unix avail
   * Dennis Ritchie's website
 * 2019: [Unix 50](https://www.bell-labs.com/unix50), a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
   * [Unix Today and Tomorrow: The Languages](https://www.youtube.com/watch?v=EY6q5dv_B-o)
-    - presented by Brian Kernighan
+    - presentations by Brian Kernighan and Bjarne Stroustrup, followed by 3 Nokia Bell Labs staff members
   * [The Origin of Unix](https://www.youtube.com/watch?v=l03CF9_078I)
     - panel with Brian Kernighan, Doug McIlroy, Peter Weinberger, Jon Bentley, and Stephen Johnson
 * 2019: [▶️ (~1h) Brian Kernighan interviews Ken Thompson at VCF East 2019](https://youtu.be/EY6q5dv_B-o?t=494)
