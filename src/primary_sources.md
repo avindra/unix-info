@@ -63,6 +63,11 @@ Fortunately, there are many good primary sources of information about Unix avail
   * covers computer language development at Bell Labs
 * 2011: [/usr/dmr/www](https://www.bell-labs.com/usr/dmr/www/)
   * Dennis Ritchie's website
+* 2019: [Unix 50](https://www.bell-labs.com/unix50), a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
+  * [Unix Today and Tomorrow: The Languages](https://www.youtube.com/watch?v=EY6q5dv_B-o)
+    - presented by Brian Kernighan
+  * [The Origin of Unix](https://www.youtube.com/watch?v=l03CF9_078I)
+    - panel with Brian Kernighan, Doug McIlroy, Peter Weinberger, Jon Bentley, and Stephen Johnson
 * 2019: [▶️ (~1h) Brian Kernighan interviews Ken Thompson at VCF East 2019](https://youtu.be/EY6q5dv_B-o?t=494)
   * Video has two introductions
 * 2020+:
