@@ -63,5 +63,7 @@ Fortunately, there are many good primary sources of information about Unix avail
   * covers computer language development at Bell Labs
 * 2011: [/usr/dmr/www](https://www.bell-labs.com/usr/dmr/www/)
   * Dennis Ritchie's website
+* 2019: [▶️ (~1h) Brian Kernighan interviews Ken Thompson at VCF East 2019](https://youtu.be/EY6q5dv_B-o?t=494)
+  * Video has two introductions
 * 2020+:
   * [cs.bell-labs.co](http://cs.bell-labs.co/) which archives Unix among other things
