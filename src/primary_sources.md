@@ -19,6 +19,7 @@ Fortunately, there are many good primary sources of information about Unix avail
   * 2nd revision transcribed to [HTML](https://cseweb.ucsd.edu/~ricko/CSE80/Unix_TimeSharing_System_cacm.html)
 * 1976: [The Unix Command Language](https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf) ([more info](https://github.com/susam/tucl#combined-pdf))
   * by Ken Thompson
+  * [McIlroy's contribution](https://minnie.tuhs.org/pipermail/tuhs/2020-December/022535.html) was the syntax (` | `). The original syntax can be found in 1987's [A Research UNIX Reader](https://archive.org/details/a_research_unix_reader/page/n27/mode/2up).
 * 1978: [The C Programming Language](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
   * by Dennis Ritchie and Brian Kernighan
   * [2nd edition (ANSI-C) published 1988](http://mef-lab.com/osnove-2016/C-Programming-Ebook.pdf)

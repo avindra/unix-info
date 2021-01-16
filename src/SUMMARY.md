@@ -14,3 +14,5 @@ References:
 - [Primary sources](./primary_sources.md)
 - [Out-of-tree developments](./out_of_tree.md)
 - [Source code](./source_code.md)
+- [Hardware](./hardware.md)
+- [Organizations](./orgs.md)
