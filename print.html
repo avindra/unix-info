@@ -97,7 +97,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="about.html"><strong aria-hidden="true">2.</strong> About</a></li><li class="chapter-item expanded "><a href="early_history.html"><strong aria-hidden="true">3.</strong> Early history</a></li><li class="chapter-item expanded "><a href="primary_sources.html"><strong aria-hidden="true">4.</strong> Primary sources</a></li><li class="chapter-item expanded "><a href="out_of_tree.html"><strong aria-hidden="true">5.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="source_code.html"><strong aria-hidden="true">6.</strong> Source code</a></li><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">7.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="orgs.html"><strong aria-hidden="true">8.</strong> Organizations</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="about.html"><strong aria-hidden="true">2.</strong> About</a></li><li class="chapter-item expanded "><a href="early_history.html"><strong aria-hidden="true">3.</strong> Early history</a></li><li class="chapter-item expanded "><a href="prim/index.html"><strong aria-hidden="true">4.</strong> Primary sources</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="prim/man.html"><strong aria-hidden="true">4.1.</strong> Manuals</a></li><li class="chapter-item expanded "><a href="prim/video.html"><strong aria-hidden="true">4.2.</strong> Video productions</a></li></ol></li><li class="chapter-item expanded "><a href="out_of_tree.html"><strong aria-hidden="true">5.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="source_code.html"><strong aria-hidden="true">6.</strong> Source code</a></li><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">7.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="orgs.html"><strong aria-hidden="true">8.</strong> Organizations</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -216,27 +216,9 @@ update the briefing as needed to suit the audience.
 </li>
 <li>1973: (<a href="https://www.youtube.com/watch?v=V9aVOIuKVUc">YouTube</a>) <a href="https://techchannel.att.com/playvideo/2012/11/28/AT&amp;T-Archives-Holmdel-Computer-Center-Part-2">The Holmdel Computer Center, Part 2: Programmer Services</a></li>
 </ul>
-<p>Fortunately, there are many good primary sources of information about Unix available freely online. Here are a few:</p>
+<h1><a class="header" href="#primary-sources" id="primary-sources">Primary sources</a></h1>
+<p>Fortunately, there are many good primary sources of information about Unix available freely online. Here are various technical papers and other writings about Unix from its creators:</p>
 <ul>
-<li>1971: Unix Programmer's Manual
-<ul>
-<li>by <a href="http://cs.bell-labs.co/who/ken/">Ken Thompson</a> and <a href="https://www.bell-labs.com/usr/dmr/www/">Dennis Ritchie</a></li>
-<li><a href="http://man.cat-v.org/unix-1st/">1st ed</a>
-<ul>
-<li>pipes and grep were not invented yet</li>
-<li><a href="https://www.bell-labs.com/usr/dmr/www/1stEdman.html">preserved on dmr/www</a></li>
-</ul>
-</li>
-<li><a href="https://www.livingcomputers.org/UI/UserDocs/Unix-v7-1/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.pdf">7th ed</a>
-<ul>
-<li>Volume II, pulished 1983</li>
-<li>PDF scan with cover art depicting U N I X on a set of blocks</li>
-</ul>
-</li>
-<li><a href="http://man.cat-v.org/unix_8th/">8th ed</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Man_page#History">read more about the early documentation history</a></li>
-</ul>
-</li>
 <li>1974: <a href="https://dl.acm.org/doi/10.1145/361011.361061">The UNIX Time-Sharing System</a>
 <ul>
 <li>by Dennis M. Ritchie and Ken Thompson</li>
@@ -251,12 +233,6 @@ update the briefing as needed to suit the audience.
 <li><a href="https://minnie.tuhs.org/pipermail/tuhs/2020-December/022535.html">McIlroy's contribution</a> was the syntax (<code>|</code>). The original syntax can be found in 1987's <a href="https://archive.org/details/a_research_unix_reader/page/n27/mode/2up">A Research UNIX Reader</a>.</li>
 </ul>
 </li>
-<li>1978: <a href="https://archive.org/details/TheCProgrammingLanguageFirstEdition">The C Programming Language</a>
-<ul>
-<li>by Dennis Ritchie and Brian Kernighan</li>
-<li><a href="http://mef-lab.com/osnove-2016/C-Programming-Ebook.pdf">2nd edition (ANSI-C) published 1988</a></li>
-</ul>
-</li>
 <li>1978: <a href="https://archive.org/details/bstj57-6-1899/mode/2up">UNIX Time-Sharing System</a>
 <ul>
 <li>by <a href="https://www.cs.dartmouth.edu/%7Edoug/">Douglas McIlroy</a>, <a href="http://doc.cat-v.org/unix/oral-history/precis/tague.htm">Berk Tague</a> and <a href="https://dl.acm.org/profile/81385595755">Elliot N. Pinson</a></li>
@@ -264,35 +240,10 @@ update the briefing as needed to suit the audience.
 <li>Featured in an August edition of <a href="https://en.wikipedia.org/wiki/Bell_Labs_Technical_Journal">Bell System Technical Journal (BSTJ)</a>.</li>
 </ul>
 </li>
-<li>1979: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380090102">The UNIX Programming Environment</a>
-<ul>
-<li>by <a href="https://www.cs.princeton.edu/%7Ebwk/">Brian Kernighan</a> and <a href="https://twitter.com/johnmashey">John Mashey</a></li>
-<li>an expanded <a href="https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up">1984 edition</a> was later published with <a href="https://twitter.com/rob_pike">Rob Pike</a> as the co-author</li>
-</ul>
-</li>
 <li>1981: <a href="https://archive.org/details/sigplan-sigoa-text-manipulation/page/n67/mode/2up">Computer Aids for Writers</a> (<a href="https://dl.acm.org/doi/abs/10.1145/872730.806455?originalServiceName=showPdf">ACM</a>)
 <ul>
 <li>by <a href="https://www.princeton.edu/%7Ehos/frs122/precis/cherry1.htm">Lorinda Cherry</a></li>
 <li>Transcribed to <a href="https://www.mirbsd.org/htman/i386/manUSD/29.diction.htm">HTML</a>, from a MirBSD man page on diction</li>
-</ul>
-</li>
-<li>1982: 📼 <em>The UNIX System</em> a 2-part VHS video from Bell Labs, produced by <a href="https://opencorporates.com/companies/us_nj/0100098790">EWB Productions, Inc.</a>. (<a href="http://www.worldcat.org/identities/nc-ewb%20productions%20inc/">Worldcat</a>)
-<ul>
-<li><a href="https://www.youtube.com/watch?v=tc4ROCJYbm0"><em>Making Computers More Productive</em></a>
-<ul>
-<li>Roughly half-hour length</li>
-<li>Kernighan explains and demonstrates the pipeline</li>
-<li>Dennis Ritchie is briefly seen explaining a few topics, including input/output redirection.</li>
-</ul>
-</li>
-<li><a href="https://www.youtube.com/watch?v=XvDZLjaCJuw"><em>Making Computers Easier to Use</em></a>
-<ul>
-<li>A shorter cut probably aimed at a more general audience</li>
-<li>Kernighan's pipeline explanation is redone in discrete steps, with intermediate results stored to output files.</li>
-<li>Contains additional explanations not found in the other video</li>
-<li>Some employees featured are exclusively seen in this video</li>
-</ul>
-</li>
 </ul>
 </li>
 <li>1984: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1984.tb00071.x">A Stream Input‐Output System</a>
@@ -305,12 +256,6 @@ update the briefing as needed to suit the audience.
 <ul>
 <li>by Ken Thompson</li>
 <li>Multi-stage compiler backdoor hack presented at acceptance of an ACM award</li>
-</ul>
-</li>
-<li>1985: 📼 <a href="https://archive.org/details/UNIX1985"><em>The Computer Chronicles: UNIX</em></a> (<a href="https://www.youtube.com/watch?v=0DdoGPav3fc">YouTube</a>)
-<ul>
-<li>John Mashey, manager from Bell Labs video, has now moved on to <a href="https://en.wikipedia.org/wiki/MIPS_Technologies">MIPS</a> (and 1 other venture).</li>
-<li>Bill Joy, creator of Vi and a founder of Sun Microsystems is seen remarking on how standards commitees can end up slowing down development.</li>
 </ul>
 </li>
 <li>1987: <a href="http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf">UNIX System Readings and Applications Volume I</a>
@@ -334,6 +279,75 @@ update the briefing as needed to suit the audience.
 <li>covers computer language development at Bell Labs</li>
 </ul>
 </li>
+<li>2020+:
+<ul>
+<li><a href="http://cs.bell-labs.co/">cs.bell-labs.co</a> which archives Unix among other things</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#manuals" id="manuals">Manuals</a></h2>
+<p>Much information about Unix is available through it's manuals. Some say that the manual pages are the best place to learn about Unix.</p>
+<ul>
+<li>1971: Unix Programmer's Manual
+<ul>
+<li>by <a href="http://cs.bell-labs.co/who/ken/">Ken Thompson</a> and <a href="https://www.bell-labs.com/usr/dmr/www/">Dennis Ritchie</a></li>
+<li><a href="http://man.cat-v.org/unix-1st/">1st ed</a>
+<ul>
+<li>pipes and grep were not invented yet</li>
+<li><a href="https://www.bell-labs.com/usr/dmr/www/1stEdman.html">preserved on dmr/www</a></li>
+</ul>
+</li>
+<li><a href="https://www.livingcomputers.org/UI/UserDocs/Unix-v7-1/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.pdf">7th ed</a>
+<ul>
+<li>Volume II, pulished 1983</li>
+<li>PDF scan with cover art depicting U N I X on a set of blocks</li>
+</ul>
+</li>
+<li><a href="http://man.cat-v.org/unix_8th/">8th ed</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Man_page#History">read more about the early documentation history</a></li>
+</ul>
+</li>
+<li>1978: <a href="https://archive.org/details/TheCProgrammingLanguageFirstEdition">The C Programming Language</a>
+<ul>
+<li>by Dennis Ritchie and Brian Kernighan</li>
+<li><a href="http://mef-lab.com/osnove-2016/C-Programming-Ebook.pdf">2nd edition (ANSI-C) published 1988</a></li>
+</ul>
+</li>
+<li>1979: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380090102">The UNIX Programming Environment</a>
+<ul>
+<li>by <a href="https://www.cs.princeton.edu/%7Ebwk/">Brian Kernighan</a> and <a href="https://twitter.com/johnmashey">John Mashey</a></li>
+<li>an expanded <a href="https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up">1984 edition</a> was later published with <a href="https://twitter.com/rob_pike">Rob Pike</a> as the co-author</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#video-productions" id="video-productions">Video productions</a></h2>
+<p>The following are video productions featuring subjects whom are directly involved in Unix, speaking on the topic of Unix itself.</p>
+<ul>
+<li>1982: 📼 <em>The UNIX System</em> a 2-part VHS video from Bell Labs, produced by <a href="https://opencorporates.com/companies/us_nj/0100098790">EWB Productions, Inc.</a>. (<a href="http://www.worldcat.org/identities/nc-ewb%20productions%20inc/">Worldcat</a>)
+<ul>
+<li><a href="https://www.youtube.com/watch?v=tc4ROCJYbm0"><em>Making Computers More Productive</em></a>
+<ul>
+<li>Roughly half-hour length</li>
+<li>Kernighan explains and demonstrates the pipeline</li>
+<li>Dennis Ritchie is briefly seen explaining a few topics, including input/output redirection.</li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=XvDZLjaCJuw"><em>Making Computers Easier to Use</em></a>
+<ul>
+<li>A shorter cut probably aimed at a more general audience</li>
+<li>Kernighan's pipeline explanation is redone in discrete steps, with intermediate results stored to output files.</li>
+<li>Contains additional explanations not found in the other video</li>
+<li>Some employees featured are exclusively seen in this video</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>1985: 📼 <a href="https://archive.org/details/UNIX1985"><em>The Computer Chronicles: UNIX</em></a> (<a href="https://www.youtube.com/watch?v=0DdoGPav3fc">YouTube</a>)
+<ul>
+<li>John Mashey, manager from Bell Labs video, has now moved on to <a href="https://en.wikipedia.org/wiki/MIPS_Technologies">MIPS</a> (and 1 other venture).</li>
+<li>Bill Joy, creator of Vi and a founder of Sun Microsystems is seen remarking on how standards commitees can end up slowing down development.</li>
+</ul>
+</li>
 <li>2019: <a href="https://www.bell-labs.com/unix50">Unix 50</a>, a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
 <ul>
 <li><a href="https://www.youtube.com/watch?v=EY6q5dv_B-o">Unix Today and Tomorrow: The Languages</a>
@@ -351,11 +365,6 @@ update the briefing as needed to suit the audience.
 <li>2019: <a href="https://youtu.be/EY6q5dv_B-o?t=494">▶️ (~1h) Brian Kernighan interviews Ken Thompson at VCF East 2019</a>
 <ul>
 <li>Video has two introductions</li>
-</ul>
-</li>
-<li>2020+:
-<ul>
-<li><a href="http://cs.bell-labs.co/">cs.bell-labs.co</a> which archives Unix among other things</li>
 </ul>
 </li>
 </ul>

@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Out-of-tree developments - The Unix Operating System</title>
+        <title>Primary sources - The Unix Operating System</title>
         
         
 
@@ -18,28 +18,28 @@
         <meta name="theme-color" content="#ffffff" />
 
         
-        <link rel="icon" href="favicon.svg">
+        <link rel="icon" href="../favicon.svg">
         
         
-        <link rel="shortcut icon" href="favicon.png">
+        <link rel="shortcut icon" href="../favicon.png">
         
-        <link rel="stylesheet" href="css/variables.css">
-        <link rel="stylesheet" href="css/general.css">
-        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
         
-        <link rel="stylesheet" href="css/print.css" media="print">
+        <link rel="stylesheet" href="../css/print.css" media="print">
         
 
         <!-- Fonts -->
-        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
         
-        <link rel="stylesheet" href="fonts/fonts.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
         
 
         <!-- Highlight.js Stylesheets -->
-        <link rel="stylesheet" href="highlight.css">
-        <link rel="stylesheet" href="tomorrow-night.css">
-        <link rel="stylesheet" href="ayu-highlight.css">
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
         
@@ -49,7 +49,7 @@
     <body>
         <!-- Provide site root to javascript -->
         <script type="text/javascript">
-            var path_to_root = "";
+            var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
@@ -95,7 +95,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="about.html"><strong aria-hidden="true">2.</strong> About</a></li><li class="chapter-item expanded "><a href="early_history.html"><strong aria-hidden="true">3.</strong> Early history</a></li><li class="chapter-item expanded "><a href="prim/index.html"><strong aria-hidden="true">4.</strong> Primary sources</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="prim/man.html"><strong aria-hidden="true">4.1.</strong> Manuals</a></li><li class="chapter-item expanded "><a href="prim/video.html"><strong aria-hidden="true">4.2.</strong> Video productions</a></li></ol></li><li class="chapter-item expanded "><a href="out_of_tree.html" class="active"><strong aria-hidden="true">5.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="source_code.html"><strong aria-hidden="true">6.</strong> Source code</a></li><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">7.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="orgs.html"><strong aria-hidden="true">8.</strong> Organizations</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="../about.html"><strong aria-hidden="true">2.</strong> About</a></li><li class="chapter-item expanded "><a href="../early_history.html"><strong aria-hidden="true">3.</strong> Early history</a></li><li class="chapter-item expanded "><a href="../prim/index.html" class="active"><strong aria-hidden="true">4.</strong> Primary sources</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../prim/man.html"><strong aria-hidden="true">4.1.</strong> Manuals</a></li><li class="chapter-item expanded "><a href="../prim/video.html"><strong aria-hidden="true">4.2.</strong> Video productions</a></li></ol></li><li class="chapter-item expanded "><a href="../out_of_tree.html"><strong aria-hidden="true">5.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="../source_code.html"><strong aria-hidden="true">6.</strong> Source code</a></li><li class="chapter-item expanded "><a href="../hardware.html"><strong aria-hidden="true">7.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="../orgs.html"><strong aria-hidden="true">8.</strong> Organizations</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -131,7 +131,7 @@
 
                     <div class="right-buttons">
                         
-                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
                             <i id="print-button" class="fa fa-print"></i>
                         </a>
                         
@@ -163,44 +163,74 @@
 
                 <div id="content" class="content">
                     <main>
-                        <p>Unix is where many things started, and there is much to be understood in a study of Unix alone. However, there were many developments outside the scope of, but closely related to Unix in some way.</p>
-<p>In particular, branches closer to the epoch (1970) are of great interest.</p>
-<h2><a class="header" href="#timeline" id="timeline">Timeline</a></h2>
+                        <h1><a class="header" href="#primary-sources" id="primary-sources">Primary sources</a></h1>
+<p>Fortunately, there are many good primary sources of information about Unix available freely online. Here are various technical papers and other writings about Unix from its creators:</p>
 <ul>
-<li>1982: (<a href="https://www.youtube.com/watch?v=Pr1XXvSaVUQ">YouTube</a>) <a href="https://techchannel.att.com/playvideo/2012/08/27/AT&amp;T-Archives-BLIT-UNIX-GUI"><em>BLIT</em></a>.
+<li>1974: <a href="https://dl.acm.org/doi/10.1145/361011.361061">The UNIX Time-Sharing System</a>
 <ul>
-<li><a href="https://9p.io/cm/cs/doc/83/mpx.ps.gz">1983, The Blit: A Multiplexed Graphics Terminal (.ps)</a></li>
-<li>An early Graphical User Interface (GUI) created by Rob Pike and Bart Locanthi for Unix.</li>
-<li>a programmable bitmap graphics terminal</li>
+<li>by Dennis M. Ritchie and Ken Thompson</li>
+<li>The text <a href="https://archive.org/details/v6-manual/page/n307/mode/2up">can be found embedded in a 6th ed manual (1975)</a></li>
+<li>Republished in <a href="https://ieeexplore.ieee.org/document/6770404">Apr 1978 revision</a></li>
+<li>2nd revision transcribed to <a href="https://cseweb.ucsd.edu/%7Ericko/CSE80/Unix_TimeSharing_System_cacm.html">HTML</a></li>
 </ul>
 </li>
-<li>1985: <a href="https://archive.org/details/h42_PCS_MUNIX_Volume_III/mode/2up">Munix, Vol III</a>
+<li>1976: <a href="https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf">The Unix Command Language</a> (<a href="https://github.com/susam/tucl#combined-pdf">more info</a>)
 <ul>
-<li><a href="https://de.wikipedia.org/wiki/MUNIX">Munix</a>, created by <a href="https://en.wikipedia.org/wiki/Periphere_Computer_Systeme">a German company called PCS</a> based on SystemV Unix. <a href="https://en.wikipedia.org/wiki/Jordan_Hubbard">Hubbard</a> would go on to help create FreeBSD.</li>
+<li>by Ken Thompson</li>
+<li><a href="https://minnie.tuhs.org/pipermail/tuhs/2020-December/022535.html">McIlroy's contribution</a> was the syntax (<code>|</code>). The original syntax can be found in 1987's <a href="https://archive.org/details/a_research_unix_reader/page/n27/mode/2up">A Research UNIX Reader</a>.</li>
 </ul>
 </li>
-<li>1989: 📼 <a href="https://archive.org/details/unix_2"><em>The Computer Chronicles: UNIX</em></a>
+<li>1978: <a href="https://archive.org/details/bstj57-6-1899/mode/2up">UNIX Time-Sharing System</a>
 <ul>
-<li>2nd episode on UNIX, 4 years after the first</li>
-<li>large segment on GUIs, one from Sun Microsystems and another from HP</li>
-<li>some challenges are described,</li>
+<li>by <a href="https://www.cs.dartmouth.edu/%7Edoug/">Douglas McIlroy</a>, <a href="http://doc.cat-v.org/unix/oral-history/precis/tague.htm">Berk Tague</a> and <a href="https://dl.acm.org/profile/81385595755">Elliot N. Pinson</a></li>
+<li>Transcribed to <a href="https://danluu.com/mcilroy-unix/">HTML</a></li>
+<li>Featured in an August edition of <a href="https://en.wikipedia.org/wiki/Bell_Labs_Technical_Journal">Bell System Technical Journal (BSTJ)</a>.</li>
 </ul>
 </li>
-<li>1991: <a href="https://www.kernel.org/">Linux</a>
+<li>1981: <a href="https://archive.org/details/sigplan-sigoa-text-manipulation/page/n67/mode/2up">Computer Aids for Writers</a> (<a href="https://dl.acm.org/doi/abs/10.1145/872730.806455?originalServiceName=showPdf">ACM</a>)
 <ul>
-<li>Computer hacker Linus Torvalds realizes there's not a single kernel available anywhere that is any good</li>
-<li>Much to GNU's complement, Linux is a spiritual copy of the Unix kernel</li>
-<li>Like Unix, it was initially designed on a much smaller computer (in this case Torvald's own i386 machine), before being ported to dozens of other systems, large and small</li>
-<li>The &quot;1.0&quot; release was tagged later, in 1994.</li>
+<li>by <a href="https://www.princeton.edu/%7Ehos/frs122/precis/cherry1.htm">Lorinda Cherry</a></li>
+<li>Transcribed to <a href="https://www.mirbsd.org/htman/i386/manUSD/29.diction.htm">HTML</a>, from a MirBSD man page on diction</li>
 </ul>
 </li>
-<li>1992: <a href="http://doc.cat-v.org/bell_labs/utf-8_history">UTF-8</a>
+<li>1984: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1984.tb00071.x">A Stream Input‐Output System</a>
 <ul>
-<li>still the most widely used encoding scheme on the Internet (&gt;90%)</li>
-<li><a href="https://en.wikipedia.org/wiki/UTF-8#History">See full history from the 1989 ISO draft</a></li>
+<li>by Dennis Ritchie</li>
+<li><a href="http://www.bell-labs.com/usr/dmr/www/st.ps">.ps from dmr/www</a></li>
 </ul>
 </li>
-<li>1995: <a href="https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf">Plan 9 from Bell Labs</a></li>
+<li>1984: <a href="https://www.win.tue.nl/%7Eaeb/linux/hh/thompson/trust.html">Reflections on Trusting Trust</a>
+<ul>
+<li>by Ken Thompson</li>
+<li>Multi-stage compiler backdoor hack presented at acceptance of an ACM award</li>
+</ul>
+</li>
+<li>1987: <a href="http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf">UNIX System Readings and Applications Volume I</a>
+<ul>
+<li>An official, 400-page dense compilation of many writings on Unix from Bell Labs</li>
+</ul>
+</li>
+<li>1993: <a href="http://www.bell-labs.com/usr/dmr/www/chist.pdf">The Development of the C Language</a>
+<ul>
+<li>by Dennis Ritchie, principal creator of C</li>
+</ul>
+</li>
+<li>2003: <a href="http://www.princeton.edu/%7Ehos/frs122/unixhist/oralhistory.htm">Unix: An Oral History</a>
+<ul>
+<li>collection of writings from a Princeton University course on the development, ethos, and other topics surrounding Unix</li>
+</ul>
+</li>
+<li>2004: <a href="https://dl.acm.org/ft_gateway.cfm?id=1039532&amp;ftid=297456&amp;dwn=1">Languages, Levels, Libraries, and Longevity</a>
+<ul>
+<li>written by John Mashey</li>
+<li>covers computer language development at Bell Labs</li>
+</ul>
+</li>
+<li>2020+:
+<ul>
+<li><a href="http://cs.bell-labs.co/">cs.bell-labs.co</a> which archives Unix among other things</li>
+</ul>
+</li>
 </ul>
 
                     </main>
@@ -208,13 +238,13 @@
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
                         
-                            <a rel="prev" href="prim/video.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="../early_history.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
                         
 
                         
-                            <a rel="next" href="source_code.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next" href="../prim/man.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
                         
@@ -226,13 +256,13 @@
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
                 
-                    <a rel="prev" href="prim/video.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="../early_history.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
                 
 
                 
-                    <a rel="next" href="source_code.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next" href="../prim/man.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
                 
@@ -255,14 +285,14 @@
         
 
         
-        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
         
 
-        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
 
         <!-- Custom JS scripts -->
         
