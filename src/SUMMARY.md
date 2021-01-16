@@ -10,6 +10,7 @@ Timeline:
 References:
 
 - [Introduction](./intro.md)
+- [About](./about.md)
 - [Early history](./early_history.md)
 - [Primary sources](./primary_sources.md)
 - [Out-of-tree developments](./out_of_tree.md)
