@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Hardware - The Unix Operating System</title>
+        <title>About - The Unix Operating System</title>
         
         
 
@@ -95,7 +95,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="about.html"><strong aria-hidden="true">2.</strong> About</a></li><li class="chapter-item expanded "><a href="early_history.html"><strong aria-hidden="true">3.</strong> Early history</a></li><li class="chapter-item expanded "><a href="primary_sources.html"><strong aria-hidden="true">4.</strong> Primary sources</a></li><li class="chapter-item expanded "><a href="out_of_tree.html"><strong aria-hidden="true">5.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="source_code.html"><strong aria-hidden="true">6.</strong> Source code</a></li><li class="chapter-item expanded "><a href="hardware.html" class="active"><strong aria-hidden="true">7.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="orgs.html"><strong aria-hidden="true">8.</strong> Organizations</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="about.html" class="active"><strong aria-hidden="true">2.</strong> About</a></li><li class="chapter-item expanded "><a href="early_history.html"><strong aria-hidden="true">3.</strong> Early history</a></li><li class="chapter-item expanded "><a href="primary_sources.html"><strong aria-hidden="true">4.</strong> Primary sources</a></li><li class="chapter-item expanded "><a href="out_of_tree.html"><strong aria-hidden="true">5.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="source_code.html"><strong aria-hidden="true">6.</strong> Source code</a></li><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">7.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="orgs.html"><strong aria-hidden="true">8.</strong> Organizations</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -163,32 +163,37 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1><a class="header" href="#hardware" id="hardware">Hardware</a></h1>
-<p>Much of the original equipment that Unix originally ran on has been decomissioned, but some of the original systems are still in use, certainly where there were architectural successors (e.g., on the IBM S/370 line).</p>
-<ul>
-<li><a href="https://fms.komkon.org/comp/sys/DEC.html">DEC Computers</a></li>
-<li><a href="http://www.pdp11.org">pdp11</a></li>
-</ul>
-<h2><a class="header" href="#emulators" id="emulators">Emulators</a></h2>
-<p>Here are emulators for various systems that Unix was developed or used on.</p>
-<ul>
-<li><a href="http://simh.trailing-edge.com/">SimH emulator</a></li>
-<li><a href="http://www.avanthar.com/healyzh/decemulation/decemu.html">DEC Emulation</a></li>
-<li><a href="http://www.hercules-390.eu/">Hercules</a> (S/370, ESA/390 and z/Arch)</li>
-</ul>
+                        <h2><a class="header" href="#2020-briefing" id="2020-briefing">2020 Briefing</a></h2>
+<p>It has been 50 years since the 1970 epoch. The Unix epoch is a common baseline for global timekeeping found in many systems.</p>
+<p>Most only get a taste for monolithic IBM machines from media such as Stanley Kubrick's <code>2001: A Space Odyssey</code>, and many have not encountered the term &quot;mainframe&quot; in their entire life. A datacenter or any kind of cloud-connected resource is conceptually equivalent to the &quot;mainframe.&quot; In general, compute resources may be plenty, but need to be shared amongst many users. The solution to this problem turns out time and time again, to be Unix.</p>
+<p>Today, Unix is deployed <em>ubiquitously</em> around the world. All the major branches of Apple's iOS and MacOS, as well as Linux and Android are designed and integrated around the semantics of the unix system. This includes other operating systems derived of Unix such as Solaris (illumos), AIX and every BSD. BSD variants include FreeBSD and NetBSD which are used for example, in computers that do network routing.</p>
+<p>Terminal emulators are a thing. Some wonder what are terminals and why do we emulate them. Are these equivalent to a &quot;console&quot;? Technical jargon gets used a lot across the computing business, but this can often obscure meaning and create confusion. If you want to eliminate some of these doubts, continue reading.</p>
+<!--
+Note: as the audience changes, variant terms may need further substitutions.
+
+The style of this document should be as immutable as possible, and we can
+update the briefing as needed to suit the audience.
+-->
+<p>In short, this project exists to provide a best-effort attempt to aggregate information about Unix.</p>
+<h2><a class="header" href="#contributing" id="contributing">Contributing</a></h2>
+<p>This project is currently built as a basic set of markdown files at <a href="https://github.com/avindra/unix-info">Github</a> using <a href="https://github.com/rust-lang/mdBook">mdbook</a> and continuously deployed to Github Pages using Github Actions.</p>
+<p>Contributions are welcome and will be reviewed carefully.</p>
+<h2><a class="header" href="#about-the-author" id="about-the-author">About the author</a></h2>
+<p><a href="https://avindra.github.io/#/about">Avindra Goolcharan</a> was born in 1991, the year of the first public Linux kernel release. He has been using computers since around 1999, became a Linux user around 2006, and started computer programming in 2008.</p>
+<p>The author is by no means an authority on Unix information, but welcomes anyone to challenge incorrect information that he may learn something new.</p>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
                         
-                            <a rel="prev" href="source_code.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="intro.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
                         
 
                         
-                            <a rel="next" href="orgs.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next" href="early_history.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
                         
@@ -200,13 +205,13 @@
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
                 
-                    <a rel="prev" href="source_code.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="intro.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
                 
 
                 
-                    <a rel="next" href="orgs.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next" href="early_history.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
                 
