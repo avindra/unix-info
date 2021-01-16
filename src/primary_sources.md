@@ -3,7 +3,7 @@ Fortunately, there are many good primary sources of information about Unix avail
 
 
 * 1971: Unix Programmer's Manual
-  * by [Ken Thompson](http://cs.bell-labs.co/who/ken/) and Dennis Ritchie
+  * by [Ken Thompson](http://cs.bell-labs.co/who/ken/) and [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
   * [1st ed](http://man.cat-v.org/unix-1st/)
     - pipes and grep were not invented yet
     - [preserved on dmr/www](https://www.bell-labs.com/usr/dmr/www/1stEdman.html)
@@ -61,8 +61,6 @@ Fortunately, there are many good primary sources of information about Unix avail
 * 2004: [Languages, Levels, Libraries, and Longevity](https://dl.acm.org/ft_gateway.cfm?id=1039532&ftid=297456&dwn=1)
   * written by John Mashey
   * covers computer language development at Bell Labs
-* 2011: [/usr/dmr/www](https://www.bell-labs.com/usr/dmr/www/)
-  * Dennis Ritchie's website
 * 2019: [Unix 50](https://www.bell-labs.com/unix50), a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
   * [Unix Today and Tomorrow: The Languages](https://www.youtube.com/watch?v=EY6q5dv_B-o)
     - presentations by Brian Kernighan and Bjarne Stroustrup, followed by 3 Nokia Bell Labs staff members
