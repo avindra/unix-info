@@ -1,5 +1,5 @@
 
-Unix is where many things started, and we can learn a lot just by studying it. However, it is difficult to think about Unix without also considering various branches of it.
+Unix is where many things started, and there is much to be understood in a study of Unix alone. However, there were many developments outside the scope of, but closely related to Unix in some way.
 
 In particular, branches closer to the epoch (1970) are of great interest.
 
@@ -15,6 +15,10 @@ In particular, branches closer to the epoch (1970) are of great interest.
   * 2nd episode on UNIX, 4 years after the first
   * large segment on GUIs, one from Sun Microsystems and another from HP
   * some challenges are described,
+* 1991: [Linux](https://www.kernel.org/)
+  * Computer hacker Linus Torvalds realizes there's not a single kernel available anywhere that is any good
+  * Much to GNU's complement, Linux is a spiritual copy of the Unix kernel
+  * The "1.0" release was tagged later, in 1994.
 * 1992: [UTF-8](http://doc.cat-v.org/bell_labs/utf-8_history)
   * still the most widely used encoding scheme on the Internet (>90%)
   * [See full history from the 1989 ISO draft](https://en.wikipedia.org/wiki/UTF-8#History)
