@@ -16,7 +16,7 @@ Fortunately, there are many good primary sources of information about Unix avail
   * Transcribed to [HTML](https://danluu.com/mcilroy-unix/)
   * Featured in an August edition of [Bell System Technical Journal (BSTJ)](https://en.wikipedia.org/wiki/Bell_Labs_Technical_Journal).
 * 1981: [Computer Aids for Writers](https://archive.org/details/sigplan-sigoa-text-manipulation/page/n67/mode/2up) ([ACM](https://dl.acm.org/doi/abs/10.1145/872730.806455?originalServiceName=showPdf))
-  * by [Lorinda Cherry](https://www.princeton.edu/~hos/frs122/precis/cherry1.htm)
+  * by [Lorinda Cherry](http://www.princeton.edu/~hos/frs122/precis/cherry1.htm)
   * Transcribed to [HTML](https://www.mirbsd.org/htman/i386/manUSD/29.diction.htm), from a MirBSD man page on diction
 * 1984: [A Stream Input‐Output System](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1984.tb00071.x)
   * by Dennis Ritchie
