@@ -25,6 +25,8 @@ Contributions are welcome and will be reviewed carefully.
 
 ## About the author
 
-[Avindra Goolcharan](https://avindra.github.io/#/about) was born in 1991, the year of the first public Linux kernel release. He has been using computers since around 1999, became a Linux user around 2006, and started computer programming in 2008.
+[Avindra Goolcharan](https://avindra.github.io/#/about) was born in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. Around 1999, he started using desktop computers and used the Pentium 4 on Windows for many years.
 
-The author is by no means an authority on Unix information, but welcomes anyone to challenge incorrect information that he may learn something new.
+Since 2008, the author started writing computer programs and scripts. Avindra is still a linux user, and can be found submitting patches to the openSUSE linux distribution.
+
+The author is by no means an authority on Unix information, but welcomes anyone to challenge incorrect information so that he may learn something new.
