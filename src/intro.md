@@ -12,4 +12,5 @@ There are multiple ways to navigate this document:
 
  * Use the menu to select a topic
  * Use your left and right arrow keys 
- * Tap on the edges of the screen
+ * Mobile: use buttons below each page
+ * PC: use the edge panels labeled `<` and `>`

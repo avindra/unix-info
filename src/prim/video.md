@@ -20,5 +20,3 @@ The following are video productions featuring subjects whom are directly involve
     - presentations by Brian Kernighan and Bjarne Stroustrup, followed by 3 Nokia Bell Labs staff members
   * [The Origin of Unix](https://www.youtube.com/watch?v=l03CF9_078I)
     - panel with Brian Kernighan, Doug McIlroy, Peter Weinberger, Jon Bentley, and Stephen Johnson
-* 2019: [▶️ (~1h) Brian Kernighan interviews Ken Thompson at VCF East 2019](https://youtu.be/EY6q5dv_B-o?t=494)
-  * Video has two introductions

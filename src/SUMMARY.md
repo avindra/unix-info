@@ -20,6 +20,7 @@ References:
 - [Primary sources](./prim/README.md)
      - [Manuals](./prim/man.md)
      - [Video productions](./prim/video.md)
+     - [Interviews](./prim/interviews.md)
 - [Out-of-tree developments](./out_of_tree.md)
 - [Source code](./source_code.md)
 - [Hardware](./hardware.md)
