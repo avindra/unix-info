@@ -4,9 +4,9 @@ Much information about Unix is available through it's manuals. Some say that the
 
 * 1971: Unix Programmer's Manual
   * by [Ken Thompson](http://cs.bell-labs.co/who/ken/) and [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
-  * [1st ed](http://man.cat-v.org/unix-1st/)
+  * [1st ed (from /usr/dmr/www)](https://www.bell-labs.com/usr/dmr/www/1stEdman.html)
     - pipes and grep were not invented yet
-    - [preserved on dmr/www](https://www.bell-labs.com/usr/dmr/www/1stEdman.html)
+    - [rebuilt as HTML and hosted on 9p server](http://man.cat-v.org/unix-1st/)
   * [7th ed](https://www.livingcomputers.org/UI/UserDocs/Unix-v7-1/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.pdf)
     - Volume II, pulished 1983
     - PDF scan with cover art depicting U N I X on a set of blocks
