@@ -25,7 +25,7 @@ Contributions are welcome and will be reviewed carefully.
 
 ## About the author
 
-[Avindra Goolcharan](https://avindra.github.io/#/about) was born in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. Around 1999, he started using desktop computers and used the Pentium 4 on Windows for many years.
+[Avindra Goolcharan](https://sha.vin/#/about) was born in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. Around 1999, he started using desktop computers and used the Pentium 4 on Windows for many years.
 
 Since 2008, the author started writing computer programs and scripts. Avindra is still a linux user, and can be found submitting patches to the openSUSE linux distribution.
 
