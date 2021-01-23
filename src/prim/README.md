@@ -24,8 +24,6 @@ Fortunately, there are many good primary sources of information about Unix avail
 * 1984: [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html)
   * by Ken Thompson
   * Multi-stage compiler backdoor hack presented at acceptance of an ACM award
-* 1987: [UNIX System Readings and Applications Volume I](http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf)
-  * An official, 400-page dense compilation of many writings on Unix from Bell Labs
 * 1993: [The Development of the C Language](http://www.bell-labs.com/usr/dmr/www/chist.pdf)
   * by Dennis Ritchie, principal creator of C
 * 2003: [Unix: An Oral History](http://www.princeton.edu/~hos/frs122/unixhist/oralhistory.htm)
