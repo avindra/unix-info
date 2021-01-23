@@ -16,7 +16,7 @@ In particular, branches closer to the epoch (1970) are of great interest.
   * large segment on GUIs, one from Sun Microsystems and another from HP
   * some challenges are described,
 * 1991: [Linux](https://www.kernel.org/)
-  * Computer hacker Linus Torvalds realizes there's not a single kernel available anywhere that is any good
+  * Computer hacker Linus Torvalds realizes there's not a single free kernel available anywhere that is any good
   * Much to GNU's complement, Linux is a spiritual copy of the Unix kernel
   * Like Unix, it was initially designed on a much smaller computer (in this case Torvald's own i386 machine), before being ported to dozens of other systems, large and small
   * The "1.0" release was tagged later, in 1994.
