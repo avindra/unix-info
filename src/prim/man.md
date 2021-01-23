@@ -14,7 +14,7 @@ Much information about Unix is available through it's manuals. Some say that the
   * [read more about the early documentation history](https://en.wikipedia.org/wiki/Man_page#History)
 * 1978: [The C Programming Language](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
   * by Dennis Ritchie and Brian Kernighan
-  * [2nd edition (ANSI-C) published 1988](http://mef-lab.com/osnove-2016/C-Programming-Ebook.pdf)
+  * [2nd edition (ANSI-C) published 1988](https://archive.org/details/The_C_Programming_Language/mode/2up)
 * 1979: [The UNIX Programming Environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380090102)
   * by [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) and [John Mashey](https://twitter.com/johnmashey)
   * an expanded [1984 edition](https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up) was later published with [Rob Pike](https://twitter.com/rob_pike) as the co-author
