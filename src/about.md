@@ -6,7 +6,7 @@ Most only get a taste for monolithic IBM machines from media such as Stanley Kub
 
 Today, Unix is deployed <em>ubiquitously</em> around the world. All the major branches of Apple's iOS and MacOS, as well as Linux and Android are designed and integrated around the semantics of the unix system. This includes other operating systems derived of Unix such as Solaris (illumos), AIX and every BSD. BSD variants include FreeBSD and NetBSD which are used for example, in computers that do network routing.
 
-Terminal emulators are a thing. Some wonder what are terminals and why do we emulate them. Are these equivalent to a "console"? Technical jargon gets used a lot across the computing business, but this can often obscure meaning and create confusion. If you want to eliminate some of these doubts, continue reading.
+Terminal emulators are a thing. Some wonder what are terminals and why do we emulate them. Are these equivalent to a "console"? Technical jargon gets used a lot across the computing business, but this can often obscure meaning and create confusion.
 
 <!--
 Note: as the audience changes, variant terms may need further substitutions.
@@ -15,7 +15,7 @@ The style of this document should be as immutable as possible, and we can
 update the briefing as needed to suit the audience.
 -->
 
-In short, this project exists to provide a best-effort attempt to aggregate information about Unix.
+In short, this reference exists as a guide to present the subject in a clear manner that is well suited for study.
 
 ## Contributing
 
