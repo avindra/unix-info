@@ -25,7 +25,7 @@ Contributions are welcome and will be reviewed carefully.
 
 ## About the author
 
-[Avindra Goolcharan](https://sha.vin/#/about) was born in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. At the turn of the millennium, he started using desktop computers and used the Pentium 4 on Windows for many years.
+[Avindra Goolcharan](https://dra.vin/#/about) was born in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. At the turn of the millennium, he started using desktop computers and used the Pentium 4 on Windows for many years.
 
 In the early 2000s, Ubuntu emerged. At the time, Ubuntu physically delivered free CD-ROMs to users who needed them, which made it simultaneously practical, easy and affordable for people to adopt Linux, including Avindra. To him, the default Gnome interface was a breath of fresh air to the Mac and Windows systems that schools and businesses seem to prefer.
 
