@@ -40,3 +40,5 @@ Although not an easy feat, Unix enjoyed portability in its implementation using 
 
  * 2012: [Meet the Go Team](https://www.youtube.com/watch?v=sln-gJaURzk)
    * 1 hr open discussion between Ken Thompson, Rob Pike and various Go lang team members
+ * 2015: [The Go Programming Language](https://www.gopl.io/)
+   * [sample of Chapter 1](https://www.gopl.io/ch1.pdf)
