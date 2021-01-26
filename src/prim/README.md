@@ -17,7 +17,8 @@ Fortunately, there are many good primary sources of information about Unix avail
   * Transcribed to [HTML](https://www.mirbsd.org/htman/i386/manUSD/29.diction.htm), from a MirBSD man page on diction
 * 1984: [A Stream Input‐Output System](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1984.tb00071.x)
   * by Dennis Ritchie
-  * [.ps from dmr/www](http://www.bell-labs.com/usr/dmr/www/st.ps)
+  * [st.pdf](http://www.bell-labs.com/usr/dmr/www/st.pdf) (source [st.ps](http://www.bell-labs.com/usr/dmr/www/st.ps))
+  * Ideas about coroutines and IPC
 * 1984: [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html)
   * by Ken Thompson
   * Multi-stage compiler backdoor hack presented at acceptance of an ACM award

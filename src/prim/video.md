@@ -21,7 +21,5 @@ The following are video productions featuring subjects whom are directly involve
   * John Mashey, manager from Bell Labs video, has now moved on to [MIPS](https://en.wikipedia.org/wiki/MIPS_Technologies) (and 1 other venture).
   * Bill Joy, creator of Vi and a founder of Sun Microsystems is seen remarking on how standards commitees can end up slowing down development.
 * 2019: [Unix 50](https://www.bell-labs.com/unix50), a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
-  * [Unix Today and Tomorrow: The Languages](https://www.youtube.com/watch?v=EY6q5dv_B-o)
-    - presentations by Brian Kernighan and Bjarne Stroustrup, followed by 3 Nokia Bell Labs staff members
   * [The Origin of Unix](https://www.youtube.com/watch?v=l03CF9_078I)
     - panel with Brian Kernighan, Doug McIlroy, Peter Weinberger, Jon Bentley, and Stephen Johnson
