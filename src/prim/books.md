@@ -1,6 +1,6 @@
 # Unix books
 
-Books on Unix:
+Books on Unix that are not [manuals](./man.md).
 
 * 1987: [UNIX System Readings and Applications Volume I](http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf)
   * An official, 400-page dense compilation of many writings on Unix from Bell Labs

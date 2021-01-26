@@ -1,6 +1,8 @@
 ## Manuals
 
-Much information about Unix is available through it's manuals. Some say that the manual pages are the best place to learn about Unix.
+Much information about Unix is available through it's manuals.
+
+Some say that the manual pages are the best place to learn about Unix. Some prefer [other books](./books.md).
 
 * 1971: Unix Programmer's Manual
   * by [Ken Thompson](http://cs.bell-labs.co/who/ken/) and [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
@@ -12,9 +14,6 @@ Much information about Unix is available through it's manuals. Some say that the
     - PDF scan with cover art depicting U N I X on a set of blocks
   * [8th ed](http://man.cat-v.org/unix_8th/)
   * [read more about the early documentation history](https://en.wikipedia.org/wiki/Man_page#History)
-* 1978: [The C Programming Language](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
-  * by Dennis Ritchie and Brian Kernighan
-  * [2nd edition (ANSI-C) published 1988](https://archive.org/details/The_C_Programming_Language/mode/2up) ([mirror @issuu](https://issuu.com/chinna12kumar/docs/the_c_programming_language_ansi_c_version/9))
 * 1979: [The UNIX Programming Environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380090102)
   * by [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) and [John Mashey](https://twitter.com/johnmashey)
   * an expanded [1984 edition](https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up) was later published with [Rob Pike](https://twitter.com/rob_pike) as the co-author

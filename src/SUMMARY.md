@@ -15,14 +15,15 @@ Timeline:
 References:
 
 - [Introduction](./intro.md)
-- [About](./about.md)
+- [Source code](./source_code.md)
 - [Early history](./early_history.md)
 - [Primary sources](./prim/README.md)
      - [Manuals](./prim/man.md)
      - [Video productions](./prim/video.md)
+     - [Programming languages](./prim/languages.md)
      - [Books](./prim/books.md)
-     - [Interviews](./prim/interviews.md)
+     - [People](./prim/people.md)
 - [Out-of-tree developments](./out_of_tree.md)
-- [Source code](./source_code.md)
 - [Hardware](./hardware.md)
 - [Organizations](./orgs.md)
+- [About](./about.md)
