@@ -24,7 +24,9 @@ Although not an easy feat, Unix enjoyed portability in its implementation using 
 
 * 1976: [The Unix Command Language](https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf) ([more info](https://github.com/susam/tucl#combined-pdf))
   * by Ken Thompson
-  * [McIlroy's contribution](https://minnie.tuhs.org/pipermail/tuhs/2020-December/022535.html) was the syntax (` | `). The original syntax can be found in 1987's [A Research UNIX Reader](https://archive.org/details/a_research_unix_reader/page/n27/mode/2up).
+  * [view converted Markdown on GitHub](https://github.com/susam/tucl/blob/master/the-unix-command-language.md#the-unix-command-language)
+  * The syntax (` | `) was [contributed by Douglas McIlroy](https://minnie.tuhs.org/pipermail/tuhs/2020-December/022535.html).
+  * The original syntax can be found in 1987's [A Research UNIX Reader](https://archive.org/details/a_research_unix_reader/page/n27/mode/2up).
 
 ### C
 
