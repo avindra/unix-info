@@ -2,7 +2,7 @@
 
 It has been 50 years since the 1970 epoch. The Unix epoch is a common baseline for global timekeeping found in many systems.
 
-Most have only seen monolithic IBM machines in media such as Stanley Kubrick's `2001: A Space Odyssey`, and many have not encountered the term "mainframe" in their entire life. A datacenter or any kind of cloud-connected resource is conceptually equivalent to the "mainframe." In general, compute resources may be plenty, but need to be shared amongst many users. The solution to this problem turns out time and time again, to be Unix.
+Many have seen monolithic IBM machines in media such as Stanley Kubrick's `2001: A Space Odyssey`, but most have not encountered the term "mainframe" in their entire life. A datacenter or any kind of cloud-connected resource is conceptually equivalent to the "mainframe." In general, compute resources may be plenty, but need to be shared amongst many users. The solution to this problem turns out time and time again, to be Unix.
 
 Today, Unix is deployed <em>ubiquitously</em> around the world. All the major branches of Apple's iOS and MacOS, as well as Linux and Android are designed and integrated around the semantics of the unix system. This includes other operating systems derived of Unix such as Solaris (illumos), AIX and every BSD. BSD variants include FreeBSD and NetBSD which are used for example, in computers that do network routing.
 
