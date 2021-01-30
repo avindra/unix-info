@@ -26,4 +26,5 @@ References:
 - [Out-of-tree developments](./out_of_tree.md)
 - [Hardware](./hardware.md)
 - [Organizations](./orgs.md)
+- [Courses](./courses.md)
 - [About](./about.md)

@@ -1,7 +1,6 @@
 # Primary sources
 
-Fortunately, there are many good primary sources of information about Unix available freely online. Here are various technical papers and other writings about Unix from its creators:
-
+Here are various technical papers and other writings about Unix from its creators:
 
 * 1974: [The UNIX Time-Sharing System](https://dl.acm.org/doi/10.1145/361011.361061)
   * by Dennis M. Ritchie and Ken Thompson
@@ -22,5 +21,3 @@ Fortunately, there are many good primary sources of information about Unix avail
 * 1984: [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html)
   * by Ken Thompson
   * Multi-stage compiler backdoor hack presented at acceptance of an ACM award
-* 2003: [Unix: An Oral History](http://www.princeton.edu/~hos/frs122/unixhist/oralhistory.htm)
-  * collection of writings from a Princeton University course on the development, ethos, and other topics surrounding Unix
