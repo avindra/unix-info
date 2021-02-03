@@ -11,6 +11,5 @@ The Unix-style system solves problems not only on single-purpose devices, but on
 There are multiple ways to navigate this document:
 
  * Use the menu to select a topic
- * Use your left and right arrow keys 
- * Mobile: use buttons below each page
- * PC: use the edge panels labeled `<` and `>`
+ * Keyboard: use left and right arrow keys 
+ * PC/Mobile: use edge panels labeled `<` and `>`
