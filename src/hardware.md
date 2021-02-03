@@ -11,4 +11,7 @@ Here are emulators for various systems that Unix was developed or used on.
 
  * [SimH emulator](http://simh.trailing-edge.com/)
  * [DEC Emulation](http://www.avanthar.com/healyzh/decemulation/decemu.html)
- * [Hercules](http://www.hercules-390.eu/) (S/370, ESA/390 and z/Arch)
+ * [Hercules](http://www.hercules-390.eu/)
+   - S/370, ESA/390 and z/Arch
+ * [freebee](https://github.com/philpem/freebee)
+   - 1985 AT&T UNIX PC (3B1)
