@@ -2,6 +2,8 @@
 
 These are traditional academic courses available online on the subject of Unix.
 
+See [books](./prim/books.md) for some of the available texts.
+
 <!--
 
 Origin of jschauma course is not certain. It may be even older

@@ -29,7 +29,7 @@ Contributions are welcome and will be reviewed carefully.
 
 In the early 2000s, Ubuntu emerged. At the time, Ubuntu physically delivered free CD-ROMs to users who needed them, which made it simultaneously practical, easy and affordable for people to adopt Linux, including Avindra. To him, the default Gnome interface was a breath of fresh air to the Mac and Windows systems that schools and businesses seem to prefer.
 
-By 2008, the author started writing original computer programs and scripts. Around 2015, Avindra started using the openSUSE Linux distribution, and be found contributing patches as an openSUSE member.
+By 2008, the author started writing original computer programs and scripts. Around 2015, Avindra started using the openSUSE Linux distribution, and can be found contributing patches as an openSUSE member.
 
 ## About UNIX
 
