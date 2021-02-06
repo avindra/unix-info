@@ -1,8 +1,9 @@
 
-Unix was developed before modern SCMs such as Git came about, but it has since been [ported to Git](https://github.com/dspinellis/unix-history-repo/tree/master).
+Unix was developed before modern SCMs such as Git came about, but it has since been [ported to Git](https://github.com/dspinellis/unix-history-repo/tree/master), thanks to an effort led by [Diomidis Spinellis](https://www.spinellis.gr/index.html.var).
 
  * [Build tree](https://github.com/dspinellis/unix-history-make#unix-history-repository) to see how the repos are generated
  * Branches correspond to various versions/releases of Unix
+ * See [Dr. Spinellis's paper for more background](https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html)
 
 ## Visualization
 

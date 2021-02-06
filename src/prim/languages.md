@@ -13,6 +13,8 @@ Although not an easy feat, Unix enjoyed portability in its implementation using 
  * 2004: [Languages, Levels, Libraries, and Longevity](https://dl.acm.org/ft_gateway.cfm?id=1039532&ftid=297456&dwn=1)
    * written by John Mashey
    * covers computer language development at Bell Labs
+ * 2015: [Successful Language Design](https://www.youtube.com/watch?v=Sg4U4r_AgJU)
+   * by Brian Kernighan
  * 2017: [Elements of Programming Style](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
    * by Brian Kernighan
    * a 1hr+ presentation covering topics presented in the book
@@ -42,3 +44,8 @@ Although not an easy feat, Unix enjoyed portability in its implementation using 
    * 1 hr open discussion between Ken Thompson, Rob Pike and various Go lang team members
  * 2015: [The Go Programming Language](https://www.gopl.io/)
    * [sample of Chapter 1](https://www.gopl.io/ch1.pdf)
+
+### Regular expressions
+
+ * 2007: [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
+   * by [Russ Cox](https://swtch.com/~rsc/)

@@ -2,6 +2,9 @@
 
 Books on Unix that are not [manuals](./man.md).
 
+* 1986: [The Design of the Unix Operating System](https://archive.org/details/DesignOfTheUnixOperatingSystemByMauriceBach/page/n7/mode/2up) ([30MB PDF](http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf))
+  * by Maurice Bach
+  * This was the textbook used in a University course of which Linus Torvalds was a student.
 * 1987: [UNIX System Readings and Applications Volume I](http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf)
   * An official, 400-page dense compilation of many writings on Unix from Bell Labs
 * 1989: [Life with Unix: _A Guide for Everyone_](ftp://ftp.tuhs.org.ua/Documentation/Books/Life_with_Unix_v2.pdf)
