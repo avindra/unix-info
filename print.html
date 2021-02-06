@@ -176,11 +176,8 @@
 <li>Keyboard: use left and right arrow keys </li>
 <li>PC/Mobile: use edge panels labeled <code>&lt;</code> and <code>&gt;</code></li>
 </ul>
-<p>Unix was developed before modern SCMs such as Git came about, but it has since been <a href="https://github.com/dspinellis/unix-history-repo/tree/master">ported to Git</a>.</p>
-<ul>
-<li><a href="https://github.com/dspinellis/unix-history-make#unix-history-repository">Build tree</a> to see how the repos are generated</li>
-<li>Branches correspond to various versions/releases of Unix</li>
-</ul>
+<p>Unix was developed before modern SCMs such as Git came about, but it has since been <a href="https://github.com/dspinellis/unix-history-repo/tree/master">ported to Git</a>, thanks to an effort led by <a href="https://www.spinellis.gr/index.html.var">Diomidis Spinellis</a>.</p>
+<p>If you want to know more about the project and the archaeological effort to recreate Unix in git, see <a href="https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html">Dr. Spinellis's 2016 document &quot;A Repository of Unix History and Evolution&quot;</a></p>
 <h2><a class="header" href="#visualization" id="visualization">Visualization</a></h2>
 <p>Here is a run of the synthesized Unix repo through <a href="https://gource.io/">Gource</a>, which helps us to imagine what the development of Unix might have looked like. The following run captures only the history from 1974 - 1985.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iX-A7-n7g5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -353,6 +350,11 @@
 <li>covers computer language development at Bell Labs</li>
 </ul>
 </li>
+<li>2015: <a href="https://www.youtube.com/watch?v=Sg4U4r_AgJU">Successful Language Design</a>
+<ul>
+<li>by Brian Kernighan</li>
+</ul>
+</li>
 <li>2017: <a href="https://www.youtube.com/watch?v=8SUkrR7ZfTA">Elements of Programming Style</a>
 <ul>
 <li>by Brian Kernighan</li>
@@ -407,9 +409,24 @@
 </ul>
 </li>
 </ul>
+<h3><a class="header" href="#regular-expressions" id="regular-expressions">Regular expressions</a></h3>
+<ul>
+<li>2007: <a href="https://swtch.com/%7Ersc/regexp/">Implementing Regular Expressions</a>
+<ul>
+<li>by <a href="https://swtch.com/%7Ersc/">Russ Cox</a></li>
+</ul>
+</li>
+</ul>
 <h1><a class="header" href="#unix-books" id="unix-books">Unix books</a></h1>
 <p>Books on Unix that are not <a href="prim/./man.html">manuals</a>.</p>
+<p>Some <a href="prim/./../courses.html">courses</a> are available that use these book(s).</p>
 <ul>
+<li>1986: <a href="https://archive.org/details/DesignOfTheUnixOperatingSystemByMauriceBach/page/n7/mode/2up">The Design of the Unix Operating System</a> (<a href="http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf">30MB PDF</a>)
+<ul>
+<li>by <a href="https://dblp.org/pid/26/368.html">Maurice Bach</a></li>
+<li>This was the textbook used in a University course of which Linus Torvalds was a student.</li>
+</ul>
+</li>
 <li>1987: <a href="http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf">UNIX System Readings and Applications Volume I</a>
 <ul>
 <li>An official, 400-page dense compilation of many writings on Unix from Bell Labs</li>
@@ -486,7 +503,8 @@
 <li>1995: <a href="https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf">Plan 9 from Bell Labs</a></li>
 </ul>
 <h1><a class="header" href="#hardware" id="hardware">Hardware</a></h1>
-<p>Much of the original equipment that Unix originally ran on has been decomissioned, but some of the original systems are still in use, certainly where there were architectural successors (e.g., on the IBM S/370 line).</p>
+<p>Much of the original equipment that Unix originally ran on has been decomissioned.</p>
+<p>Some of the original systems are still in use, especially in cases where architectural successors exist (e.g., on the IBM S/370 line).</p>
 <ul>
 <li><a href="https://fms.komkon.org/comp/sys/DEC.html">DEC Computers</a></li>
 <li><a href="http://www.pdp11.org">pdp11</a></li>
@@ -532,6 +550,7 @@
 </ul>
 <h2><a class="header" href="#courses" id="courses">Courses</a></h2>
 <p>These are traditional academic courses available online on the subject of Unix.</p>
+<p>See <a href="./prim/books.html">books</a> for some of the available texts.</p>
 <!--
 
 Origin of jschauma course is not certain. It may be even older
@@ -590,7 +609,7 @@ update the briefing as needed to suit the audience.
 <h2><a class="header" href="#about-the-compiler" id="about-the-compiler">About the compiler</a></h2>
 <p><a href="https://dra.vin/#/about">Avindra Goolcharan</a> was created in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. Before the turn of the millennium, the family got a computer for the first time. It ran Microsoft Windows 98 SE, and was later upgraded to Windows XP and a Pentium 4 chip.</p>
 <p>In the early 2000s, Ubuntu emerged. At the time, Ubuntu physically delivered free CD-ROMs to users who needed them, which made it simultaneously practical, easy and affordable for people to adopt Linux, including Avindra. To him, the default Gnome interface was a breath of fresh air to the Mac and Windows systems that schools and businesses seem to prefer.</p>
-<p>By 2008, the author started writing original computer programs and scripts. Around 2015, Avindra started using the openSUSE Linux distribution, and be found contributing patches as an openSUSE member.</p>
+<p>By 2008, the author started writing original computer programs and scripts. Around 2015, Avindra started using the openSUSE Linux distribution, and can be found contributing patches as an openSUSE member.</p>
 <h2><a class="header" href="#about-unix" id="about-unix">About UNIX</a></h2>
 <p>UNIX is a registered trademark of The Open Group</p>
 <p><a href="http://www.unix.org/trademark.html">http://www.unix.org/trademark.html</a></p>
