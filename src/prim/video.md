@@ -17,6 +17,8 @@ The following are video productions featuring subjects whom are directly involve
     * [Nina Macdonald](https://www.ninamacdonald.com/resume.htm) is seen explaining Writer's Workbench
     * Catherine Ann Brooks explains the filesystem and the distinction of formatless files
     * Dennis Ritchie also explains formatless files
+* 1983: [Systems Architecture, Design, Engineering, and Verification](https://www.youtube.com/watch?v=dsMKJKTOte0)
+  * Panel: Fernando J. Corbato, E. Allen Emerson, Joseph Sifakis, Ken Thompson
 * 1985: 📼 [_The Computer Chronicles: UNIX_](https://archive.org/details/UNIX1985) ([YouTube](https://www.youtube.com/watch?v=0DdoGPav3fc))
   * John Mashey, manager from Bell Labs video, has now moved on to [MIPS](https://en.wikipedia.org/wiki/MIPS_Technologies) (and 1 other venture).
   * Bill Joy, creator of Vi and a founder of Sun Microsystems is seen remarking on how standards commitees can end up slowing down development.

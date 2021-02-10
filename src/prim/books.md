@@ -16,6 +16,9 @@ Some [courses](./../courses.md) are available that use these book(s).
 * 1992: [Advanced Programming in the UNIX Environment](http://www.apuebook.com/)
   * [2005: 2nd edition](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.2318&rep=rep1&type=pdf)
   * [Course available that uses this textboook](./../courses.md)
+* 1996: [The UNIX-HATERS Handbook](https://web.mit.edu/~simsong/www/ugh.pdf)
+  * criticism/parody of Unix
+  * contains an anti-foreword from Dennis Ritchie
 * 2003: [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/)
   * by [Eric Steven Raymond](http://catb.org/~esr/)
   * Eric is better known for `The Cathedral and the Bazaar` (catb)
