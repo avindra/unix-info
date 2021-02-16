@@ -1,6 +1,6 @@
 # Introduction
 
-[![Image of Ken Thompson and Dennis Ritchie at work in 1972. Before them, a DEC PDP-11, with a Teletype Model 33 attached](http://cm.bell-labs.co/who/dmr/ken-and-den.jpg)](http://cm.bell-labs.co/who/dmr/picture.html)
+[![Image of Ken Thompson and Dennis Ritchie at work in 1972. Before them, a DEC PDP-11, with a Teletype Model 33 attached](https://www.bell-labs.com/usr/dmr/www/ken-and-den.jpg)](https://www.bell-labs.com/usr/dmr/www/picture.html)
 
 `Unix` is a system created somewhere in the 60s when a solution for [timesharing](https://en.wikipedia.org/wiki/Time-sharing) became an increasing demand for mainframe machines. It was not uncommon to see ungainly computers that so often completely filled up rooms. They were expensive to build and perhaps even more expensive to maintain. So early on, engineers got to work on solving scheduling algorithms for general compute tasks.
 
