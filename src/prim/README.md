@@ -7,6 +7,7 @@ Here are various technical papers and other writings about Unix from its creator
 * 1974: [The UNIX Time-Sharing System](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.595&rep=rep1&type=pdf) ([ACM](https://dl.acm.org/doi/10.1145/361011.361061)) ([mirror](http://www.tom-yam.or.jp/2238/ref/unix.pdf))
   * by Dennis M. Ritchie and Ken Thompson
   * [Annotated and transcribed PDF](https://people.eecs.berkeley.edu/~brewer/cs262/UNIX-annotated.pdf)
+    * [No annotations](https://dsf.berkeley.edu/cs262/unix.pdf)
   * The text [is embedded in a 6th ed manual (1975)](https://archive.org/details/v6-manual/page/n307/mode/2up)
   * Republished in [Apr 1978 revision](https://ieeexplore.ieee.org/document/6770404)
   * 2nd revision transcribed to [HTML](https://cseweb.ucsd.edu/~ricko/CSE80/Unix_TimeSharing_System_cacm.html)
@@ -18,6 +19,8 @@ Here are various technical papers and other writings about Unix from its creator
   * by [Douglas McIlroy](https://www.cs.dartmouth.edu/~doug/), [Berk Tague](http://doc.cat-v.org/unix/oral-history/precis/tague.htm) and [Elliot N. Pinson](https://dl.acm.org/profile/81385595755)
   * Transcribed to [HTML](https://danluu.com/mcilroy-unix/)
   * Featured in an August edition of [Bell System Technical Journal (BSTJ)](https://en.wikipedia.org/wiki/Bell_Labs_Technical_Journal).
+* 1978: [On the Security of UNIX](http://www.tom-yam.or.jp/2238/ref/secur.pdf) ([html](https://www.mirbsd.org/htman/i386/manSMM/16.security.htm))
+  * by Dennis Ritchie
 * 1979: [The Unix I/O System](http://www.tom-yam.or.jp/2238/ref/iosys.pdf) ([source code](https://9p.io/7thEdMan/vol2/iosys))
   * by Dennis Ritchie
   * a description of the v7 system
