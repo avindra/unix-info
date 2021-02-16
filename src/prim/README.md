@@ -4,8 +4,10 @@ Here are various technical papers and other writings about Unix from its creator
 
 * 1964: [Internal memo from Doug McIlroy](https://www.bell-labs.com/usr/dmr/www/mdmpipe.pdf)
    * [Dennis Ritchie's remarks](https://www.bell-labs.com/usr/dmr/www/mdmpipe.html)
+* [1971](https://minnie.tuhs.org/pipermail/tuhs/2015-November/007700.html): [Draft: The UNIX Time-Sharing System](https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/UnixEditionZero-Threshold_OCR.pdf)
+  * by Dennis Ritchie
 * 1974: [The UNIX Time-Sharing System](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.595&rep=rep1&type=pdf) ([ACM](https://dl.acm.org/doi/10.1145/361011.361061)) ([mirror](http://www.tom-yam.or.jp/2238/ref/unix.pdf))
-  * by Dennis M. Ritchie and Ken Thompson
+  * by Dennis Ritchie and Ken Thompson
   * [Annotated and transcribed PDF](https://people.eecs.berkeley.edu/~brewer/cs262/UNIX-annotated.pdf)
     * [No annotations](https://dsf.berkeley.edu/cs262/unix.pdf)
   * The text [is embedded in a 6th ed manual (1975)](https://archive.org/details/v6-manual/page/n307/mode/2up)
