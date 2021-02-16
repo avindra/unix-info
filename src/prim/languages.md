@@ -33,6 +33,8 @@ Although not an easy feat, Unix enjoyed portability in its implementation using 
   * by [Stephen Richard Bourne](https://dl.acm.org/profile/81100584611)
 * 2015: [Early days of Unix and design of sh](https://www.youtube.com/watch?v=FI_bZhV7wpI)
   * by S.R. Bourne
+  * 1hr presentation with open audience participation
+  * [Slides](https://www.nycbug.org/event/10636/NYCBug.20151119.srb.pdf) ([mirror](http://technodocbox.com/C_and_CPP/73058128-Early-days-of-unix-and-design-of-sh-stephen-r-bourne-rally-ventures-and-acm-queue-eic-bsdcan-ottawa-june-12-2015.html))
 
 ### C
 
