@@ -29,6 +29,10 @@ Although not an easy feat, Unix enjoyed portability in its implementation using 
   * [view converted Markdown on GitHub](https://github.com/susam/tucl/blob/master/the-unix-command-language.md#the-unix-command-language)
   * The syntax (` | `) was [contributed by Douglas McIlroy](https://minnie.tuhs.org/pipermail/tuhs/2020-December/022535.html).
   * The original syntax can be found in 1987's [A Research UNIX Reader](https://archive.org/details/a_research_unix_reader/page/n27/mode/2up).
+* 1978: [The UNIX Shell](https://archive.org/details/bstj57-6-1971/mode/2up) ([html](https://becksteinlab.physics.asu.edu/pages/unix/shell.html))
+  * by [Stephen Richard Bourne](https://dl.acm.org/profile/81100584611)
+* 2015: [Early days of Unix and design of sh](https://www.youtube.com/watch?v=FI_bZhV7wpI)
+  * by S.R. Bourne
 
 ### C
 
