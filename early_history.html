@@ -95,7 +95,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="source_code.html"><strong aria-hidden="true">2.</strong> Source code</a></li><li class="chapter-item expanded "><a href="early_history.html" class="active"><strong aria-hidden="true">3.</strong> Early history</a></li><li class="chapter-item expanded "><a href="prim/index.html"><strong aria-hidden="true">4.</strong> Primary sources</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="prim/man.html"><strong aria-hidden="true">4.1.</strong> Manuals</a></li><li class="chapter-item expanded "><a href="prim/video.html"><strong aria-hidden="true">4.2.</strong> Video productions</a></li><li class="chapter-item expanded "><a href="prim/books.html"><strong aria-hidden="true">4.3.</strong> Books</a></li><li class="chapter-item expanded "><a href="prim/people.html"><strong aria-hidden="true">4.4.</strong> People</a></li></ol></li><li class="chapter-item expanded "><a href="lang/index.html"><strong aria-hidden="true">5.</strong> Programming languages</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="lang/C.html"><strong aria-hidden="true">5.1.</strong> C</a></li><li class="chapter-item expanded "><a href="lang/shell.html"><strong aria-hidden="true">5.2.</strong> Shell</a></li><li class="chapter-item expanded "><a href="lang/awk.html"><strong aria-hidden="true">5.3.</strong> AWK</a></li><li class="chapter-item expanded "><a href="lang/regex.html"><strong aria-hidden="true">5.4.</strong> Regular expressions</a></li><li class="chapter-item expanded "><a href="lang/go.html"><strong aria-hidden="true">5.5.</strong> Go</a></li></ol></li><li class="chapter-item expanded "><a href="out_of_tree.html"><strong aria-hidden="true">6.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">7.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="orgs.html"><strong aria-hidden="true">8.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="courses.html"><strong aria-hidden="true">9.</strong> Courses</a></li><li class="chapter-item expanded "><a href="about.html"><strong aria-hidden="true">10.</strong> About</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="source_code.html"><strong aria-hidden="true">2.</strong> Source code</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="code/pdp7.html"><strong aria-hidden="true">2.1.</strong> PDP-7 UNIX</a></li></ol></li><li class="chapter-item expanded "><a href="early_history.html" class="active"><strong aria-hidden="true">3.</strong> Early history</a></li><li class="chapter-item expanded "><a href="prim/index.html"><strong aria-hidden="true">4.</strong> Primary sources</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="prim/man.html"><strong aria-hidden="true">4.1.</strong> Manuals</a></li><li class="chapter-item expanded "><a href="prim/video.html"><strong aria-hidden="true">4.2.</strong> Video productions</a></li><li class="chapter-item expanded "><a href="prim/books.html"><strong aria-hidden="true">4.3.</strong> Books</a></li><li class="chapter-item expanded "><a href="prim/people.html"><strong aria-hidden="true">4.4.</strong> People</a></li></ol></li><li class="chapter-item expanded "><a href="lang/index.html"><strong aria-hidden="true">5.</strong> Programming languages</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="lang/C.html"><strong aria-hidden="true">5.1.</strong> C</a></li><li class="chapter-item expanded "><a href="lang/shell.html"><strong aria-hidden="true">5.2.</strong> Shell</a></li><li class="chapter-item expanded "><a href="lang/awk.html"><strong aria-hidden="true">5.3.</strong> AWK</a></li><li class="chapter-item expanded "><a href="lang/regex.html"><strong aria-hidden="true">5.4.</strong> Regular expressions</a></li><li class="chapter-item expanded "><a href="lang/go.html"><strong aria-hidden="true">5.5.</strong> Go</a></li></ol></li><li class="chapter-item expanded "><a href="out_of_tree.html"><strong aria-hidden="true">6.</strong> Out-of-tree developments</a></li><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">7.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="orgs.html"><strong aria-hidden="true">8.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="courses.html"><strong aria-hidden="true">9.</strong> Courses</a></li><li class="chapter-item expanded "><a href="about.html"><strong aria-hidden="true">10.</strong> About</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -164,14 +164,14 @@
                 <div id="content" class="content">
                     <main>
                         <h2><a class="header" href="#early-history" id="early-history">Early history</a></h2>
-<p>To gain a deeper understanding, it helps to understand the context Unix was developed within.</p>
-<p>Note that objects before 1970 are pre-Unix and might be considered prior art:</p>
+<p>Here are operating systems prior to 1970. Naturally, these are all predecessors of UNIX:</p>
 <ul>
-<li>1961: <a href="https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System">CTSS</a>, an early timesharing system from MIT
+<li>1961: <a href="https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System">Compatible Time-Sharing System (CTSS)</a>, an early timesharing system from MIT
 <ul>
 <li>first presented in 1962</li>
 </ul>
 </li>
+<li>1967: <a href="https://github.com/PDP-10/its">Incompatible Timesharing System (ITS)</a></li>
 <li>1969: <a href="https://www.multicians.org/general.html">Multics</a>
 <ul>
 <li>Ken and Dennis were both Multics programmers</li>
@@ -185,12 +185,6 @@
 </ul>
 </li>
 <li>1973: (<a href="https://www.youtube.com/watch?v=V9aVOIuKVUc">YouTube</a>) <a href="https://techchannel.att.com/playvideo/2012/11/28/AT&amp;T-Archives-Holmdel-Computer-Center-Part-2">The Holmdel Computer Center, Part 2: Programmer Services</a></li>
-<li>2001: <a href="https://9p.io/who/dmr/spacetravel.html">Space Travel: Exploring the solar system and the PDP-7</a>
-<ul>
-<li>by Dennis Ritchie</li>
-<li>a retrospective on the origins of Unix</li>
-</ul>
-</li>
 </ul>
 
                     </main>
@@ -198,7 +192,7 @@
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
                         
-                            <a rel="prev" href="source_code.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="code/pdp7.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
                         
@@ -216,7 +210,7 @@
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
                 
-                    <a rel="prev" href="source_code.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="code/pdp7.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
                 
