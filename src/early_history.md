@@ -9,7 +9,3 @@ Here are operating systems prior to 1970. Naturally, these are all predecessors 
 * 1969: [Multics](https://www.multicians.org/general.html)
   * Ken and Dennis were both Multics programmers
   * Considered by some to be too cumbersome and derivate of CTSS to be useful
-* 1973: ([YouTube](https://www.youtube.com/watch?v=HMYiktO0D64)) [The Holmdel Computer Center, Part 1](https://techchannel.att.com/playvideo/2012/11/28/AT&T-Archives-Holmdel-Computer-Center-Part-1)
-  * Computations as a printout on sheet(s) of paper are placed into the user's bin by an attendant
-  * [S/370](https://en.wikipedia.org/wiki/IBM_System/370) (later replaced by [S390](https://en.wikipedia.org/wiki/IBM_System/390)) was the main timesharing computer
-* 1973: ([YouTube](https://www.youtube.com/watch?v=V9aVOIuKVUc)) [The Holmdel Computer Center, Part 2: Programmer Services](https://techchannel.att.com/playvideo/2012/11/28/AT&T-Archives-Holmdel-Computer-Center-Part-2)
