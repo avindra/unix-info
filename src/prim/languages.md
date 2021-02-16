@@ -32,6 +32,8 @@ Although not an easy feat, Unix enjoyed portability in its implementation using 
 
 ### C
 
+ * 1974: [Programming in C: A Tutorial](https://www.bell-labs.com/usr/dmr/www/ctut.pdf) ([html](https://www.lysator.liu.se/c/bwk-tutor.html))
+   * by Brian Kernighan
  * 1978: [The C Programming Language](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
    * by Dennis Ritchie and Brian Kernighan
    * [2nd edition (ANSI-C) published 1988](https://archive.org/details/The_C_Programming_Language/mode/2up) ([mirror @issuu](https://issuu.com/chinna12kumar/docs/the_c_programming_language_ansi_c_version/9))
