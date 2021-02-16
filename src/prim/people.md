@@ -6,7 +6,6 @@ A good place to start is the `A Research UNIX Reader: Annotated Excerpts from th
 
 [https://www.cs.dartmouth.edu/~doug/reader.pdf](https://www.cs.dartmouth.edu/~doug/reader.pdf)
 
-Another place to check is the [source](./../source_code.md), which has annotations for known code contributions.
 
 # Interviews
 
@@ -19,3 +18,8 @@ These are interviews with people who worked on Unix, speaking about Unix or the 
 
  * 2001: [Ken, Unix and Games](https://9p.io/cm/cs/who/dmr/ken-games.html)
    * by Dennis Ritchie
+
+# See also
+
+ * [People at the TUHS Wiki](https://wiki.tuhs.org/doku.php?id=people:start)
+ * [Source code](./../source_code.md), which has annotations for known code contributions.
