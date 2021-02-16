@@ -26,6 +26,7 @@ References:
      - [C](./lang/C.md)
      - [Shell](./lang/shell.md)
      - [AWK](./lang/awk.md)
+     - [Regular expressions](./lang/regex.md)
      - [Go](./lang/go.md)
 - [Out-of-tree developments](./out_of_tree.md)
 - [Hardware](./hardware.md)

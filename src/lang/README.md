@@ -26,7 +26,3 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 2019: [Unix 50](https://www.bell-labs.com/unix50), a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
    * [Unix Today and Tomorrow: The Languages](https://www.youtube.com/watch?v=xnCgoEyz31M)
      - presentations by Brian Kernighan and Bjarne Stroustrup, followed by 3 Nokia Bell Labs staff members, the latter 2 being largely unrelated
-### Regular expressions
-
- * 2007: [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
-   * by [Russ Cox](https://swtch.com/~rsc/)
