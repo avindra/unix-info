@@ -209,7 +209,7 @@
 <li>1969: <a href="https://www.multicians.org/general.html">Multics</a>
 <ul>
 <li>Ken and Dennis were both Multics programmers</li>
-<li>Considered by some to be too cumbersome and derivate of CTSS to be useful</li>
+<li>Considered by some UNIX authors to be too derivative of CTSS and cumbersome to be useful</li>
 </ul>
 </li>
 </ul>
@@ -294,8 +294,7 @@
 </li>
 </ul>
 <h2><a class="header" href="#manuals" id="manuals">Manuals</a></h2>
-<p>Much information about Unix is available through it's manuals.</p>
-<p>Some say that the manual pages are the best place to learn about Unix. Some prefer <a href="prim/./books.html">other books</a>.</p>
+<p>Much information about Unix is available through it's manuals. The manuals are sometimes included with the operating system. <a href="prim/./books.html">Other books</a> on the subject are available.</p>
 <ul>
 <li>1971: Unix Programmer's Manual
 <ul>
@@ -397,11 +396,12 @@
 <li>An official, 400-page dense compilation of many writings on Unix from Bell Labs</li>
 </ul>
 </li>
-<li>1989: <a href="ftp://ftp.tuhs.org.ua/Documentation/Books/Life_with_Unix_v2.pdf">Life with Unix: <em>A Guide for Everyone</em></a>
+<li>1989: <a href="https://www.tuhs.org/Archive/Documentation/Books/Life_with_Unix_v2.pdf">Life with Unix: <em>A Guide for Everyone</em></a>
 <ul>
 <li>by <a href="https://www.nist.gov/el/systems-integration-division-73400/don-libes-publications-list">Don Libes</a> and <a href="https://math.nist.gov/%7ESRessler">Sandy Ressler</a></li>
 <li>Loaded with references and information.</li>
 <li>A certifiable trove of Unix information.</li>
+<li><a href="https://www.tuhs.org/Archive/Documentation/Books/Readme">Donated by the author to TUHS Archive</a></li>
 </ul>
 </li>
 <li>1992: <a href="http://www.apuebook.com/">Advanced Programming in the UNIX Environment</a>
@@ -447,8 +447,8 @@
 <li><a href="prim/./../source_code.html">Source code</a>, which has annotations for known code contributions.</li>
 </ul>
 <h2><a class="header" href="#programming-languages" id="programming-languages">Programming languages</a></h2>
-<p>UNIX featured use of multiple high-level programming languages. As development went on, more of the code was written in a high level programming language over time. This can be observered in the <a href="lang/./../source_code.html">source code video</a>.</p>
-<p>Although not an easy feat, UNIX eventually enjoyed portability in its implementation using mostly high level languages. Namely, <a href="lang/./C.html">the C programming language</a> was used to implement most of Unix and it's various utilities, rather than an assembler language.</p>
+<p>UNIX featured use of multiple high-level programming languages. As development went on, more of the code was written in a high level programming language over time. This can be observed in the <a href="lang/./../source_code.html">source code video</a>.</p>
+<p>Although not an easy feat, UNIX eventually enjoyed portability in its implementation using mostly high level languages. Namely, <a href="lang/./C.html">the C programming language</a> was eventually used to implement most of UNIX and it's various utilities, rather than an assembler language.</p>
 <p>All UNIX users will encounter a <a href="lang/./shell.html">shell</a> language, as it is typically the main interface to the OS.</p>
 <h3><a class="header" href="#general" id="general">General</a></h3>
 <p>The code samples from Kernighan's talks tend to use <a href="lang/./C.html">C</a> and <a href="lang/./awk.html">AWK</a>.</p>
@@ -492,8 +492,8 @@
 </li>
 </ul>
 <h3><a class="header" href="#c" id="c">C</a></h3>
-<p>C is a programming language that succeeded B. It was the primary language used in Unix systems since the epoch.</p>
-<p>Today, programmers use languages like C++, Rust and Go in addition to C. C still enjoys use on modern UNIX systems and in embedded settings.</p>
+<p>C is a programming language that was the primary language used in UNIX systems since the epoch.</p>
+<p>Today, programmers use languages like C++, Rust and <a href="lang/./go.html">Go</a> in addition to C. C still enjoys use on modern UNIX systems and in embedded settings.</p>
 <ul>
 <li>1974: <a href="https://www.bell-labs.com/usr/dmr/www/ctut.pdf">Programming in C: A Tutorial</a> (<a href="https://www.lysator.liu.se/c/bwk-tutor.html">html</a>)
 <ul>
@@ -561,7 +561,7 @@
 </li>
 </ul>
 <h3><a class="header" href="#awk" id="awk">AWK</a></h3>
-<p><code>awk</code> is a line-by-line processing programming language with constructs for pattern matching, regular expressions and common processing idioms.</p>
+<p><code>awk</code> is a line-by-line processing programming language with constructs for pattern matching, <a href="lang/./regex.html">regular expressions</a> and common processing idioms.</p>
 <ul>
 <li>1978: <a href="https://people.eecs.berkeley.edu/%7Eclancy/sp.unix.stuff/awk">Awk—A Pattern Scanning and Processing Language</a>
 <ul>
@@ -579,7 +579,7 @@
 </li>
 </ul>
 <h3><a class="header" href="#regular-expressions" id="regular-expressions">Regular expressions</a></h3>
-<p>Regular expressions can be viewed a limited kind of programming language. It is often used for pattern matching and text replacement.</p>
+<p>Regular expressions can be viewed a limited kind of programming language. They are often used for pattern matching, text replacement and general text transformation tasks.</p>
 <p>Regular expression engines tend to be very bespoke and non-portable. Throughout the history of UNIX, a shared library for regular expressions remained elusive.</p>
 <p>Nevertheless, regular expressions are implemented in multiple programming languages and various tools. Sometimes, this leads to inconsistencies, which are well documented in the sources below.</p>
 <ul>
@@ -770,7 +770,8 @@ Note: as the audience changes, variant terms may need further substitutions.
 The style of this document should be as immutable as possible, and we can
 update the briefing as needed to suit the audience.
 -->
-<p>In short, this reference exists as a guide to present the subject in a clear manner that is well suited for study. A lot of ground work was  also done by The Unix Heritage Society. Be sure to <a href="https://wiki.tuhs.org/doku.php">see the TUHS Wiki</a>.</p>
+<p>In short, this reference exists as a guide to present the subject in a clear manner that is well suited for study.</p>
+<p>A lot of ground work was also done by The Unix Heritage Society, and this document refers to many of its resources. Be sure to <a href="https://wiki.tuhs.org/doku.php">see the TUHS Wiki</a> for more information.</p>
 <h2><a class="header" href="#contributing" id="contributing">Contributing</a></h2>
 <p>This project is currently built as a basic set of markdown files at <a href="https://github.com/avindra/unix-info">Github</a> using <a href="https://github.com/rust-lang/mdBook">mdbook</a> and continuously deployed to Github Pages using Github Actions.</p>
 <p>Contributions are welcome and will be reviewed carefully.</p>
