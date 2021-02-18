@@ -1,8 +1,8 @@
 ### C
 
-C is a programming language that succeeded B. It was the primary language used in Unix systems since the epoch.
+C is a programming language that was the primary language used in UNIX systems since the epoch.
 
-Today, programmers use languages like C++, Rust and Go in addition to C. C still enjoys use on modern UNIX systems and in embedded settings.
+Today, programmers use languages like C++, Rust and [Go](./go.md) in addition to C. C still enjoys use on modern UNIX systems and in embedded settings.
 
  * 1974: [Programming in C: A Tutorial](https://www.bell-labs.com/usr/dmr/www/ctut.pdf) ([html](https://www.lysator.liu.se/c/bwk-tutor.html))
    * by Brian Kernighan

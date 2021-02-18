@@ -1,8 +1,6 @@
 ## Manuals
 
-Much information about Unix is available through it's manuals.
-
-Some say that the manual pages are the best place to learn about Unix. Some prefer [other books](./books.md).
+Much information about Unix is available through it's manuals. The manuals are sometimes included with the operating system. [Other books](./books.md) on the subject are available.
 
 * 1971: Unix Programmer's Manual
   * by [Ken Thompson](http://cs.bell-labs.co/who/ken/) and [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)

@@ -1,7 +1,7 @@
 
 ### AWK
 
-`awk` is a line-by-line processing programming language with constructs for pattern matching, regular expressions and common processing idioms.
+`awk` is a line-by-line processing programming language with constructs for pattern matching, [regular expressions](./regex.md) and common processing idioms.
 
  * 1978: [Awk—A Pattern Scanning and Processing Language](https://people.eecs.berkeley.edu/~clancy/sp.unix.stuff/awk)
    * by Alfred Aho, Brian Kernighan and Peter J. Weinberger

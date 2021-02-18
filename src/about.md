@@ -15,7 +15,9 @@ The style of this document should be as immutable as possible, and we can
 update the briefing as needed to suit the audience.
 -->
 
-In short, this reference exists as a guide to present the subject in a clear manner that is well suited for study. A lot of ground work was  also done by The Unix Heritage Society. Be sure to [see the TUHS Wiki](https://wiki.tuhs.org/doku.php).
+In short, this reference exists as a guide to present the subject in a clear manner that is well suited for study.
+
+A lot of ground work was also done by The Unix Heritage Society, and this document refers to many of its resources. Be sure to [see the TUHS Wiki](https://wiki.tuhs.org/doku.php) for more information.
 
 ## Contributing
 

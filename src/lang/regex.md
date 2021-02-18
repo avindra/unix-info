@@ -1,6 +1,6 @@
 ### Regular expressions
 
-Regular expressions can be viewed a limited kind of programming language. It is often used for pattern matching and text replacement.
+Regular expressions can be viewed a limited kind of programming language. They are often used for pattern matching, text replacement and general text transformation tasks.
 
 Regular expression engines tend to be very bespoke and non-portable. Throughout the history of UNIX, a shared library for regular expressions remained elusive.
 

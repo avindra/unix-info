@@ -8,4 +8,4 @@ Here are operating systems prior to 1970. Naturally, these are all predecessors 
 * 1967: [Incompatible Timesharing System (ITS)](https://github.com/PDP-10/its)
 * 1969: [Multics](https://www.multicians.org/general.html)
   * Ken and Dennis were both Multics programmers
-  * Considered by some to be too cumbersome and derivate of CTSS to be useful
+  * Considered by some UNIX authors to be too derivative of CTSS and cumbersome to be useful
