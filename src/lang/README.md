@@ -23,6 +23,9 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 2017: [Elements of Programming Style](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
    * by Brian Kernighan
    * a 1hr+ presentation covering topics presented in the book
+ * 2017: [Associative Arrays](https://www.youtube.com/watch?v=qTZJLJ3Gm6Q&list=PLzH6n4zXuckqZ90zLyy36qjO5YIn1RulG&index=5)
+   * by Brian Kernighan
+   * 10 minute `Computerphile` episode
  * 2019: [Unix 50](https://www.bell-labs.com/unix50), a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
    * [Unix Today and Tomorrow: The Languages](https://www.youtube.com/watch?v=xnCgoEyz31M)
      - presentations by Brian Kernighan and Bjarne Stroustrup, followed by 3 Nokia Bell Labs staff members, the latter 2 being largely unrelated

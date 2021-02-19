@@ -24,4 +24,7 @@ Today, programmers use languages like C++, Rust and [Go](./go.md) in addition to
  * 1978: [Portability of C Programs and the UNIX System](https://www.bell-labs.com/usr/dmr/www/portpap.pdf)
    * by Stephen C. Johnson and Dennis Ritchie
  * 1993: [The Development of the C Language](http://www.bell-labs.com/usr/dmr/www/chist.pdf)
-    * by Dennis Ritchie 
+   * by Dennis Ritchie
+ * 2015: ["C" Programming Language](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+   * by Brian Kernighan
+   * excerpt from a Computerphile interview
