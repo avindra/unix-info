@@ -12,9 +12,9 @@ Go is a new programming language designed by many people, some of whom are the U
 
 ### Talks
 
- * 2012: [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
+ * 2012: [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) ([slides](https://talks.golang.org/2012/concurrency.slide#1)) ([code](https://github.com/adityamenon/Google-IO_2012_Go-Concurrency-Patterns))
    * by Rob Pike
- * 2013: [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) ([slides](https://www.youtube.com/watch?v=QDDwwePbDtw))
+ * 2013: [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) ([slides](https://talks.golang.org/2013/advconc.slide#1))
    * by Sameer Ajmani
  * 2015: [The Evolution of Go](https://www.youtube.com/watch?v=0ReKdcpNyQg)
    * by Robert Griesemer
