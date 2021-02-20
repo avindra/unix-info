@@ -13,11 +13,18 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 1974: [The Elements of Programming Style](https://archive.org/details/elementsofprogra00kernrich/mode/2up)
    * by Brian W. Kernighan and [Phillip James Plaugher](https://www.plauger.com/)
    * title refers to William Strunk's [The Elements of Style](https://www.gutenberg.org/ebooks/37134) (1918)
+ * 1978: [Communicating Sequential Process](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
+   * by [Tony Hoare](http://www.cs.ox.ac.uk/people/tony.hoare)
+ * 1985: [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf)
+   * by Tony Hoare
+   * Extended book form of 1978 paper. [Read more about this book](http://www.usingcsp.com/).
  * 1999: [The Practice of Programming](https://www.cs.princeton.edu/~bwk/tpop.webpage/)
    * by Brian W. Kernighan and Rob Pike
  * 2004: [Languages, Levels, Libraries, and Longevity](https://dl.acm.org/ft_gateway.cfm?id=1039532&ftid=297456&dwn=1)
    * written by John Mashey
    * covers computer language development at Bell Labs
+ * 2012: [Concurrency is not parallelism](https://blog.golang.org/waza-talk) ([slides](https://talks.golang.org/2012/waza.slide#1))
+   * by Rob Pike in regards to [Go](./go.md)
  * 2015: [Successful Language Design](https://www.youtube.com/watch?v=Sg4U4r_AgJU)
    * by Brian Kernighan
  * 2017: [Elements of Programming Style](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
