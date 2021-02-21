@@ -33,3 +33,4 @@ These are interviews with people who worked on Unix, speaking about Unix or the 
 
  * [People at the TUHS Wiki](https://wiki.tuhs.org/doku.php?id=people:start)
  * [Source code](./../source_code.md), which has annotations for known code contributions.
+ * [Unix people at princeton.edu](https://www.princeton.edu/~hos/Mahoney/unixpeople.htm)

@@ -18,6 +18,8 @@ Today, programmers use languages like C++, Rust and [Go](./go.md) in addition to
  * 1975: [The Portable C Library (on UNIX)](http://www.tom-yam.or.jp/2238/ref/iolib.pdf)
    * by [Michael E. Lesk](https://comminfo.rutgers.edu/lesk-michael)
    * [complete scan available](https://archive.org/details/ThePortableCLibrary_May75/mode/2up)
+ * 1977: [The C Programming Language](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-1991.pdf)
+   * by Dennis Ritchie, Stephen C. Johnson, Michael E. Lesk and Brian Kernighan
  * 1978: [The C Programming Language](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
    * by Dennis Ritchie and Brian Kernighan
    * [2nd edition (ANSI-C) published 1988](https://archive.org/details/The_C_Programming_Language/mode/2up) ([mirror @issuu](https://issuu.com/chinna12kumar/docs/the_c_programming_language_ansi_c_version/9))

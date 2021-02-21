@@ -13,6 +13,8 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 1974: [The Elements of Programming Style](https://archive.org/details/elementsofprogra00kernrich/mode/2up)
    * by Brian W. Kernighan and [Phillip James Plaugher](https://www.plauger.com/)
    * title refers to William Strunk's [The Elements of Style](https://www.gutenberg.org/ebooks/37134) (1918)
+ * 1978: [Language Development Tools](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2155.pdf)
+   * by Stephen C. Johnson and Michael Lesk
  * 1978: [Communicating Sequential Process](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
    * by [Tony Hoare](http://www.cs.ox.ac.uk/people/tony.hoare)
  * 1985: [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf)
@@ -20,6 +22,7 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
    * Extended book form of 1978 paper. [Read more about this book](http://www.usingcsp.com/).
  * 1999: [The Practice of Programming](https://www.cs.princeton.edu/~bwk/tpop.webpage/)
    * by Brian W. Kernighan and Rob Pike
+   * [view Table of contents](https://core.ac.uk/download/pdf/25275735.pdf)
  * 2004: [Languages, Levels, Libraries, and Longevity](https://dl.acm.org/ft_gateway.cfm?id=1039532&ftid=297456&dwn=1)
    * written by John Mashey
    * covers computer language development at Bell Labs
