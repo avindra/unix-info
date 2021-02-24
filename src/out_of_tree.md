@@ -13,6 +13,7 @@ In particular, branches closer to the epoch (1970) are of great interest.
   * [1983, The Blit: A Multiplexed Graphics Terminal (.ps)](https://9p.io/cm/cs/doc/83/mpx.ps.gz)
   * An early Graphical User Interface (GUI) created by Rob Pike and Bart Locanthi for Unix.
   * a programmable bitmap graphics terminal
+* 1983: [GNU announced](https://www.gnu.org/gnu/initial-announcement.en.html)
 * 1985: [Munix, Vol III](https://archive.org/details/h42_PCS_MUNIX_Volume_III/mode/2up)
   * [Munix](https://de.wikipedia.org/wiki/MUNIX), created by [a German company called PCS](https://en.wikipedia.org/wiki/Periphere_Computer_Systeme) based on SystemV Unix. [Hubbard](https://en.wikipedia.org/wiki/Jordan_Hubbard) would go on to help create FreeBSD.
 * 1989: 📼 [_The Computer Chronicles: UNIX_](https://archive.org/details/unix_2)

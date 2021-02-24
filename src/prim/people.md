@@ -28,6 +28,7 @@ These are interviews with people who worked on Unix, speaking about Unix or the 
    * presented to [Ken Thompson](https://nationalmedals.org/laureate/kenneth-l-thompson/) and [Dennis Ritchie](https://nationalmedals.org/laureate/dennis-ritchie/) by President Bill Clinton
  * 2011: [Japan Prize](https://www.youtube.com/watch?v=N2uxMXLBboY)
    * acceptance speeches by Ken Thompson and Dennis Ritchie
+ * 2011: [Japan Prize Ceremony for Ken Thompson](https://www.youtube.com/watch?v=p-kWw0UTD2A)
 
 # See also
 
