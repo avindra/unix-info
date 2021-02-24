@@ -165,11 +165,11 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1><a class="header" href="#introduction" id="introduction">Introduction</a></h1>
+                        <h1 id="introduction"><a class="header" href="#introduction">Introduction</a></h1>
 <p><a href="https://www.bell-labs.com/usr/dmr/www/picture.html"><img src="https://www.bell-labs.com/usr/dmr/www/ken-and-den.jpg" alt="Image of Ken Thompson and Dennis Ritchie at work in 1972. Before them, a DEC PDP-11, with a Teletype Model 33 attached" /></a></p>
 <p><code>Unix</code> is a system created somewhere in the 60s when a solution for <a href="https://en.wikipedia.org/wiki/Time-sharing">timesharing</a> became an increasing demand for mainframe machines. It was not uncommon to see ungainly computers that so often completely filled up rooms. They were expensive to build and perhaps even more expensive to maintain. So early on, engineers got to work on solving scheduling algorithms for general compute tasks.</p>
 <p>The Unix-style system solves problems not only on single-purpose devices, but on networked groups of machines as well. Unix facilitates the clustering of resources through many apis and utilities. Using the Unix system, one can develop very sophisticated software that remains robust, fast, secure and portable.</p>
-<h2><a class="header" href="#get-started" id="get-started">Get started</a></h2>
+<h2 id="get-started"><a class="header" href="#get-started">Get started</a></h2>
 <p>There are multiple ways to navigate this document:</p>
 <ul>
 <li>Use the menu to select a topic</li>
@@ -179,12 +179,12 @@
 <p>Unix was developed before modern SCMs such as Git came about, but it has since been <a href="https://github.com/dspinellis/unix-history-repo/tree/master">ported to Git</a>, thanks to an effort led by <a href="https://www.spinellis.gr/index.html.var">Diomidis Spinellis</a>.</p>
 <p>If you want to know more about the project and the archaeological effort to recreate Unix in git, see <a href="https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html">Dr. Spinellis's 2016 document &quot;A Repository of Unix History and Evolution&quot;</a>. A <a href="https://www.tuhs.org/Archive/Documentation/Papers/Spi15c.pdf">2015 edition</a>, titled &quot;A Repository with 44 Years of Unix Evolution&quot; is also available.</p>
 <p>Be sure to check out the <a href="./code/pdp7.html">pdp7 page</a> for an early version of UNIX.</p>
-<h2><a class="header" href="#visualization" id="visualization">Visualization</a></h2>
+<h2 id="visualization"><a class="header" href="#visualization">Visualization</a></h2>
 <p>Here is a run of the synthesized Unix repo through <a href="https://gource.io/">Gource</a>, which helps us to imagine what the development of Unix might have looked like. The following run captures only the history from 1974 - 1985.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iX-A7-n7g5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>After 1980 the tree becomes quite complex, so further context should be added to help explain the structure.</p>
 <p>If the embed is not showing for some reason, you can <a href="https://www.youtube.com/watch?v=iX-A7-n7g5Y">watch it in YouTube</a></p>
-<h2><a class="header" href="#pdp-7-source" id="pdp-7-source">PDP-7 source</a></h2>
+<h2 id="pdp-7-source"><a class="header" href="#pdp-7-source">PDP-7 source</a></h2>
 <p>One of the earliest complete versions of UNIX ran on the PDP-7. There is now a Github repository that seeks to resurrect specifically the pdp7 version of UNIX:</p>
 <p><a href="https://github.com/DoctorWkt/pdp7-unix">https://github.com/DoctorWkt/pdp7-unix</a></p>
 <p>It includes a version of Ken Thompson's <a href="https://github.com/DoctorWkt/pdp7-unix/blob/master/src/cmd/st1.s">space travel game</a> that is sometimes described as the impetus for UNIX.</p>
@@ -197,7 +197,7 @@
 </li>
 <li>2020: <a href="https://retrocomputingforum.com/t/ken-thompsons-space-travel-running-on-pdp-7-emulator/1503">Emulation of Space Travel with graphical support</a></li>
 </ul>
-<h2><a class="header" href="#early-history" id="early-history">Early history</a></h2>
+<h2 id="early-history"><a class="header" href="#early-history">Early history</a></h2>
 <p>Here are operating systems prior to 1970. Naturally, these are all predecessors of UNIX:</p>
 <ul>
 <li>1961: <a href="https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System">Compatible Time-Sharing System (CTSS)</a>, an early timesharing system from MIT
@@ -213,9 +213,9 @@
 </ul>
 </li>
 </ul>
-<h1><a class="header" href="#primary-sources" id="primary-sources">Primary sources</a></h1>
+<h1 id="primary-sources"><a class="header" href="#primary-sources">Primary sources</a></h1>
 <p>These are various technical papers and other writings about UNIX from its creators.</p>
-<h2><a class="header" href="#the-unix-time-sharing-system" id="the-unix-time-sharing-system">The UNIX Time-Sharing System</a></h2>
+<h2 id="the-unix-time-sharing-system"><a class="header" href="#the-unix-time-sharing-system">The UNIX Time-Sharing System</a></h2>
 <p>This document is the earliest known formal description of the UNIX system. It had a few revisions, and an early draft is available.</p>
 <ul>
 <li><a href="https://minnie.tuhs.org/pipermail/tuhs/2015-November/007703.html">1971</a>: <a href="https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/UnixEditionZero-Threshold_OCR.pdf">Draft: The UNIX Time-Sharing System</a>
@@ -250,7 +250,7 @@
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#timeline" id="timeline">Timeline</a></h2>
+<h2 id="timeline"><a class="header" href="#timeline">Timeline</a></h2>
 <ul>
 <li>1964: <a href="https://www.bell-labs.com/usr/dmr/www/mdmpipe.pdf">Internal memo from Doug McIlroy</a>
 <ul>
@@ -319,7 +319,7 @@
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#manuals" id="manuals">Manuals</a></h2>
+<h2 id="manuals"><a class="header" href="#manuals">Manuals</a></h2>
 <p>Much information about Unix is available through it's manuals. The manuals are sometimes included with the operating system. <a href="prim/./books.html">Other books</a> on the subject are available.</p>
 <ul>
 <li>1971: Unix Programmer's Manual
@@ -348,7 +348,7 @@
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#video-productions" id="video-productions">Video productions</a></h2>
+<h2 id="video-productions"><a class="header" href="#video-productions">Video productions</a></h2>
 <p>The following are video productions featuring subjects whom are directly involved in Unix, speaking on the topic of Unix itself.</p>
 <ul>
 <li>1982: 📼 <em>The UNIX System</em> a 2-part VHS video from Bell Labs, produced by <a href="https://opencorporates.com/companies/us_nj/0100098790">EWB Productions, Inc.</a>. (<a href="http://www.worldcat.org/identities/nc-ewb%20productions%20inc/">Worldcat</a>)
@@ -396,7 +396,7 @@
 </ul>
 </li>
 </ul>
-<h3><a class="header" href="#bell-labs" id="bell-labs">Bell Labs</a></h3>
+<h3 id="bell-labs"><a class="header" href="#bell-labs">Bell Labs</a></h3>
 <p>Bell Labs, under the ownership of AT&amp;T has many archival videos of interest. The machines and personnel that make up the computational environment are described in this footage.</p>
 <ul>
 <li>1973: (<a href="https://www.youtube.com/watch?v=HMYiktO0D64">YouTube</a>) <a href="https://techchannel.att.com/playvideo/2012/11/28/AT&amp;T-Archives-Holmdel-Computer-Center-Part-1">The Holmdel Computer Center, Part 1</a>
@@ -407,7 +407,7 @@
 </li>
 <li>1973: (<a href="https://www.youtube.com/watch?v=V9aVOIuKVUc">YouTube</a>) <a href="https://techchannel.att.com/playvideo/2012/11/28/AT&amp;T-Archives-Holmdel-Computer-Center-Part-2">The Holmdel Computer Center, Part 2: Programmer Services</a></li>
 </ul>
-<h1><a class="header" href="#unix-books" id="unix-books">Unix books</a></h1>
+<h1 id="unix-books"><a class="header" href="#unix-books">Unix books</a></h1>
 <p>Books on Unix that are not <a href="prim/./man.html">manuals</a>.</p>
 <p>Some <a href="prim/./../courses.html">courses</a> are available that use these book(s).</p>
 <ul>
@@ -449,11 +449,11 @@
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#people" id="people">People</a></h2>
+<h2 id="people"><a class="header" href="#people">People</a></h2>
 <p>Many, many people worked on Unix.</p>
 <p>A good place to start is the <code>A Research UNIX Reader: Annotated Excerpts from the Programmer’s Manual</code>, dated  1971-1986 from Douglas:</p>
 <p><a href="https://www.cs.dartmouth.edu/%7Edoug/reader.pdf">https://www.cs.dartmouth.edu/~doug/reader.pdf</a></p>
-<h1><a class="header" href="#interviews" id="interviews">Interviews</a></h1>
+<h1 id="interviews"><a class="header" href="#interviews">Interviews</a></h1>
 <p>These are interviews with people who worked on Unix, speaking about Unix or the personal affect it had on their lives.</p>
 <ul>
 <li>2011: <a href="https://www.youtube.com/watch?v=umF6SNYaJNw">Dennis Ritchie</a></li>
@@ -462,7 +462,7 @@
 <li>2017: <a href="https://www.youtube.com/watch?v=bTWv-l0JhAc">Brian Kernighan</a> interviewed by John Mashey</li>
 <li>2019: <a href="https://youtu.be/EY6q5dv_B-o?t=494">Ken Thompson</a> interviewed by Brian Kernighan at VCF East 2019</li>
 </ul>
-<h1><a class="header" href="#retrospectives" id="retrospectives">Retrospectives</a></h1>
+<h1 id="retrospectives"><a class="header" href="#retrospectives">Retrospectives</a></h1>
 <ul>
 <li>2001: <a href="https://9p.io/cm/cs/who/dmr/ken-games.html">Ken, Unix and Games</a>
 <ul>
@@ -470,7 +470,7 @@
 </ul>
 </li>
 </ul>
-<h1><a class="header" href="#awards" id="awards">Awards</a></h1>
+<h1 id="awards"><a class="header" href="#awards">Awards</a></h1>
 <ul>
 <li>1998: <a href="https://www.youtube.com/watch?v=LXZ1OL2U3lY">National Medal of Technology</a>
 <ul>
@@ -482,18 +482,19 @@
 <li>acceptance speeches by Ken Thompson and Dennis Ritchie</li>
 </ul>
 </li>
+<li>2011: <a href="https://www.youtube.com/watch?v=p-kWw0UTD2A">Japan Prize Ceremony for Ken Thompson</a></li>
 </ul>
-<h1><a class="header" href="#see-also" id="see-also">See also</a></h1>
+<h1 id="see-also"><a class="header" href="#see-also">See also</a></h1>
 <ul>
 <li><a href="https://wiki.tuhs.org/doku.php?id=people:start">People at the TUHS Wiki</a></li>
 <li><a href="prim/./../source_code.html">Source code</a>, which has annotations for known code contributions.</li>
 <li><a href="https://www.princeton.edu/%7Ehos/Mahoney/unixpeople.htm">Unix people at princeton.edu</a></li>
 </ul>
-<h2><a class="header" href="#programming-languages" id="programming-languages">Programming languages</a></h2>
+<h2 id="programming-languages"><a class="header" href="#programming-languages">Programming languages</a></h2>
 <p>UNIX featured use of multiple high-level programming languages. As development went on, more of the code was written in a high level programming language over time. This can be observed in the <a href="lang/./../source_code.html">source code video</a>.</p>
 <p>Although not an easy feat, UNIX eventually enjoyed portability in its implementation using mostly high level languages. Namely, <a href="lang/./C.html">the C programming language</a> was eventually used to implement most of UNIX and it's various utilities, rather than an assembler language.</p>
 <p>All UNIX users will encounter a <a href="lang/./shell.html">shell</a> language, as it is typically the main interface to the OS.</p>
-<h3><a class="header" href="#general" id="general">General</a></h3>
+<h3 id="general"><a class="header" href="#general">General</a></h3>
 <p>The code samples from Kernighan's talks tend to use <a href="lang/./C.html">C</a> and <a href="lang/./awk.html">AWK</a>.</p>
 <ul>
 <li>1974: <a href="https://archive.org/details/elementsofprogra00kernrich/mode/2up">The Elements of Programming Style</a>
@@ -562,7 +563,7 @@
 </ul>
 </li>
 </ul>
-<h3><a class="header" href="#c" id="c">C</a></h3>
+<h3 id="c"><a class="header" href="#c">C</a></h3>
 <p>C is a programming language that was the primary language used in UNIX systems since the epoch.</p>
 <p>Today, programmers use languages like C++, Rust and <a href="lang/./go.html">Go</a> in addition to C. C still enjoys use on modern UNIX systems and in embedded settings.</p>
 <ul>
@@ -605,9 +606,19 @@
 <li>by Stephen C. Johnson and Dennis Ritchie</li>
 </ul>
 </li>
+<li>1990: <a href="http://doc.cat-v.org/bell_labs/new_c_compilers/new_c_compiler.pdf">A New C Compiler</a>
+<ul>
+<li>by Ken Thompson</li>
+</ul>
+</li>
 <li>1993: <a href="http://www.bell-labs.com/usr/dmr/www/chist.pdf">The Development of the C Language</a>
 <ul>
 <li>by Dennis Ritchie</li>
+</ul>
+</li>
+<li>2002: <a href="http://doc.cat-v.org/plan_9/4th_edition/papers/compiler">Plan 9 C Compilers</a>
+<ul>
+<li>by Ken Thompson</li>
 </ul>
 </li>
 <li>2015: <a href="https://www.youtube.com/watch?v=de2Hsvxaf8M">&quot;C&quot; Programming Language</a>
@@ -617,7 +628,7 @@
 </ul>
 </li>
 </ul>
-<h1><a class="header" href="#shell" id="shell">Shell</a></h1>
+<h1 id="shell"><a class="header" href="#shell">Shell</a></h1>
 <p>The Shell is a special language, in that it is an interface to the operating system and a means for a the user to control the kernel. Multiple shells have seen use since early UNIX days, and still more shells are being developed today.</p>
 <p>Shell languages often mix structured programming with unique commands that only make sense in the context of the shell.</p>
 <ul>
@@ -642,7 +653,7 @@
 </ul>
 </li>
 </ul>
-<h3><a class="header" href="#awk" id="awk">AWK</a></h3>
+<h3 id="awk"><a class="header" href="#awk">AWK</a></h3>
 <p><code>awk</code> is a line-by-line processing programming language with constructs for pattern matching, <a href="lang/./regex.html">regular expressions</a> and common processing idioms.</p>
 <ul>
 <li>1978: <a href="https://people.eecs.berkeley.edu/%7Eclancy/sp.unix.stuff/awk">Awk—A Pattern Scanning and Processing Language</a>
@@ -670,7 +681,7 @@
 </ul>
 </li>
 </ul>
-<h3><a class="header" href="#regular-expressions" id="regular-expressions">Regular expressions</a></h3>
+<h3 id="regular-expressions"><a class="header" href="#regular-expressions">Regular expressions</a></h3>
 <p>Regular expressions can be viewed a limited kind of programming language. They are often used for pattern matching, text replacement and general text transformation tasks.</p>
 <p>Regular expression engines tend to be very bespoke and non-portable. Throughout the history of UNIX, a shared library for regular expressions remained elusive.</p>
 <p>Nevertheless, regular expressions are implemented in multiple programming languages and various tools. Sometimes, this leads to inconsistencies, which are well documented in the sources below.</p>
@@ -686,7 +697,7 @@
 </ul>
 </li>
 </ul>
-<h3><a class="header" href="#go" id="go">Go</a></h3>
+<h3 id="go"><a class="header" href="#go">Go</a></h3>
 <p>Go is a new programming language designed by many people, some of whom are the UNIX author(s). It is sponsored and developed at Google.</p>
 <ul>
 <li>2012: <a href="https://www.youtube.com/watch?v=sln-gJaURzk">Meet the Go Team</a>
@@ -702,7 +713,7 @@
 </ul>
 </li>
 </ul>
-<h3><a class="header" href="#talks" id="talks">Talks</a></h3>
+<h3 id="talks"><a class="header" href="#talks">Talks</a></h3>
 <ul>
 <li>2012: <a href="https://www.youtube.com/watch?v=f6kdp27TYZs">Go Concurrency Patterns</a> (<a href="https://talks.golang.org/2012/concurrency.slide#1">slides</a>) (<a href="https://github.com/adityamenon/Google-IO_2012_Go-Concurrency-Patterns">code</a>)
 <ul>
@@ -738,7 +749,7 @@
 </ul>
 <p>Unix is where many things started, and there is much to be understood in a study of Unix alone. However, there were many developments outside the scope of, but closely related to Unix in some way.</p>
 <p>In particular, branches closer to the epoch (1970) are of great interest.</p>
-<h2><a class="header" href="#timeline-1" id="timeline-1">Timeline</a></h2>
+<h2 id="timeline-1"><a class="header" href="#timeline-1">Timeline</a></h2>
 <ul>
 <li>1977: <a href="https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2177.pdf">The Programmer's Workbench</a>
 <ul>
@@ -757,6 +768,7 @@
 <li>a programmable bitmap graphics terminal</li>
 </ul>
 </li>
+<li>1983: <a href="https://www.gnu.org/gnu/initial-announcement.en.html">GNU announced</a></li>
 <li>1985: <a href="https://archive.org/details/h42_PCS_MUNIX_Volume_III/mode/2up">Munix, Vol III</a>
 <ul>
 <li><a href="https://de.wikipedia.org/wiki/MUNIX">Munix</a>, created by <a href="https://en.wikipedia.org/wiki/Periphere_Computer_Systeme">a German company called PCS</a> based on SystemV Unix. <a href="https://en.wikipedia.org/wiki/Jordan_Hubbard">Hubbard</a> would go on to help create FreeBSD.</li>
@@ -786,7 +798,7 @@
 </li>
 <li>1995: <a href="https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf">Plan 9 from Bell Labs</a></li>
 </ul>
-<h1><a class="header" href="#hardware" id="hardware">Hardware</a></h1>
+<h1 id="hardware"><a class="header" href="#hardware">Hardware</a></h1>
 <p>Much of the original equipment that Unix originally ran on has been decomissioned.</p>
 <p>Some of the original systems are still in use, especially in cases where architectural successors exist (e.g., on the IBM S/370 line).</p>
 <ul>
@@ -796,13 +808,13 @@
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#models" id="models">Models</a></h2>
+<h2 id="models"><a class="header" href="#models">Models</a></h2>
 <p>See the <a href="http://bitsavers.org/pdf/dec/">DEC Documentation Archive</a> for manuals and information about peripherals.</p>
 <ul>
 <li><a href="https://github.com/PDP-10/-READ--THIS-">pdp10</a></li>
 <li><a href="http://www.pdp11.org">pdp11</a></li>
 </ul>
-<h2><a class="header" href="#emulators" id="emulators">Emulators</a></h2>
+<h2 id="emulators"><a class="header" href="#emulators">Emulators</a></h2>
 <p>Here are emulators for various systems that Unix was developed or used on.</p>
 <ul>
 <li><a href="http://simh.trailing-edge.com/">SimH emulator</a></li>
@@ -823,13 +835,13 @@
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#emulation-milestones" id="emulation-milestones">Emulation milestones</a></h2>
+<h2 id="emulation-milestones"><a class="header" href="#emulation-milestones">Emulation milestones</a></h2>
 <ul>
 <li>2019: <a href="https://www.youtube.com/watch?v=pvaPaWyiuLA">LCM+L PDP-7 booting and running UNIX Version 0</a></li>
 <li>2020: <a href="./code/pdp7.html">Space Travel game emulated on PDP-7 UNIX</a></li>
 </ul>
-<h2><a class="header" href="#orgs" id="orgs">Orgs</a></h2>
-<h3><a class="header" href="#1993-the-unix-heritage-society-tuhs" id="1993-the-unix-heritage-society-tuhs">1993: The Unix Heritage Society (TUHS)</a></h3>
+<h2 id="orgs"><a class="header" href="#orgs">Orgs</a></h2>
+<h3 id="1993-the-unix-heritage-society-tuhs"><a class="header" href="#1993-the-unix-heritage-society-tuhs">1993: The Unix Heritage Society (TUHS)</a></h3>
 <p>Founded in <a href="https://lwn.net/Articles/725297/">1993</a>, <a href="https://www.tuhs.org/">The Unix Heritage Society</a> is the best active UNIX preservation community.</p>
 <p>It has many resources for the UNIX student:</p>
 <ul>
@@ -838,7 +850,7 @@
 <li><a href="https://minnie.tuhs.org/pipermail/tuhs/">mailing list archive</a></li>
 </ul>
 <p>TUHS was orginally formed as &quot;the <a href="./hardware.html">PDP-11</a> Unix Preservation Society&quot;</p>
-<h3><a class="header" href="#others" id="others">Others</a></h3>
+<h3 id="others"><a class="header" href="#others">Others</a></h3>
 <ul>
 <li>1975: <a href="https://en.wikipedia.org/wiki/USENIX">USENIX</a>
 <ul>
@@ -854,7 +866,7 @@
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#courses" id="courses">Courses</a></h2>
+<h2 id="courses"><a class="header" href="#courses">Courses</a></h2>
 <p>These are traditional academic courses available online on the subject of Unix.</p>
 <p>See <a href="./prim/books.html">books</a> for some of the available texts.</p>
 <!--
@@ -889,7 +901,7 @@ Origin of jschauma course is not certain. It may be even older
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#alternative-courses" id="alternative-courses">Alternative courses</a></h2>
+<h2 id="alternative-courses"><a class="header" href="#alternative-courses">Alternative courses</a></h2>
 <ul>
 <li>2001: <a href="http://boris.lk.net/unix/">Unix Classes</a>
 <ul>
@@ -897,7 +909,7 @@ Origin of jschauma course is not certain. It may be even older
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#about-this-project" id="about-this-project">About this project</a></h2>
+<h2 id="about-this-project"><a class="header" href="#about-this-project">About this project</a></h2>
 <p>It has been 50 years since the 1970 epoch. The Unix epoch is a common baseline for global timekeeping found in many systems.</p>
 <p>Many have seen monolithic IBM machines in media such as Stanley Kubrick's <code>2001: A Space Odyssey</code>, but most have not encountered the term &quot;mainframe&quot; in their entire life. A datacenter or any kind of cloud-connected resource is conceptually equivalent to the &quot;mainframe.&quot; In general, compute resources may be plenty, but need to be shared amongst many users. The solution to this problem turns out time and time again, to be Unix.</p>
 <p>Today, Unix is deployed <em>ubiquitously</em> around the world. All the major branches of Apple's iOS and MacOS, as well as Linux and Android are designed and integrated around the semantics of the unix system. This includes other operating systems derived of Unix such as Solaris (illumos), AIX and every BSD. BSD variants include FreeBSD and NetBSD which are used for example, in computers that do network routing.</p>
@@ -910,14 +922,14 @@ update the briefing as needed to suit the audience.
 -->
 <p>In short, this reference exists as a guide to present the subject in a clear manner that is well suited for study.</p>
 <p>A lot of ground work was also done by The Unix Heritage Society, and this document refers to many of its resources. Be sure to <a href="https://wiki.tuhs.org/doku.php">see the TUHS Wiki</a> for more information.</p>
-<h2><a class="header" href="#contributing" id="contributing">Contributing</a></h2>
+<h2 id="contributing"><a class="header" href="#contributing">Contributing</a></h2>
 <p>This project is currently built as a basic set of markdown files at <a href="https://github.com/avindra/unix-info">Github</a> using <a href="https://github.com/rust-lang/mdBook">mdbook</a> and continuously deployed to Github Pages using Github Actions.</p>
 <p>Contributions are welcome and will be reviewed carefully.</p>
-<h2><a class="header" href="#about-the-compiler" id="about-the-compiler">About the compiler</a></h2>
+<h2 id="about-the-compiler"><a class="header" href="#about-the-compiler">About the compiler</a></h2>
 <p><a href="https://dra.vin/#/about">Avindra Goolcharan</a> was created in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. Before the turn of the millennium, the family got a computer for the first time. It ran Microsoft Windows 98 SE, and was later upgraded to Windows XP and a Pentium 4 chip.</p>
 <p>In the early 2000s, Ubuntu emerged. At the time, Ubuntu physically delivered free CD-ROMs to users who needed them, which made it simultaneously practical, easy and affordable for people to adopt Linux, including Avindra. To him, the default Gnome interface was a breath of fresh air to the Mac and Windows systems that schools and businesses seem to prefer.</p>
 <p>By 2008, the author started writing original computer programs and scripts. Around 2015, Avindra started using the openSUSE Linux distribution, and can be found contributing patches as an openSUSE member.</p>
-<h2><a class="header" href="#about-unix" id="about-unix">About UNIX</a></h2>
+<h2 id="about-unix"><a class="header" href="#about-unix">About UNIX</a></h2>
 <p>UNIX is a registered trademark of The Open Group</p>
 <p><a href="http://www.unix.org/trademark.html">http://www.unix.org/trademark.html</a></p>
 
