@@ -26,10 +26,14 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 2004: [Languages, Levels, Libraries, and Longevity](https://dl.acm.org/ft_gateway.cfm?id=1039532&ftid=297456&dwn=1)
    * written by John Mashey
    * covers computer language development at Bell Labs
+ * 2010: [Computation and Computational Thinking](https://people.cs.vt.edu/~kafura/CS6604/Papers/Computation-And-CT.pdf)
+   * by Al Aho
  * 2012: [Concurrency is not parallelism](https://blog.golang.org/waza-talk) ([slides](https://talks.golang.org/2012/waza.slide#1))
    * by Rob Pike in regards to [Go](./go.md)
  * 2015: [Successful Language Design](https://www.youtube.com/watch?v=Sg4U4r_AgJU)
    * by Brian Kernighan
+ * 2016: [Software, Computation and Models of Computation](https://www.youtube.com/watch?v=RpTLjm4awGM)
+   * by Al Aho
  * 2017: [Elements of Programming Style](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
    * by Brian Kernighan
    * a 1hr+ presentation covering topics presented in the book

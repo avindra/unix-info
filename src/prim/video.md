@@ -28,6 +28,8 @@ The following are video productions featuring subjects whom are directly involve
 * 2019: [Unix 50](https://www.bell-labs.com/unix50), a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
   * [The Origin of Unix](https://www.youtube.com/watch?v=l03CF9_078I)
     - panel with Brian Kernighan, Doug McIlroy, Peter Weinberger, Jon Bentley, and Stephen Johnson
+  * [The Compute](https://www.youtube.com/watch?v=kZd8e2pzZ7Q)
+    - by Al Aho and [Chris White](https://www.sitepoint.com/unix-style-operating-systems/)
 
 
 ### Bell Labs
@@ -38,3 +40,5 @@ Bell Labs, under the ownership of AT&T has many archival videos of interest. The
   * Computations as a printout on sheet(s) of paper are placed into the user's bin by an attendant
   * [S/370](https://en.wikipedia.org/wiki/IBM_System/370) (later replaced by [S390](https://en.wikipedia.org/wiki/IBM_System/390)) was the main timesharing computer
 * 1973: ([YouTube](https://www.youtube.com/watch?v=V9aVOIuKVUc)) [The Holmdel Computer Center, Part 2: Programmer Services](https://techchannel.att.com/playvideo/2012/11/28/AT&T-Archives-Holmdel-Computer-Center-Part-2)
+* 2015: [Bell Lab's Role in Programming Languages and Algorithms](https://www.youtube.com/watch?v=rkuOTgfmH3w)
+  * by Al Aho
