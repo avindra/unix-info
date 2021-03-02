@@ -40,5 +40,5 @@ Bell Labs, under the ownership of AT&T has many archival videos of interest. The
   * Computations as a printout on sheet(s) of paper are placed into the user's bin by an attendant
   * [S/370](https://en.wikipedia.org/wiki/IBM_System/370) (later replaced by [S390](https://en.wikipedia.org/wiki/IBM_System/390)) was the main timesharing computer
 * 1973: ([YouTube](https://www.youtube.com/watch?v=V9aVOIuKVUc)) [The Holmdel Computer Center, Part 2: Programmer Services](https://techchannel.att.com/playvideo/2012/11/28/AT&T-Archives-Holmdel-Computer-Center-Part-2)
-* 2015: [Bell Lab's Role in Programming Languages and Algorithms](https://www.youtube.com/watch?v=rkuOTgfmH3w)
+* 2015: [Bell Lab's Role in Programming Languages and Algorithms](https://www.youtube.com/watch?v=rkuOTgfmH3w) ([slides](http://www.cs.columbia.edu/~aho/Talks/15-05-06_Simons.pptx))
   * by Al Aho
