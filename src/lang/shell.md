@@ -11,6 +11,10 @@ Shell languages often mix structured programming with unique commands that only 
   * The original syntax can be found in 1987's [A Research UNIX Reader](https://archive.org/details/a_research_unix_reader/page/n27/mode/2up).
 * 1978: [The UNIX Shell](https://archive.org/details/bstj57-6-1971/mode/2up) ([html](https://becksteinlab.physics.asu.edu/pages/unix/shell.html)) ([mirror](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-1971.pdf))
   * by [Stephen Richard Bourne](https://dl.acm.org/profile/81100584611)
+* 1990: [Rc - The Plan 9 Shell](https://www.scs.stanford.edu/nyu/04fa/sched/readings/rc.pdf) ([cat-v](http://doc.cat-v.org/plan_9/4th_edition/papers/rc))
+  * by [Tom Duff](http://www.tomduff.com/about.html)
+* 1993: [Es: A shell with higher-order functions](https://www.scs.stanford.edu/nyu/04fa/sched/readings/es.pdf) ([official](https://wryun.github.io/es-shell/))
+  * by [Paul Haahr](http://paulhaahr.com/) and [Byron Ratikiz](https://www.rakitzis.com/)
 * 2015: [Early days of Unix and design of sh](https://www.youtube.com/watch?v=FI_bZhV7wpI)
   * by S.R. Bourne
   * 1hr presentation with open audience participation
