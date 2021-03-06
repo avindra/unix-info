@@ -22,6 +22,6 @@ Some [courses](./../courses.md) are available that use these book(s).
 * 1996: [The UNIX-HATERS Handbook](https://web.mit.edu/~simsong/www/ugh.pdf)
   * criticism/parody of Unix
   * contains an anti-foreword from Dennis Ritchie
-* 2003: [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/)
+* 2003: [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) ([PDF](https://nakamotoinstitute.org/static/docs/taoup.pdf))
   * by [Eric Steven Raymond](http://catb.org/~esr/)
   * Eric is better known for `The Cathedral and the Bazaar` (catb)

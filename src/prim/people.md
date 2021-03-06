@@ -11,6 +11,8 @@ A good place to start is the `A Research UNIX Reader: Annotated Excerpts from th
 
 These are interviews with people who worked on Unix, speaking about Unix or the personal affect it had on their lives.
 
+
+ * 1999: [Ken Thompson](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson.html) interviewed by Computer ([PDF](http://cse.unl.edu/~witty/class/csce351/howto/ken_thompson.pdf))
  * 2011: [Dennis Ritchie](https://www.youtube.com/watch?v=umF6SNYaJNw)
  * 2015: [Brian Kernighan](https://www.youtube.com/watch?v=vT_J6xc-Az0) interviewed about UNIX
  * 2016: [Brian Kernighan](https://www.youtube.com/watch?v=TUWt_StXKsY) talking about C, UNIX and computer careers
