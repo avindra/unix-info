@@ -12,6 +12,7 @@ Much information about Unix is available through it's manuals. The manuals are s
     - PDF scan with cover art depicting U N I X on a set of blocks
   * [8th ed](http://man.cat-v.org/unix_8th/)
   * [read more about the early documentation history](https://en.wikipedia.org/wiki/Man_page#History)
-* 1979: [The UNIX Programming Environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380090102)
+* 1979: [The UNIX Programming Environment](https://doi.org/10.1002/spe.4380090102)
   * by [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) and [John Mashey](https://twitter.com/johnmashey)
+  * [1981 Computer](https://www.computer.org/csdl/api/v1/periodical/mags/co/1981/04/01667315/13rRUyv53Ib/download-article/pdf) article
   * an expanded [1984 edition](https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up) was later published with [Rob Pike](https://twitter.com/rob_pike) as the co-author
