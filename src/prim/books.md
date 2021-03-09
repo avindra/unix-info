@@ -4,6 +4,8 @@ Books on Unix that are not [manuals](./man.md).
 
 Some [courses](./../courses.md) are available that use these book(s).
 
+* 1977: [A Commentary on the Sixth Edition UNIX Operating System](https://cs3210.cc.gatech.edu/r/unix6.pdf)
+  * by [John Lions](https://en.wikipedia.org/wiki/John_Lions)
 * 1985: [Advanced UNIX Programming](https://basepath.com/aup/) ([archive](https://archive.org/details/advancedunixprog00roch/page/n291/mode/2up)) ([2nd edition](https://qdoc.tips/download/advanced-unix-programming-2nd-edition-4-pdf-free.html?reader=1))
   * by [Marc J. Rochkind](https://basepath.com)
 * 1986: [The Design of the Unix Operating System](http://www.ephotocaption.com/a/45/the_design_of_the_unix_operating_system.pdf) ([30MB PDF](http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf)) ([Archive](https://archive.org/details/DesignOfTheUnixOperatingSystemByMauriceBach/page/n7/mode/2upS))

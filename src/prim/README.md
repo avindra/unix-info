@@ -42,7 +42,8 @@ This document is the earliest known formal description of the UNIX system. It ha
   * a description of the v7 system
 * 1979: [The Evolution of the Unix Time-Sharing System](http://cm.bell-labs.co/who/dmr/hist.html)
   - by Dennis Ritchie
-  - ([HTML](https://www.bell-labs.com/usr/dmr/www/hist.html)) ([PDF](https://www.bell-labs.com/usr/dmr/www/hist.pdf))
+  - ([HTML](https://www.bell-labs.com/usr/dmr/www/hist.html))
+  - ([PDF](https://www.bell-labs.com/usr/dmr/www/hist.pdf)) ([PDF 2](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf))
 * 1981: [Computer Aids for Writers](https://archive.org/details/sigplan-sigoa-text-manipulation/page/n67/mode/2up) ([ACM](https://dl.acm.org/doi/abs/10.1145/872730.806455?originalServiceName=showPdf))
   * by [Lorinda Cherry](http://www.princeton.edu/~hos/frs122/precis/cherry1.htm)
   * Transcribed to [HTML](https://www.mirbsd.org/htman/i386/manUSD/29.diction.htm), from a MirBSD man page on diction
