@@ -30,6 +30,8 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
    * by Al Aho
  * 2012: [Concurrency is not parallelism](https://blog.golang.org/waza-talk) ([slides](https://talks.golang.org/2012/waza.slide#1))
    * by Rob Pike in regards to [Go](./go.md)
+ * 2015: [Bell Lab's Role in Programming Languages and Algorithms](https://www.youtube.com/watch?v=rkuOTgfmH3w) ([slides](http://www.cs.columbia.edu/~aho/Talks/15-05-06_Simons.pptx))
+   * by Al Aho
  * 2015: [Successful Language Design](https://www.youtube.com/watch?v=Sg4U4r_AgJU)
    * by Brian Kernighan
  * 2016: [Software, Computation and Models of Computation](https://www.youtube.com/watch?v=RpTLjm4awGM)

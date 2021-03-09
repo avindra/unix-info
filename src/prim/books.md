@@ -27,3 +27,5 @@ Some [courses](./../courses.md) are available that use these book(s).
 * 2003: [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) ([PDF](https://nakamotoinstitute.org/static/docs/taoup.pdf))
   * by [Eric Steven Raymond](http://catb.org/~esr/)
   * Eric is better known for `The Cathedral and the Bazaar` (catb)
+* 2019: [UNIX: A History and a Memoir](https://www.cs.princeton.edu/~bwk/memoir.html)
+  * by Brian Kernighan

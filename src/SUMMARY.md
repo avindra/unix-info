@@ -22,6 +22,7 @@ References:
      - [Manuals](./prim/man.md)
      - [Video productions](./prim/video.md)
      - [Books](./prim/books.md)
+     - [Bell Labs](./prim/bell.md)
      - [People](./prim/people.md)
 - [Programming languages](./lang/README.md)
      - [C](./lang/C.md)
