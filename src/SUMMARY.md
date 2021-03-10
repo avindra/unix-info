@@ -30,6 +30,7 @@ References:
      - [AWK](./lang/awk.md)
      - [Regular expressions](./lang/regex.md)
      - [Go](./lang/go.md)
+     - [Compilers](./lang/compiler.md)
 - [Out-of-tree developments](./out_of_tree.md)
 - [Hardware](./hardware.md)
 - [Organizations](./orgs.md)

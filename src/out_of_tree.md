@@ -5,10 +5,10 @@ In particular, branches closer to the epoch (1970) are of great interest.
 
 ## Timeline
 
+* 1975: [MERT - a multi-environment real-time operating system](https://portal.acm.org/citation.cfm?id=806519) ([1977 BSTJ Article](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2049.pdf))
+  * by [Heinz Lycklama](https://www.heinzlycklama.com/osta/heinz-lycklama/) and [Douglas L. Bayer](https://dblp.org/pid/81/3206.html)
 * 1977: [The Programmer's Workbench](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2177.pdf)
   * by [Ted A. Dolotta](https://dblp.org/pid/66/4561.html), [Richard C. Haight](https://wiki.tuhs.org/doku.php?id=people:dick_haight) and John R. Mashey
-* 1977: [The MERT Operating System](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2049.pdf)
-  * by [Heinz Lycklama](https://www.heinzlycklama.com/osta/heinz-lycklama/) and [Douglas L. Bayer](https://dblp.org/pid/81/3206.html)
 * 1982: ([YouTube](https://www.youtube.com/watch?v=Pr1XXvSaVUQ)) [_BLIT_](https://techchannel.att.com/playvideo/2012/08/27/AT&T-Archives-BLIT-UNIX-GUI).
   * [1983, The Blit: A Multiplexed Graphics Terminal (.ps)](https://9p.io/cm/cs/doc/83/mpx.ps.gz)
   * An early Graphical User Interface (GUI) created by Rob Pike and Bart Locanthi for Unix.
@@ -16,6 +16,10 @@ In particular, branches closer to the epoch (1970) are of great interest.
 * 1983: [GNU announced](https://www.gnu.org/gnu/initial-announcement.en.html)
 * 1985: [Munix, Vol III](https://archive.org/details/h42_PCS_MUNIX_Volume_III/mode/2up)
   * [Munix](https://de.wikipedia.org/wiki/MUNIX), created by [a German company called PCS](https://en.wikipedia.org/wiki/Periphere_Computer_Systeme) based on SystemV Unix. [Hubbard](https://en.wikipedia.org/wiki/Jordan_Hubbard) would go on to help create FreeBSD.
+* 1987: [Minix](https://en.wikipedia.org/wiki/Minix)
+  * by [Andrew S. Tenenbaum](https://www.cs.vu.nl/~ast/)
+  * licensed under BSD in 2000
+  * all Intel chips after 2015 now include Minix as part of [IME](https://en.wikipedia.org/wiki/Intel_Management_Engine)
 * 1989: 📼 [_The Computer Chronicles: UNIX_](https://archive.org/details/unix_2)
   * 2nd episode on UNIX, 4 years after the first
   * large segment on GUIs, one from Sun Microsystems and another from HP

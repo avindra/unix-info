@@ -13,8 +13,6 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 1974: [The Elements of Programming Style](https://archive.org/details/elementsofprogra00kernrich/mode/2up)
    * by Brian W. Kernighan and [Phillip James Plaugher](https://www.plauger.com/)
    * title refers to William Strunk's [The Elements of Style](https://www.gutenberg.org/ebooks/37134) (1918)
- * 1978: [Language Development Tools](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2155.pdf)
-   * by Stephen C. Johnson and Michael Lesk
  * 1978: [Communicating Sequential Process](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
    * by [Tony Hoare](http://www.cs.ox.ac.uk/people/tony.hoare)
  * 1985: [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf)

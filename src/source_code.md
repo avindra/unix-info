@@ -8,7 +8,7 @@ Be sure to check out the [pdp7 page](./code/pdp7.md) for an early version of UNI
 
 ## Visualization
 
-Here is a run of the synthesized Unix repo through [Gource](https://gource.io/), which helps us to imagine what the development of Unix might have looked like. The following run captures only the history from 1974 - 1985.
+Here is a run of the synthesized Unix repo through [Gource](https://gource.io/), which helps us to imagine what the development of Unix might have looked like. The following run captures only the history from 1972 - 1985.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iX-A7-n7g5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

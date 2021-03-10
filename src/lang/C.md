@@ -34,3 +34,16 @@ Today, programmers use languages like C++, Rust and [Go](./go.md) in addition to
  * 2015: ["C" Programming Language](https://www.youtube.com/watch?v=de2Hsvxaf8M)
    * by Brian Kernighan
    * excerpt from a Computerphile interview
+
+
+## B
+
+For completeness sake, there briefly existed a language called B which was later superseded by C. Here is some B literature:
+
+  * 1972: [Users' Reference to B](http://cm.bell-labs.co/who/dmr/kbman.html) ([PDF](http://cm.bell-labs.co/who/dmr/kbman.pdf))
+    * by Ken Thompson
+  * 1973: [The Programming Language B](http://cm.bell-labs.co/who/dmr/bintro.html)
+    * by Stephen C. Johnson and Brian Kernighan
+  * 1973: [A Tutorial Introduction To The Language B](https://www.bell-labs.com/usr/dmr/www/btut.pdf)
+    * by Brian Kernighan
+  * 1973: [Users' Reference to B on MH-TSS](http://cm.bell-labs.co/who/dmr/bref.pdf) ([HTML](https://www.bell-labs.com/usr/dmr/www/bref.html))
