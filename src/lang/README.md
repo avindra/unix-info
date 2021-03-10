@@ -1,6 +1,6 @@
 ## Programming languages
 
-UNIX featured use of multiple high-level programming languages. As development went on, more of the code was written in a high level programming language over time. This can be observed in the [source code video](./../source_code.md).
+UNIX featured use of multiple high-level programming languages. As development went on, more of the code was written in a high level programming language over time. This can be observed in the [source code video](./../code).
 
 Although not an easy feat, UNIX eventually enjoyed portability in its implementation using mostly high level languages. Namely, [the C programming language](./C.md) was eventually used to implement most of UNIX and it's various utilities, rather than an assembler language.
 

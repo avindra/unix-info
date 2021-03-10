@@ -15,7 +15,7 @@ Timeline:
 References:
 
 - [Introduction](./intro.md)
-- [Source code](./source_code.md)
+- [Source code](./code/README.md)
      - [PDP-7 UNIX](./code/pdp7.md)
 - [Early history](./early_history.md)
 - [Primary sources](./prim/README.md)

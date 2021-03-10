@@ -10,3 +10,5 @@ Personnel, machines that madde up the computational environment and related rese
 * 1973: 📼 [The Holmdel Computer Center, Part 2: Programmer Services](https://techchannel.att.com/playvideo/2012/11/28/AT&T-Archives-Holmdel-Computer-Center-Part-2) ([YouTube](https://www.youtube.com/watch?v=V9aVOIuKVUc))
 * 2015: [Memories: A Personal History of Bell Telephone Laboratories](https://quello.msu.edu/wp-content/uploads/2015/08/Memories-Noll.pdf)
   * by [A Michael Noll](http://noll.uscannenberg.org/)
+* 2021: [History of Science and Technology Q&A (Mar. 10, 2021)](https://www.youtube.com/watch?v=5WfPiaseAyM)
+  * by [Stephen Wolfram](https://www.stephenwolfram.com/)
