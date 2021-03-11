@@ -11,6 +11,7 @@ Some of the original systems are still in use, especially in cases where archite
 
 See the [DEC Documentation Archive](http://bitsavers.org/pdf/dec/) for manuals and information about peripherals.
 
+
  * [pdp10](https://github.com/PDP-10/-READ--THIS-)
  * [pdp11](http://www.pdp11.org)
 
@@ -26,7 +27,8 @@ Here are emulators for various systems that Unix was developed or used on.
    - 1985 AT&T UNIX PC (3B1)
  * [In-Browser pdp-11 emulator](https://skn.noip.me/pdp11/pdp11.html)
    * [source code](https://github.com/paulnank/nankervis-pdp11-js)
-
+   * has UNIX image. Look for `boot rk0` to see how to load from disk and invoke login
+ * [pdp6](https://github.com/aap/pdp6/) emulator
 
 ## Emulation milestones
 
