@@ -25,9 +25,12 @@ Here are emulators for various systems that Unix was developed or used on.
    - S/370, ESA/390 and z/Arch
  * [freebee](https://github.com/philpem/freebee)
    - 1985 AT&T UNIX PC (3B1)
- * [In-Browser pdp-11 emulator](https://skn.noip.me/pdp11/pdp11.html)
+ * [pdp-11 emulator (JS/Web)](https://skn.noip.me/pdp11/pdp11.html)
+   * by Paul Nankervis
    * [source code](https://github.com/paulnank/nankervis-pdp11-js)
    * has UNIX image. Look for `boot rk0` to see how to load from disk and invoke login
+ * [pdp-11 emulator (JS/Web)](http://pdp11.aiju.de/)
+   * by [aiju](https://aiju.de/about_me/)
  * [pdp6](https://github.com/aap/pdp6/) emulator
 
 ## Emulation milestones
