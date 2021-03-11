@@ -28,9 +28,15 @@ In particular, branches closer to the epoch (1970) are of great interest.
   * Computer hacker Linus Torvalds realizes there's not a single free kernel available anywhere that is any good
   * Much to GNU's complement, Linux is a spiritual copy of the Unix kernel
   * Like Unix, it was initially designed on a much smaller computer (in this case Torvald's own i386 machine), before being ported to dozens of other systems, large and small
-  * [2008 talk](https://www.youtube.com/watch?v=WVTWCPoUt8w) available: "The Origins of Linux"
+  * [2001 talk](https://www.youtube.com/watch?v=WVTWCPoUt8w) available: "The Origins of Linux"
   * The "1.0" release was tagged later, in 1994.
 * 1992: [UTF-8](http://doc.cat-v.org/bell_labs/utf-8_history)
   * still the most widely used encoding scheme on the Internet (>90%)
   * [See full history from the 1989 ISO draft](https://en.wikipedia.org/wiki/UTF-8#History)
 * 1995: [Plan 9 from Bell Labs](https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf)
+
+<!--
+
+Linus talk was recorded Sept 19, 2001
+
+-->
