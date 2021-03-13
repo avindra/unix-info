@@ -13,11 +13,6 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 1974: [The Elements of Programming Style](https://archive.org/details/elementsofprogra00kernrich/mode/2up)
    * by Brian W. Kernighan and [Phillip James Plaugher](https://www.plauger.com/)
    * title refers to William Strunk's [The Elements of Style](https://www.gutenberg.org/ebooks/37134) (1918)
- * 1978: [Communicating Sequential Process](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
-   * by [Tony Hoare](http://www.cs.ox.ac.uk/people/tony.hoare)
- * 1985: [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf)
-   * by Tony Hoare
-   * Extended book form of 1978 paper. [Read more about this book](http://www.usingcsp.com/).
  * 1999: [The Practice of Programming](https://www.cs.princeton.edu/~bwk/tpop.webpage/)
    * by Brian W. Kernighan and Rob Pike
    * [view Table of contents](https://core.ac.uk/download/pdf/25275735.pdf)
@@ -43,3 +38,17 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 2019: [Unix 50](https://www.bell-labs.com/unix50), a 2-day event held by (Nokia) Bell Labs at Murray Hill, NJ
    * [Unix Today and Tomorrow: The Languages](https://www.youtube.com/watch?v=xnCgoEyz31M)
      - presentations by Brian Kernighan and Bjarne Stroustrup, followed by 3 Nokia Bell Labs staff members, the latter 2 being largely unrelated
+
+## Influences
+
+A number of ideas from people working outside of the Bell System had an influence on, or overlap with ideas from the developers of UNIX.
+
+ * 1968: [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf) ([HTML](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)) ([Early HTML](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD215.html))
+   * by [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+ * 1974: [Structured Programming with go to Statements](http://web.archive.org/web/20130731202547/http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf)
+   * by [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+ * 1978: [Communicating Sequential Process](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
+   * by [Tony Hoare](http://www.cs.ox.ac.uk/people/tony.hoare)
+ * 1985: [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf)
+   * by Tony Hoare
+   * Extended book form of 1978 paper. [Read more about this book](http://www.usingcsp.com/).
