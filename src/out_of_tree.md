@@ -33,7 +33,7 @@ In particular, branches closer to the epoch (1970) are of great interest.
 * 1992: [UTF-8](http://doc.cat-v.org/bell_labs/utf-8_history)
   * still the most widely used encoding scheme on the Internet (>90%)
   * [See full history from the 1989 ISO draft](https://en.wikipedia.org/wiki/UTF-8#History)
-* 1995: [Plan 9 from Bell Labs](https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf)
+* 1995: [Plan 9 from Bell Labs](./9.md)
 
 <!--
 
