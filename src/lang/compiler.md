@@ -8,5 +8,9 @@ UNIX had various tools for compiling programs and building compilers themselves.
    * by Michael E. Lesk and [Eric Schmidt](https://ericschmidt.com/)
    * [Presentation on Lex](http://www.cse.aucegypt.edu/~rafea/csce447/slides/Lex_M02.pdf)
    * [HTML](http://www.cs.man.ac.uk/~pjj/cs212/lex/lex.html) [HTML 2](https://ckshitij.github.io/LEX-AND-YACC/)
+ * 1977: [Principles of Compiler Design](https://archive.org/details/principlesofcomp0000ahoa)
+   * by Al Aho and [Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/)
  * 1978: [Language Development Tools](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2155.pdf)
    * by Stephen C. Johnson and Michael Lesk
+ * 1986: [Compilers: Principles, Techniques, and Tools](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf) (2nd ed)
+   * by Al Aho, [Monica S. Lam](https://suif.stanford.edu/~lam/), [Ravi Sethi](https://www2.cs.arizona.edu/~rsethi/) and Jeffrey D. Ullman

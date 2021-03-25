@@ -32,6 +32,8 @@ These are interviews with people who worked on Unix, speaking about Unix or the 
  * 2011: [Japan Prize](https://www.youtube.com/watch?v=N2uxMXLBboY)
    * acceptance speeches by Ken Thompson and Dennis Ritchie
  * 2011: [Japan Prize Ceremony for Ken Thompson](https://www.youtube.com/watch?v=p-kWw0UTD2A)
+ * 2019: [The Thompson and Ritchie Story](https://www.youtube.com/watch?v=g3jOJfrOknA)
+   * presented to [Ken Thompson](https://www.invent.org/inductees/ken-thompson) and [Dennis Ritchie](https://www.invent.org/inductees/dennis-ritchie) by [National Inventors Hall of Fame](https://www.invent.org/blog/inventors/new-inductee-class-Thompson-Ritchie)
 
 # See also
 
