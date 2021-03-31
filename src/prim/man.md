@@ -16,3 +16,6 @@ Much information about Unix is available through it's manuals. The manuals are s
   * by [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) and [John Mashey](https://twitter.com/johnmashey)
   * [1981 Computer](https://www.computer.org/csdl/api/v1/periodical/mags/co/1981/04/01667315/13rRUyv53Ib/download-article/pdf) article
   * an expanded [1984 edition](https://archive.org/details/UnixProgrammingEnviornment/page/n1/mode/2up) was later published with [Rob Pike](https://twitter.com/rob_pike) as the co-author
+* 1982: [Introduction to the UNIX Operating System](http://www.bitsavers.org/pdf/uNIX/uNIX_Jan82.pdf)
+  * by [Stephen M. Walters](http://www.starrynights.us/Biography/Biography.htm)
+  * A mix of notes, standard man pages and assembly code
