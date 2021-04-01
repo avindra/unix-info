@@ -13,6 +13,8 @@ The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.
  * 1974: [The Elements of Programming Style](https://archive.org/details/elementsofprogra00kernrich/mode/2up)
    * by Brian W. Kernighan and [Phillip James Plaugher](https://www.plauger.com/)
    * title refers to William Strunk's [The Elements of Style](https://www.gutenberg.org/ebooks/37134) (1918)
+ * 1992: [Foundations of Computer Science](http://infolab.stanford.edu/%7Eullman/focs.html) ([TOC](http://infolab.stanford.edu/~ullman/focs/toc.pdf))
+   * by Al Aho and Jeff Ullman
  * 1999: [The Practice of Programming](https://www.cs.princeton.edu/~bwk/tpop.webpage/)
    * by Brian W. Kernighan and Rob Pike
    * [view Table of contents](https://core.ac.uk/download/pdf/25275735.pdf)
