@@ -1,6 +1,6 @@
 # Hardware
 
-Much of the equipment that Unix originally ran on has been decommissioned. Some original systems are still in use, especially in cases where architectural successors exist (e.g., on the IBM S/370 line).
+Much of the equipment that Unix originally ran on has been decommissioned (i.e., put out of use). Some original systems are still in use, especially in cases where architectural successors exist (e.g., on the IBM S/370 line).
 
 It is possible now to run Ancient UNIX editions via a number of emulation software.
 
