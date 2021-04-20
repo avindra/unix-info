@@ -1,3 +1,7 @@
+## Notes
+
+In the primary sources section, **most** of the documents are from the UNIX creators. Some of the referenced material is **not**  strictly from UNIX authors. This distinction is made clear by hyperlinking every author for the relevant document, so that the reader can check for themselves who is from Bell Labs, some university or just another bloke from the world.
+
 ## About this project
 
 It has been 50 years since the 1970 epoch. The Unix epoch is a common baseline for global timekeeping found in many systems.
@@ -19,11 +23,6 @@ In short, this reference exists as a guide to present the subject in a clear man
 
 A lot of ground work was also done by The Unix Heritage Society, and this document refers to many of its resources. Be sure to [see the TUHS Wiki](https://wiki.tuhs.org/doku.php) for more information.
 
-## Contributing
-
-This project is currently built as a basic set of markdown files at [Github](https://github.com/avindra/unix-info) using [mdbook](https://github.com/rust-lang/mdBook) and continuously deployed to Github Pages using Github Actions.
-
-Contributions are welcome and will be reviewed carefully.
 
 ## About the compiler
 
@@ -38,3 +37,8 @@ By 2008, the author started writing original computer programs and scripts. Arou
 UNIX is a registered trademark of The Open Group
 
 [http://www.unix.org/trademark.html](http://www.unix.org/trademark.html)
+
+## Contributing
+
+This project is currently built as a basic set of markdown files at [Github](https://github.com/avindra/unix-info) using [mdbook](https://github.com/rust-lang/mdBook) and continuously deployed to Github Pages using Github Actions.
+
