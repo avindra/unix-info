@@ -995,6 +995,10 @@ Linus talk was recorded Sept 19, 2001
 
 -->
 <h2 id="plan-9"><a class="header" href="#plan-9">Plan 9</a></h2>
+<p>From <a href="https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs">Wikipedia</a>:</p>
+<blockquote>
+<p>Plan 9 replaced Unix as Bell Labs's primary platform for operating systems research.</p>
+</blockquote>
 <ul>
 <li>1995: <a href="https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf">Plan 9 from Bell Labs</a></li>
 <li>1999: <a href="http://doc.cat-v.org/inferno/4th_edition/styx">The Styx Architecture for Distributed Systems</a>
@@ -1020,21 +1024,8 @@ Linus talk was recorded Sept 19, 2001
 <li><a href="http://9p.io/plan9/">Plan 9 From Bell Labs</a></li>
 </ul>
 <h1 id="hardware"><a class="header" href="#hardware">Hardware</a></h1>
-<p>Much of the original equipment that Unix originally ran on has been decomissioned.</p>
-<p>Some of the original systems are still in use, especially in cases where architectural successors exist (e.g., on the IBM S/370 line).</p>
-<ul>
-<li>2015: <a href="https://fms.komkon.org/comp/sys/DEC.html">Computer History: DEC Computers</a>
-<ul>
-<li>by <a href="https://fms.komkon.org/">Marat Fayzullin</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="models"><a class="header" href="#models">Models</a></h2>
-<p>See the <a href="http://bitsavers.org/pdf/dec/">DEC Documentation Archive</a> for manuals and information about peripherals.</p>
-<ul>
-<li><a href="https://github.com/PDP-10/-READ--THIS-">pdp10</a></li>
-<li><a href="http://www.pdp11.org">pdp11</a></li>
-</ul>
+<p>Much of the equipment that Unix originally ran on has been decommissioned. Some original systems are still in use, especially in cases where architectural successors exist (e.g., on the IBM S/370 line).</p>
+<p>It is possible now to run Ancient UNIX editions via a number of emulation software.</p>
 <h2 id="emulators"><a class="header" href="#emulators">Emulators</a></h2>
 <p>Here are emulators for various systems that Unix was developed or used on.</p>
 <ul>
@@ -1062,12 +1053,26 @@ Linus talk was recorded Sept 19, 2001
 <li>by <a href="https://aiju.de/about_me/">aiju</a></li>
 </ul>
 </li>
-<li><a href="https://github.com/aap/pdp6/">pdp6</a> emulator</li>
 </ul>
 <h2 id="emulation-milestones"><a class="header" href="#emulation-milestones">Emulation milestones</a></h2>
 <ul>
 <li>2019: <a href="https://www.youtube.com/watch?v=pvaPaWyiuLA">LCM+L PDP-7 booting and running UNIX Version 0</a></li>
 <li>2020: <a href="./code/pdp7.html">Space Travel game emulated on PDP-7 UNIX</a></li>
+</ul>
+<h2 id="models"><a class="header" href="#models">Models</a></h2>
+<p>See the <a href="http://bitsavers.org/pdf/dec/">DEC Documentation Archive</a> for manuals and information about peripherals.</p>
+<ul>
+<li><a href="https://github.com/PDP-10/-READ--THIS-">pdp10</a></li>
+<li><a href="http://www.pdp11.org">pdp11</a></li>
+</ul>
+<h2 id="misc"><a class="header" href="#misc">Misc</a></h2>
+<ul>
+<li><a href="https://github.com/aap/pdp6/">pdp6 emulator</a></li>
+<li><a href="https://fms.komkon.org/comp/sys/DEC.html">Computer History: DEC Computers</a> <!-- 2015 -->
+<ul>
+<li>by <a href="https://fms.komkon.org/">Marat Fayzullin</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="orgs"><a class="header" href="#orgs">Orgs</a></h2>
 <h3 id="1993-the-unix-heritage-society-tuhs"><a class="header" href="#1993-the-unix-heritage-society-tuhs">1993: The Unix Heritage Society (TUHS)</a></h3>
@@ -1138,6 +1143,8 @@ Origin of jschauma course is not certain. It may be even older
 </ul>
 </li>
 </ul>
+<h2 id="notes"><a class="header" href="#notes">Notes</a></h2>
+<p>In the primary sources section, <strong>most</strong> of the documents are from the UNIX creators. Some of the referenced material is <strong>not</strong>  strictly from UNIX authors. This distinction is made clear by hyperlinking every author for the relevant document, so that the reader can check for themselves who is from Bell Labs, some university or just another bloke from the world.</p>
 <h2 id="about-this-project"><a class="header" href="#about-this-project">About this project</a></h2>
 <p>It has been 50 years since the 1970 epoch. The Unix epoch is a common baseline for global timekeeping found in many systems.</p>
 <p>Many have seen monolithic IBM machines in media such as Stanley Kubrick's <code>2001: A Space Odyssey</code>, but most have not encountered the term &quot;mainframe&quot; in their entire life. A datacenter or any kind of cloud-connected resource is conceptually equivalent to the &quot;mainframe.&quot; In general, compute resources may be plenty, but need to be shared amongst many users. The solution to this problem turns out time and time again, to be Unix.</p>
@@ -1151,9 +1158,6 @@ update the briefing as needed to suit the audience.
 -->
 <p>In short, this reference exists as a guide to present the subject in a clear manner that is well suited for study.</p>
 <p>A lot of ground work was also done by The Unix Heritage Society, and this document refers to many of its resources. Be sure to <a href="https://wiki.tuhs.org/doku.php">see the TUHS Wiki</a> for more information.</p>
-<h2 id="contributing"><a class="header" href="#contributing">Contributing</a></h2>
-<p>This project is currently built as a basic set of markdown files at <a href="https://github.com/avindra/unix-info">Github</a> using <a href="https://github.com/rust-lang/mdBook">mdbook</a> and continuously deployed to Github Pages using Github Actions.</p>
-<p>Contributions are welcome and will be reviewed carefully.</p>
 <h2 id="about-the-compiler"><a class="header" href="#about-the-compiler">About the compiler</a></h2>
 <p><a href="https://dra.vin/#/about">Avindra Goolcharan</a> was created in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. Before the turn of the millennium, the family got a computer for the first time. It ran Microsoft Windows 98 SE, and was later upgraded to Windows XP and a Pentium 4 chip.</p>
 <p>In the early 2000s, Ubuntu emerged. At the time, Ubuntu physically delivered free CD-ROMs to users who needed them, which made it simultaneously practical, easy and affordable for people to adopt Linux, including Avindra. To him, the default Gnome interface was a breath of fresh air to the Mac and Windows systems that schools and businesses seem to prefer.</p>
@@ -1161,6 +1165,8 @@ update the briefing as needed to suit the audience.
 <h2 id="about-unix"><a class="header" href="#about-unix">About UNIX</a></h2>
 <p>UNIX is a registered trademark of The Open Group</p>
 <p><a href="http://www.unix.org/trademark.html">http://www.unix.org/trademark.html</a></p>
+<h2 id="contributing"><a class="header" href="#contributing">Contributing</a></h2>
+<p>This project is currently built as a basic set of markdown files at <a href="https://github.com/avindra/unix-info">Github</a> using <a href="https://github.com/rust-lang/mdBook">mdbook</a> and continuously deployed to Github Pages using Github Actions.</p>
 
                     </main>
 
