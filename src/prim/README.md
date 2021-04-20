@@ -6,7 +6,7 @@ These are various technical papers and other writings about UNIX from its creato
 
 This document is the earliest known formal description of the UNIX system. It had a few revisions, and an early draft is available.
 
-* [1971](https://minnie.tuhs.org/pipermail/tuhs/2015-November/007703.html): [Draft: The UNIX Time-Sharing System](https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/UnixEditionZero-Threshold_OCR.pdf)
+* [1971](https://minnie.tuhs.org/pipermail/tuhs/2015-November/007703.html): [Draft: The UNIX Time-Sharing System](https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/UnixEditionZero-Threshold_OCR.pdf) ([Txt](https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/UnixEditionZero.txt))
   * by Dennis Ritchie
 * 1974: [The UNIX Time-Sharing System](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.595&rep=rep1&type=pdf) ([ACM](https://dl.acm.org/doi/10.1145/361011.361061)) ([mirror](http://www.tom-yam.or.jp/2238/ref/unix.pdf)) ([mirror 2](https://www.tuhs.org/Archive/Documentation/Papers/unix_cacm74.pdf))
   * by Dennis Ritchie and Ken Thompson

@@ -27,6 +27,8 @@ Today, programmers use languages like C++, Rust and [Go](./go.md) in addition to
    * [2nd edition (ANSI-C) published 1988](https://archive.org/details/The_C_Programming_Language/mode/2up) ([mirror @issuu](https://issuu.com/chinna12kumar/docs/the_c_programming_language_ansi_c_version/9))
  * 1978: [Portability of C Programs and the UNIX System](https://www.bell-labs.com/usr/dmr/www/portpap.pdf)
    * by Stephen C. Johnson and Dennis Ritchie
+ * 1984: C A Reference Manual ([5e](https://savedparadigms.files.wordpress.com/2014/09/harbison-s-p-steele-g-l-c-a-reference-manual-5th-ed.pdf)) ([TOC](https://cds.cern.ch/record/1547272/files/013089592X_TOC.pdf))
+   * by [Samuel Harbison](https://paw.princeton.edu/memorial/samuel-p-harbison-74) and [Guy Steele](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:120)
  * 1990: [A New C Compiler](http://doc.cat-v.org/bell_labs/new_c_compilers/new_c_compiler.pdf)
    * by Ken Thompson
  * 1993: [The Development of the C Language](http://www.bell-labs.com/usr/dmr/www/chist.pdf)
