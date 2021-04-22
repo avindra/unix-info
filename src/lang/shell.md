@@ -1,8 +1,8 @@
 # Shell
 
-The Shell is a type of [command language](https://en.wikipedia.org/wiki/Command_language), an interface to the operating system and a means for the user to control the kernel. Multiple shells have seen use since early UNIX days, and still more shells are being developed today.
+The Shell, a type of [command language](https://en.wikipedia.org/wiki/Command_language), is an interface to the operating system and a means for the user to control the kernel. Multiple shells have seen use since early UNIX days, and still more shells are being developed today.
 
-Shell languages often mix structured programming with bespoke commands like [`cd`](https://en.wikipedia.org/wiki/Cd_(command)#Implementations) command, which every shell MUST implement since `chdir` can only affect the working directory of the running process itself.
+Shell languages often mix structured programming constructs with bespoke commands like [`cd`](https://en.wikipedia.org/wiki/Cd_(command)#Implementations) command, which every shell MUST implement since `chdir` can only affect the working directory of the running process itself.
 
 * 1976: [The Unix Command Language](https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf) ([more info](https://github.com/susam/tucl#combined-pdf))
   * by Ken Thompson

@@ -7,8 +7,6 @@ In particular, branches closer to the epoch (1970) are of great interest.
 
 * 1975: [MERT - a multi-environment real-time operating system](https://portal.acm.org/citation.cfm?id=806519) ([1977 BSTJ Article](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2049.pdf))
   * by [Heinz Lycklama](https://www.heinzlycklama.com/osta/heinz-lycklama/) and [Douglas L. Bayer](https://dblp.org/pid/81/3206.html)
-* 1977: [The Programmer's Workbench](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2177.pdf)
-  * by [Ted A. Dolotta](https://dblp.org/pid/66/4561.html), [Richard C. Haight](https://wiki.tuhs.org/doku.php?id=people:dick_haight) and John R. Mashey
 * 1982: ([YouTube](https://www.youtube.com/watch?v=Pr1XXvSaVUQ)) [_BLIT_](https://techchannel.att.com/playvideo/2012/08/27/AT&T-Archives-BLIT-UNIX-GUI).
   * [1983, The Blit: A Multiplexed Graphics Terminal (.ps)](https://9p.io/cm/cs/doc/83/mpx.ps.gz)
   * An early Graphical User Interface (GUI) created by Rob Pike and Bart Locanthi for Unix.

@@ -19,6 +19,8 @@ References:
      - [PDP-7 UNIX](./code/pdp7.md)
 - [Early history](./early_history.md)
 - [Primary sources](./prim/README.md)
+     - [Security](./prim/security.md)
+     - [Userspace](./prim/userspace.md)
      - [Manuals](./prim/man.md)
      - [Video productions](./prim/video.md)
      - [Books](./prim/books.md)

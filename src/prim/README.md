@@ -33,10 +33,6 @@ This document is the earliest known formal description of the UNIX system. It ha
   * by Dennis Ritchie
 * 1978: [UNIX Implementation](https://people.eecs.berkeley.edu/~prabal/resources/osprelim/Tho78.pdf) ([mirror](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-1931.pdf))
   * by Ken Thompson
-* 1978: [On the Security of UNIX](http://www.tom-yam.or.jp/2238/ref/secur.pdf) ([html](https://www.mirbsd.org/htman/i386/manSMM/16.security.htm))
-  * by Dennis Ritchie
-* 1978: [The UNIX Operating System as a Base for Applications](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-2201.pdf)
-   * by [Gottfried W.R. Luderer](https://dblp.org/pid/82/2394.html), [Joe F. Maranzano](https://rosenet.org/474/Joe-Maranzano) and Berk A. Tague
 * 1979: [The Unix I/O System](http://www.tom-yam.or.jp/2238/ref/iosys.pdf) ([source code](https://9p.io/7thEdMan/vol2/iosys))
   * by Dennis Ritchie
   * a description of the v7 system
@@ -51,9 +47,5 @@ This document is the earliest known formal description of the UNIX system. It ha
   * by Dennis Ritchie
   * [st.pdf](http://www.bell-labs.com/usr/dmr/www/st.pdf) (source [st.ps](http://www.bell-labs.com/usr/dmr/www/st.ps))
   * Ideas about coroutines and IPC
-* 1984: [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) ([HTML](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html))
-  * by Ken Thompson
-  * Multi-stage compiler backdoor hack presented at acceptance of an ACM award
-  * [2021 overview](https://www.youtube.com/watch?v=SJ7lOus1FzQ) [by Brailsford](https://www.nottingham.ac.uk/news/expertiseguide/computer-science-/professor-david-brailsford-.aspx)
 * 1985: [Interprocess Communication in the Eight Edition Unix System](https://www.tuhs.org/Archive/Documentation/Papers/Interprocess_Communications_in_the_8th_Edition_Unix_Ritchie+Presotto_USENIX_SUMMER_19850612.pdf)
   * by [David L. Presotto](https://dblp.org/pid/10/5768.html) and Dennis Ritchie
