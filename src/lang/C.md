@@ -4,8 +4,9 @@ C is a programming language that was the primary language used in UNIX systems s
 
 Today, programmers use languages like C++, Rust and [Go](./go.md) in addition to C. C still enjoys use on modern UNIX systems and in embedded settings.
 
- * 1972: [legacy-cc](https://github.com/mortdeus/legacy-cc)
-   * early C compiler built by Dennis Ritchie, restored
+ * 1972: [Primeval C](https://www.bell-labs.com/usr/dmr/www/primevalC.html)
+   * by Dennis Ritchie
+   * early C compiler history
  * 1974: [Programming in C: A Tutorial](https://www.bell-labs.com/usr/dmr/www/ctut.pdf) ([html](https://www.lysator.liu.se/c/bwk-tutor.html))
    * by Brian Kernighan
  * 1975: [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
