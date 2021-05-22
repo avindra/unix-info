@@ -28,8 +28,14 @@ Today, programmers use languages like C++, Rust and [Go](./go.md) in addition to
    * [2nd edition (ANSI-C) published 1988](https://archive.org/details/The_C_Programming_Language/mode/2up) ([mirror @issuu](https://issuu.com/chinna12kumar/docs/the_c_programming_language_ansi_c_version/9))
  * 1978: [Portability of C Programs and the UNIX System](https://www.bell-labs.com/usr/dmr/www/portpap.pdf)
    * by Stephen C. Johnson and Dennis Ritchie
+ * 1983: [The C Language and Models for Systems Programming](https://archive.org/details/byte-magazine-1983-08/page/n49/mode/1up)
+   * by Stephen C. Johnson and Brian Kernighan
+   * for Byte Magazine
  * 1984: C A Reference Manual ([5e](https://savedparadigms.files.wordpress.com/2014/09/harbison-s-p-steele-g-l-c-a-reference-manual-5th-ed.pdf)) ([TOC](https://cds.cern.ch/record/1547272/files/013089592X_TOC.pdf))
    * by [Samuel Harbison](https://paw.princeton.edu/memorial/samuel-p-harbison-74) and [Guy Steele](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:120)
+ * 1988: [The State of C](https://archive.org/details/byte-magazine-1988-08/page/n330/mode/1up)
+   * by Brian Kernighan and Dennis Ritchie
+   * for Byte Magazine
  * 1990: [A New C Compiler](http://doc.cat-v.org/bell_labs/new_c_compilers/new_c_compiler.pdf)
    * by Ken Thompson
  * 1993: [The Development of the C Language](http://www.bell-labs.com/usr/dmr/www/chist.pdf)
@@ -39,6 +45,23 @@ Today, programmers use languages like C++, Rust and [Go](./go.md) in addition to
  * 2015: ["C" Programming Language](https://www.youtube.com/watch?v=de2Hsvxaf8M)
    * by Brian Kernighan
    * excerpt from a Computerphile interview
+
+### C++
+
+C++ is championed by Bjarne Stroustrup, who was another Bell Labs collaborator.
+
+ * 1988: [A Better C?](https://archive.org/details/byte-magazine-1988-08/page/n340/mode/1up)
+   * by Bjarne Stroustrup
+   * for Byte Magazine
+
+<!--
+1988: The State of C (Byte Magazine) -> Kernighan and Ritchie
+
+https://twitter.com/unix_byte/status/1319754423472537600
+
+https://dl.acm.org/toc/byte/1988/13/8
+https://dl.acm.org/doi/10.5555/47244.47251
+-->
 
 
 ## B
