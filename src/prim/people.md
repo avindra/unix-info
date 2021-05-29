@@ -1,6 +1,6 @@
 ## People
 
-Many, many people worked on Unix.
+A lot of people worked on Unix.
 
 A good place to start is the `A Research UNIX Reader: Annotated Excerpts from the Programmer’s Manual`, dated  1971-1986 from Douglas:
 
@@ -17,8 +17,9 @@ These are interviews with people who worked on Unix, speaking about Unix or the 
  * 2011: [Dennis Ritchie](https://www.youtube.com/watch?v=umF6SNYaJNw)
    * by `Daniel Sieberg` for `ABC News`
  * 2015: [Brian Kernighan](https://www.youtube.com/watch?v=vT_J6xc-Az0) interviewed about UNIX
-   * `C and Unix at Bell Labs` for `VCF East 10`
+   * for `Computerphile`
  * 2016: [Brian Kernighan](https://www.youtube.com/watch?v=TUWt_StXKsY) talking about C, UNIX and computer careers
+   * `C and Unix at Bell Labs` for `VCF East 10`
  * 2017: [Brian Kernighan](https://www.youtube.com/watch?v=bTWv-l0JhAc) interviewed by John Mashey
    * `Oral History of Brian Kernighan` - `Computer History Museum`
  * 2019: [Ken Thompson](https://youtu.be/EY6q5dv_B-o?t=494) interviewed by Brian Kernighan
