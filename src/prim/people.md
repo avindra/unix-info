@@ -12,13 +12,21 @@ A good place to start is the `A Research UNIX Reader: Annotated Excerpts from th
 These are interviews with people who worked on Unix, speaking about Unix or the personal affect it had on their lives.
 
 
- * 1999: [Ken Thompson](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson.html) interviewed by Computer ([PDF](http://cse.unl.edu/~witty/class/csce351/howto/ken_thompson.pdf))
+ * 1999: [Ken Thompson](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson.html) ([PDF](http://cse.unl.edu/~witty/class/csce351/howto/ken_thompson.pdf))
+   * `Unix and Beyond` - `Computer Magazine`
  * 2011: [Dennis Ritchie](https://www.youtube.com/watch?v=umF6SNYaJNw)
+   * by `Daniel Sieberg` for `ABC News`
  * 2015: [Brian Kernighan](https://www.youtube.com/watch?v=vT_J6xc-Az0) interviewed about UNIX
+   * `C and Unix at Bell Labs` for `VCF East 10`
  * 2016: [Brian Kernighan](https://www.youtube.com/watch?v=TUWt_StXKsY) talking about C, UNIX and computer careers
  * 2017: [Brian Kernighan](https://www.youtube.com/watch?v=bTWv-l0JhAc) interviewed by John Mashey
- * 2019: [Ken Thompson](https://youtu.be/EY6q5dv_B-o?t=494) interviewed by Brian Kernighan at VCF East 2019
+   * `Oral History of Brian Kernighan` - `Computer History Museum`
+ * 2019: [Ken Thompson](https://youtu.be/EY6q5dv_B-o?t=494) interviewed by Brian Kernighan
+   * `VCF East 2019`
  * 2020: [Brian Kernighan](https://corecursive.com/brian-kernighan-unix-bell-labs1/) interviewed on CoreCursive podcast
+   * `The Birth of UNIX`
+ * 2021: [Alfred Aho and Jeffrey Ullman](https://dl.acm.org/doi/pdf/10.1145/3460442) interviewed by Leah Hoffmann for ACM
+   * `Shaping the Foundations of Programming Languages`
 
 # Retrospectives
 
