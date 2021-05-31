@@ -2,6 +2,8 @@
 
 UNIX had various tools for compiling programs and building compilers themselves. Here is some literature:
 
+ * 1972: [The Theory of Parsing, Translation and Compiling](https://dl.acm.org/doi/book/10.5555/578789) ([PDF](https://dl.acm.org/doi/pdf/10.5555/578789)) ([Vol II](https://www-2.dc.uba.ar/staff/becher/Aho-Ullman-Parsing-V2.pdf))
+   * by Al Aho and Jeffrey Ullman
  * 1975: [Yacc: Yet Another Compiler-Compiler](https://www.epaperpress.com/lexandyacc/download/yacc.pdf) ([HTML](https://www.cs.utexas.edu/users/novak/yaccpaper.htm))
    * by Stephen C. Johnson
  * 1975: [Lex: A Lexical Analyzer Generator](https://www.cs.utexas.edu/users/novak/lexpaper.htm)
