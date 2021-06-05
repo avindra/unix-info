@@ -37,8 +37,3 @@ By 2008, the author started writing original computer programs and scripts. Arou
 UNIX is a registered trademark of The Open Group
 
 [http://www.unix.org/trademark.html](http://www.unix.org/trademark.html)
-
-## Contributing
-
-This project is currently built as a basic set of markdown files at [Github](https://github.com/avindra/unix-info) using [mdbook](https://github.com/rust-lang/mdBook) and continuously deployed to Github Pages using Github Actions.
-

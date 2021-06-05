@@ -75,3 +75,4 @@ For completeness sake, there briefly existed a language called B which was later
   * 1973: [A Tutorial Introduction To The Language B](https://www.bell-labs.com/usr/dmr/www/btut.pdf)
     * by Brian Kernighan
   * 1973: [Users' Reference to B on MH-TSS](http://cm.bell-labs.co/who/dmr/bref.pdf) ([HTML](https://www.bell-labs.com/usr/dmr/www/bref.html))
+    * by Stephen C. Johnson

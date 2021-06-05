@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "The Unix Operating System"
+
+[output.html]
+git-repository-url = "https://github.com/avindra/unix-info"
+edit-url-template = "https://github.com/avindra/unix-info/edit/src/{path}"
