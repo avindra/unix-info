@@ -2,7 +2,7 @@
 
 Books on Unix that are not [manuals](./man.md).
 
-Some [courses](./../courses.md) are available that use these book(s).
+See also: [courses](./../courses.md).
 
 * 1977: [A Commentary on the Sixth Edition UNIX Operating System](https://cs3210.cc.gatech.edu/r/unix6.pdf)
   * by [John Lions](https://en.wikipedia.org/wiki/John_Lions)
@@ -13,14 +13,6 @@ Some [courses](./../courses.md) are available that use these book(s).
   * This was the textbook used in a University course of which Linus Torvalds was a student.
 * 1987: [UNIX System Readings and Applications Volume I](http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf)
   * An official, 400-page dense compilation of many writings on Unix from Bell Labs
-* 1989: [Life with Unix: _A Guide for Everyone_](https://www.tuhs.org/Archive/Documentation/Books/Life_with_Unix_v2.pdf)
-  * by [Don Libes](https://www.nist.gov/el/systems-integration-division-73400/don-libes-publications-list) and [Sandy Ressler](https://math.nist.gov/~SRessler)
-  * Loaded with references and information.
-  * A certifiable trove of Unix information.
-  * [Donated by the author to TUHS Archive](https://www.tuhs.org/Archive/Documentation/Books/Readme)
-* 1992: [Advanced Programming in the UNIX Environment](http://www.apuebook.com/)
-  * [2005: 2nd edition](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.2318&rep=rep1&type=pdf)
-  * [Course available that uses this textboook](./../courses.md)
 * 1996: [The UNIX-HATERS Handbook](https://web.mit.edu/~simsong/www/ugh.pdf)
   * criticism/parody of Unix
   * contains an anti-foreword from Dennis Ritchie
@@ -29,3 +21,19 @@ Some [courses](./../courses.md) are available that use these book(s).
   * Eric is better known for `The Cathedral and the Bazaar` (catb)
 * 2019: [UNIX: A History and a Memoir](https://www.cs.princeton.edu/~bwk/memoir.html)
   * by Brian Kernighan
+
+
+## Secondary books
+
+* 1989: [Life with Unix: _A Guide for Everyone_](https://www.tuhs.org/Archive/Documentation/Books/Life_with_Unix_v2.pdf)
+  * by [Don Libes](https://www.nist.gov/el/systems-integration-division-73400/don-libes-publications-list) and [Sandy Ressler](https://math.nist.gov/~SRessler)
+  * Loaded with references and information.
+  * A certifiable trove of Unix information.
+  * [Donated by the author to TUHS Archive](https://www.tuhs.org/Archive/Documentation/Books/Readme)
+* 1992: [Advanced Programming in the UNIX Environment](http://www.apuebook.com/)
+  * by [W. Richard Stevens](http://www.kohala.com/start/)
+  * [2005: 2nd edition](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.2318&rep=rep1&type=pdf)
+  * [Course available that uses this textboook](./../courses.md)
+* 2021+: [Chapter 2 - UNIX](https://www.netmeister.org/book/02-unix.pdf)
+  * by [Jan Schaumann](https://www.netmeister.org/)
+  * excerpt of unreleased [*Principles of System Administration*](https://www.netmeister.org/book)
