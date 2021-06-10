@@ -9,6 +9,8 @@ Personnel, machines that madde up the computational environment and related rese
   * [S/370](https://en.wikipedia.org/wiki/IBM_System/370) (later replaced by [S390](https://en.wikipedia.org/wiki/IBM_System/390)) was the main timesharing computer
 * 1973: 📼 [The Holmdel Computer Center, Part 2: Programmer Services](https://techchannel.att.com/playvideo/2012/11/28/AT&T-Archives-Holmdel-Computer-Center-Part-2) ([YouTube](https://www.youtube.com/watch?v=V9aVOIuKVUc))
 * 1982: [Holmdel 20th Anniversary, a history of the legendary Bell Labs facility designed by Eero Saarinen](https://www.youtube.com/watch?v=BPq_ZyOvbsg&t=534s)
+* 1982: [Breakup of the Bell System](https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System)
+  * [June 2021 TUHS post](https://minnie.tuhs.org/pipermail/tuhs/2021-June/023869.html)
 * 2015: [Memories: A Personal History of Bell Telephone Laboratories](https://quello.msu.edu/wp-content/uploads/2015/08/Memories-Noll.pdf)
   * by [A Michael Noll](http://noll.uscannenberg.org/)
 * 2021: [History of Science and Technology Q&A (Mar. 10, 2021)](https://www.youtube.com/watch?v=5WfPiaseAyM)

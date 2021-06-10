@@ -38,4 +38,5 @@ References:
 - [Hardware](./hardware.md)
 - [Organizations](./orgs.md)
 - [Courses](./courses.md)
+- [Humor](./humor.md)
 - [About](./about.md)
