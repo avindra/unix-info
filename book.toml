@@ -3,7 +3,7 @@ authors = ["Avindra Goolcharan"]
 language = "en"
 multilingual = false
 src = "src"
-title = "The Unix Operating System"
+title = "The UNIX Operating System"
 
 [output.html]
 git-repository-url = "https://github.com/avindra/unix-info"

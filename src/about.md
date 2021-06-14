@@ -24,7 +24,7 @@ In short, this reference exists as a guide to present the subject in a clear man
 A lot of ground work was also done by The Unix Heritage Society, and this document refers to many of its resources. Be sure to [see the TUHS Wiki](https://wiki.tuhs.org/doku.php) for more information.
 
 
-## About the compiler
+## About the linker
 
 [Avindra Goolcharan](https://dra.vin/#/about) was created in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. Before the turn of the millennium, the family got a computer for the first time. It ran Microsoft Windows 98 SE, and was later upgraded to Windows XP and a Pentium 4 chip.
 

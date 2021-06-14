@@ -17,6 +17,3 @@ TUHS was orginally formed as "the [PDP-11](./hardware.md) Unix Preservation Soci
    - originally founded as "Unix Users Group", rename forced by AT&T legal team
    - [various active publications](https://www.usenix.org/publications)
  * 2021: [cs.bell-labs.co](http://cs.bell-labs.co/)
-   - archives Unix
-   - archives plan 9
-   - contains harmful content
