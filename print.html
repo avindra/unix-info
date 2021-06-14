@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>The Unix Operating System</title>
+        <title>The UNIX Operating System</title>
                 <meta name="robots" content="noindex" />
                 
 
@@ -112,7 +112,7 @@
                         </button>
                                             </div>
 
-                    <h1 class="menu-title">The Unix Operating System</h1>
+                    <h1 class="menu-title">The UNIX Operating System</h1>
 
                     <div class="right-buttons">
                                                 <a href="print.html" title="Print this book" aria-label="Print this book">
@@ -147,10 +147,14 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="introduction"><a class="header" href="#introduction">Introduction</a></h1>
-<p><a href="https://www.bell-labs.com/usr/dmr/www/picture.html"><img src="https://www.bell-labs.com/usr/dmr/www/ken-and-den.jpg" alt="Image of Ken Thompson and Dennis Ritchie at work in 1972. Before them, a DEC PDP-11, with a Teletype Model 33 attached" /></a></p>
-<p><code>Unix</code> is a system created somewhere in the 60s when a solution for <a href="https://en.wikipedia.org/wiki/Time-sharing">timesharing</a> became an increasing demand for mainframe machines. State-of-the-art computers often completely filled up rooms. They were expensive to build and perhaps even more expensive to maintain. So early on, engineers got to work on solving scheduling algorithms for general compute tasks.</p>
-<p>The Unix-style system solves problems not only on single-purpose devices, but on networked groups of machines as well. Unix facilitates the clustering of resources through many apis and utilities. Using the Unix system, one can develop very sophisticated software that remains robust, fast, secure and portable.</p>
+                        <p><a href="https://www.bell-labs.com/usr/dmr/www/picture.html"><img src="https://www.bell-labs.com/usr/dmr/www/ken-and-den.jpg" alt="Image of Ken Thompson and Dennis Ritchie at work in 1972. Before them, a DEC PDP-11, with a Teletype Model 33 attached" /></a></p>
+<h1 id="introduction"><a class="header" href="#introduction">Introduction</a></h1>
+<blockquote>
+<p>Brief: a short description of the significance and extent of UNIX</p>
+</blockquote>
+<p><code>UNIX</code> (or <a href="https://en.wikipedia.org/wiki/Unix"><code>Unix</code></a>)  is a system that was built in the 1960s in response to the ever extant need for a reliable Operating System. Problems of the day included <a href="https://en.wikipedia.org/wiki/Time-sharing">timesharing</a>. State-of-the-art computers often completely filled up rooms. They were expensive to build and perhaps even more expensive to maintain.</p>
+<p>UNIX was created initially by Ken Thompson, and further developed by Dennis Ritchie and other <a href="./prim/people.html">people</a> at AT&amp;T's Computing Science Research Center of <a href="./prim/bell.html">Bell Labs</a> in New Jersey. Early on, they got to work on solving all kinds of general purpose compute problems. By now, many other people have contributed to the development of UNIX and Unix-like operating systems, and UNIX has spread all over the world and beyond.</p>
+<p>A UNIX-style system can solve a problem not only on single-purpose device, but on networked groups of machines as well. UNIX facilitates the clustering of resources through many apis and utilities. Using the UNIX system, one can develop very sophisticated software that remains robust, fast, secure and portable. Remote access and distributed computing were further developed in the <a href="./9.html">Plan 9</a> system. Plan 9 development continues into 2021, and many of its ideas have already been taken back into UNIX-like derivatives.</p>
 <h2 id="get-started"><a class="header" href="#get-started">Get started</a></h2>
 <p>There are multiple ways to navigate this document:</p>
 <ul>
@@ -158,18 +162,24 @@
 <li>Keyboard: use left and right arrow keys </li>
 <li>PC/Mobile: use edge panels labeled <code>&lt;</code> and <code>&gt;</code></li>
 </ul>
-<div style="break-before: page; page-break-before: always;"></div><p>Unix was developed before modern SCMs such as Git came about, but it has since been <a href="https://github.com/dspinellis/unix-history-repo/tree/master">ported to Git</a>, thanks to an effort led by <a href="https://www.spinellis.gr/index.html.var">Diomidis Spinellis</a>.</p>
-<p>If you want to know more about the project and the archaeological effort to recreate Unix in git, see <a href="https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html">Dr. Spinellis's 2016 document &quot;A Repository of Unix History and Evolution&quot;</a>. A <a href="https://www.tuhs.org/Archive/Documentation/Papers/Spi15c.pdf">2015 edition</a>, titled &quot;A Repository with 44 Years of Unix Evolution&quot; is also available.</p>
-<p>Be sure to check out the <a href="code/./pdp7.html">pdp7 page</a> for an early version of UNIX.</p>
+<div style="break-before: page; page-break-before: always;"></div><ul>
+<li><strong>Repository</strong>: <a href="https://github.com/dspinellis/unix-history-repo/tree/master">https://github.com/dspinellis/unix-history-repo</a></li>
+<li><strong>Created by</strong>: <a href="https://www.spinellis.gr/index.html.var">Diomidis Spinellis</a></li>
+</ul>
+<p>Unix has been ported to Git repository featuring multiple branches and accurately timestamped git commits.
+If you want to know more about the project and the archaeological effort to recreate Unix in git, see <a href="https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html">Dr. Spinellis's 2016 document &quot;A Repository of Unix History and Evolution&quot;</a>. A <a href="https://www.tuhs.org/Archive/Documentation/Papers/Spi15c.pdf">2015 edition</a>, titled &quot;A Repository with 44 Years of Unix Evolution&quot; is also available.</p>
+<p>See also: <a href="code/./pdp7.html">pdp7 Unix</a> by Warren Toomey</p>
 <h2 id="visualization"><a class="header" href="#visualization">Visualization</a></h2>
 <p>Here is a run of the synthesized Unix repo through <a href="https://gource.io/">Gource</a>, which helps us to imagine what the development of Unix might have looked like. The following run captures only the history from 1972 - 1985.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iX-A7-n7g5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>After 1980 the tree becomes quite complex, so further context should be added to help explain the structure.</p>
-<p>If the embed is not showing for some reason, you can <a href="https://www.youtube.com/watch?v=iX-A7-n7g5Y">watch it in YouTube</a></p>
-<div style="break-before: page; page-break-before: always;"></div><h2 id="pdp-7-source"><a class="header" href="#pdp-7-source">PDP-7 source</a></h2>
-<p>One of the earliest complete versions of UNIX ran on the PDP-7. There is now a Github repository that seeks to resurrect specifically the pdp7 version of UNIX:</p>
-<p><a href="https://github.com/DoctorWkt/pdp7-unix">https://github.com/DoctorWkt/pdp7-unix</a></p>
-<p>It includes a version of Ken Thompson's <a href="https://github.com/DoctorWkt/pdp7-unix/blob/master/src/cmd/st1.s">space travel game</a> that is sometimes described as the impetus for UNIX.</p>
+<p>After 1980 the tree becomes quite complex. Crucially, the <a href="code//prim/bell.html">Bell System</a> was broken up over 1982-1984, and the final <a href="https://www.tuhs.org/Archive/Distributions/RELEASE_DATES">release of research UNIX</a> was the 10th edition in 1989.</p>
+<p>If the embedded video fails to load, try <a href="https://www.youtube.com/watch?v=iX-A7-n7g5Y">YouTube</a>.</p>
+<div style="break-before: page; page-break-before: always;"></div><ul>
+<li><strong>Repository</strong>: <a href="https://github.com/DoctorWkt/pdp7-unix">https://github.com/DoctorWkt/pdp7-unix</a></li>
+<li><strong>Created by</strong>: <a href="https://minnie.tuhs.org/warren.html">Warren Toomey</a></li>
+</ul>
+<p>One of the earliest complete versions of UNIX ran on the PDP-7. </p>
+<p>This restoration includes assembler source for Ken Thompson's <a href="https://github.com/DoctorWkt/pdp7-unix/blob/master/src/cmd/st1.s">space travel game</a> that is sometimes described as the impetus for UNIX.</p>
 <ul>
 <li>2001: <a href="https://9p.io/who/dmr/spacetravel.html">Space Travel: Exploring the solar system and the PDP-7</a>
 <ul>
@@ -199,8 +209,7 @@
 <li>1967: <a href="https://github.com/PDP-10/its">Incompatible Timesharing System (ITS)</a></li>
 <li>1969: <a href="https://www.multicians.org/general.html">Multics</a>
 <ul>
-<li>Ken and Dennis were both Multics programmers</li>
-<li>Considered by some UNIX authors to be too derivative of CTSS and cumbersome to be useful</li>
+<li>Ken and Dennis were two of several Multics programmers who later worked on UNIX</li>
 </ul>
 </li>
 </ul>
@@ -1100,6 +1109,14 @@ Linus talk was recorded Sept 19, 2001
 <li><a href="https://9fans.github.io/plan9port/">Plan 9 From User Space</a></li>
 <li><a href="http://9p.io/plan9/">Plan 9 From Bell Labs</a></li>
 </ul>
+<!--
+
+?
+
+http://fqa.9front.org/ by
+
+http://stanleylieber.com/
+-->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="hardware"><a class="header" href="#hardware">Hardware</a></h1>
 <p>Much of the equipment that Unix originally ran on has been decommissioned (i.e., put out of use). Some original systems are still in use, especially in cases where architectural successors exist (e.g., on the IBM S/370 line).</p>
 <p>It is possible now to run Ancient UNIX editions via a number of emulation software.</p>
@@ -1169,13 +1186,7 @@ Linus talk was recorded Sept 19, 2001
 <li><a href="https://www.usenix.org/publications">various active publications</a></li>
 </ul>
 </li>
-<li>2021: <a href="http://cs.bell-labs.co/">cs.bell-labs.co</a>
-<ul>
-<li>archives Unix</li>
-<li>archives plan 9</li>
-<li>contains harmful content</li>
-</ul>
-</li>
+<li>2021: <a href="http://cs.bell-labs.co/">cs.bell-labs.co</a></li>
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h2 id="courses"><a class="header" href="#courses">Courses</a></h2>
 <p>These are traditional academic courses available online on the subject of Unix.</p>
@@ -1259,7 +1270,7 @@ update the briefing as needed to suit the audience.
 -->
 <p>In short, this reference exists as a guide to present the subject in a clear manner that is well suited for study.</p>
 <p>A lot of ground work was also done by The Unix Heritage Society, and this document refers to many of its resources. Be sure to <a href="https://wiki.tuhs.org/doku.php">see the TUHS Wiki</a> for more information.</p>
-<h2 id="about-the-compiler"><a class="header" href="#about-the-compiler">About the compiler</a></h2>
+<h2 id="about-the-linker"><a class="header" href="#about-the-linker">About the linker</a></h2>
 <p><a href="https://dra.vin/#/about">Avindra Goolcharan</a> was created in 1991, the year of the first public Linux kernel release. Since 1997, Avindra resides in the state of New Jersey, which is the location of many of these stories. Before the turn of the millennium, the family got a computer for the first time. It ran Microsoft Windows 98 SE, and was later upgraded to Windows XP and a Pentium 4 chip.</p>
 <p>In the early 2000s, Ubuntu emerged. At the time, Ubuntu physically delivered free CD-ROMs to users who needed them, which made it simultaneously practical, easy and affordable for people to adopt Linux, including Avindra. To him, the default Gnome interface was a breath of fresh air to the Mac and Windows systems that schools and businesses seem to prefer.</p>
 <p>By 2008, the author started writing original computer programs and scripts. Around 2015, Avindra started using the openSUSE Linux distribution, and can be found contributing patches as an openSUSE member.</p>
