@@ -1,11 +1,17 @@
 ## People
 
-A lot of people worked on Unix.
 
-A good place to start is the `A Research UNIX Reader: Annotated Excerpts from the Programmer’s Manual`, dated  1971-1986 from Douglas:
+ * 2019: [Center 1127 Computing Sciences Research Alumni](https://www.spinroot.com/gerard/1127_alumni.html)
+   - maint by [Gerard J. Holzmann](http://spinroot.com/gerard/) ([en:Wiki](https://en.wikipedia.org/wiki/Gerard_J._Holzmann))
+ * 1986(1971-): [A Research UNIX Reader: Annotated Excerpts from the Programmer's Manual](https://www.cs.dartmouth.edu/~doug/reader.pdf)
+   * by Douglas McIlroy
+ * 2005: [Unix people at princeton.edu](http://www.princeton.edu/~hos/Mahoney/unixpeople.htm)
+   * by [Michael S. Mahoney](https://www.princeton.edu/~hos/Mahoney/) ([Wiki](https://en.wikipedia.org/wiki/Michael_Sean_Mahoney))
 
-[https://www.cs.dartmouth.edu/~doug/reader.pdf](https://www.cs.dartmouth.edu/~doug/reader.pdf)
+See also:
 
+ * [People at the TUHS Wiki](https://wiki.tuhs.org/doku.php?id=people:start)
+ * [Spinellis source code repository](./../code), which annotates known code contributions.
 
 # Interviews
 
@@ -46,8 +52,3 @@ These are interviews with people who worked on Unix, speaking about Unix or the 
  * 2020: [ACM Turing Award](https://awards.acm.org/about/2020-turing) ([Press](https://www.acm.org/media-center/2021/march/turing-award-2020))
    * presented to [Al Aho](https://awards.acm.org/award_winners/aho_1046358) and [Jeffrey Ullman](https://awards.acm.org/award_winners/ullman_1054360) for [compiler books](./../lang/compiler.md)
 
-# See also
-
- * [People at the TUHS Wiki](https://wiki.tuhs.org/doku.php?id=people:start)
- * [Source code](./../code), which has annotations for known code contributions.
- * [Unix people at princeton.edu](https://www.princeton.edu/~hos/Mahoney/unixpeople.htm)
