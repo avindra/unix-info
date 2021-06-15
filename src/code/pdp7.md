@@ -1,6 +1,6 @@
 
  * **Repository**: [https://github.com/DoctorWkt/pdp7-unix](https://github.com/DoctorWkt/pdp7-unix)
- * **Created by**: [Warren Toomey](https://minnie.tuhs.org/warren.html)
+ * **Created by**: [Warren Toomey](https://minnie.tuhs.org/warren.html), [Norman Wilson](https://www.teach.cs.toronto.edu/~norman/pers/index.html), [et. al](https://github.com/DoctorWkt/pdp7-unix/graphs/contributors)
 
 
 One of the earliest complete versions of UNIX ran on the PDP-7. 
