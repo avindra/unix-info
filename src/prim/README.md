@@ -47,5 +47,7 @@ This document is the earliest known formal description of the UNIX system. It ha
   * by Dennis Ritchie
   * [st.pdf](http://www.bell-labs.com/usr/dmr/www/st.pdf) (source [st.ps](http://www.bell-labs.com/usr/dmr/www/st.ps))
   * Ideas about coroutines and IPC
+* 1984: [A History of UNIX before Berkeley: UNIX Evolution: 1975-1984](https://www.darwinsys.com/history/hist.html) ([Mirror](http://doc.cat-v.org/unix/unix-before-berkeley/))
+  * by [Ian F. Darwin](https://www.darwinsys.com/history/) and [Geoff Collyer](http://www.collyer.net/who/geoff/)
 * 1985: [Interprocess Communication in the Eight Edition Unix System](https://www.tuhs.org/Archive/Documentation/Papers/Interprocess_Communications_in_the_8th_Edition_Unix_Ritchie+Presotto_USENIX_SUMMER_19850612.pdf)
   * by [David L. Presotto](https://dblp.org/pid/10/5768.html) and Dennis Ritchie

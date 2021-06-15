@@ -28,6 +28,7 @@ References:
      - [People](./prim/people.md)
 - [Programming languages](./lang/README.md)
      - [C](./lang/C.md)
+     - [S](./lang/S.md)
      - [Shell](./lang/shell.md)
      - [AWK](./lang/awk.md)
      - [Regular expressions](./lang/regex.md)
