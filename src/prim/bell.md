@@ -1,8 +1,8 @@
 ### Bell Labs
 
-Bell Labs, under the ownership of AT&T drove the initial development of UNIX. It was transferred between multiple owners, and had multiple operational facilities.
+<em>Bell Telephone Laboratories</em> (i.e., [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs)) was AT&T's research division created out of the [Bell System](https://en.wikipedia.org/wiki/Bell_System). The headquarters at [Murray Hill](https://www.bell-labs.com/about/locations/murray-hill-new-jersey-usa/) has since been transferred to Nokia.
 
-Personnel, machines that madde up the computational environment and related research divisions are described in the sources below.
+[Holmdel](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex) and related research divisions, along with their respective personnel and machines are described in the sources below.
 
 * 1973: 📼 [The Holmdel Computer Center, Part 1](https://techchannel.att.com/playvideo/2012/11/28/AT&T-Archives-Holmdel-Computer-Center-Part-1) ([YouTube](https://www.youtube.com/watch?v=HMYiktO0D64))
   * Computations as a printout on sheet(s) of paper are placed into the user's bin by an attendant

@@ -6,7 +6,7 @@
  * 1986(1971-): [A Research UNIX Reader: Annotated Excerpts from the Programmer's Manual](https://www.cs.dartmouth.edu/~doug/reader.pdf)
    * by Douglas McIlroy
  * 2005: [Unix people at princeton.edu](http://www.princeton.edu/~hos/Mahoney/unixpeople.htm)
-   * by [Michael S. Mahoney](https://www.princeton.edu/~hos/Mahoney/) ([Wiki](https://en.wikipedia.org/wiki/Michael_Sean_Mahoney))
+   * by [Michael S. Mahoney](http://www.princeton.edu/~hos/Mahoney/) ([Wiki](https://en.wikipedia.org/wiki/Michael_Sean_Mahoney))
 
 See also:
 
@@ -28,8 +28,7 @@ These are interviews with people who worked on Unix, speaking about Unix or the 
    * `C and Unix at Bell Labs` for `VCF East 10`
  * 2017: [Brian Kernighan](https://www.youtube.com/watch?v=bTWv-l0JhAc) interviewed by John Mashey
    * `Oral History of Brian Kernighan` - `Computer History Museum`
- * 2019: [Ken Thompson](https://youtu.be/EY6q5dv_B-o?t=494) interviewed by Brian Kernighan
-   * `VCF East 2019`
+ * 2019: [Ken Thompson](https://youtu.be/EY6q5dv_B-o?t=494) interviewed by Brian Kernighan for [VCF East 2019](https://twitter.com/marcnata/status/1124674144241692672)
  * 2020: [Brian Kernighan](https://corecursive.com/brian-kernighan-unix-bell-labs1/) interviewed on CoreCursive podcast
    * `The Birth of UNIX`
  * 2021: [Alfred Aho and Jeffrey Ullman](https://dl.acm.org/doi/pdf/10.1145/3460442) interviewed by Leah Hoffmann for ACM
