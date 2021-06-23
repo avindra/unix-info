@@ -35,6 +35,7 @@ References:
      - [Go](./lang/go.md)
      - [Compilers](./lang/compiler.md)
 - [Out-of-tree developments](./out_of_tree.md)
+     - [Minix](./minix.md)
      - [Plan 9](./9.md)
 - [Hardware](./hardware.md)
 - [Organizations](./orgs.md)

@@ -14,10 +14,7 @@ In particular, branches closer to the epoch (1970) are of great interest.
 * 1983: [GNU announced](https://www.gnu.org/gnu/initial-announcement.en.html)
 * 1985: [Munix, Vol III](https://archive.org/details/h42_PCS_MUNIX_Volume_III/mode/2up)
   * [Munix](https://de.wikipedia.org/wiki/MUNIX), created by [a German company called PCS](https://en.wikipedia.org/wiki/Periphere_Computer_Systeme) based on SystemV Unix. [Hubbard](https://en.wikipedia.org/wiki/Jordan_Hubbard) would go on to help create FreeBSD.
-* 1987: [Minix](https://en.wikipedia.org/wiki/Minix)
-  * by [Andrew S. Tenenbaum](https://www.cs.vu.nl/~ast/)
-  * licensed under BSD in 2000
-  * all Intel chips after 2015 now include Minix as part of [IME](https://en.wikipedia.org/wiki/Intel_Management_Engine)
+* 1987: [Minix](./minix.md)
 * 1989: 📼 [_The Computer Chronicles: UNIX_](https://archive.org/details/unix_2)
   * 2nd episode on UNIX, 4 years after the first
   * large segment on GUIs, one from Sun Microsystems and another from HP
