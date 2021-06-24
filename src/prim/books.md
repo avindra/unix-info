@@ -13,17 +13,15 @@ See also: [courses](./../courses.md) and [humor](./../humor.md).
   * This was the textbook used in a University course of which Linus Torvalds was a student.
 * 1987: [UNIX System Readings and Applications Volume I](http://www.bitsavers.org/pdf/att/unix/UNIX_System_Readings_and_Applications_Volume_1_1987.pdf)
   * An official, 400-page dense compilation of many writings on Unix from Bell Labs
+* 1989: [Life with Unix: _A Guide for Everyone_](https://www.tuhs.org/Archive/Documentation/Books/Life_with_Unix_v2.pdf)
+  * by [Don Libes](https://www.nist.gov/el/systems-integration-division-73400/don-libes-publications-list) and [Sandy](https://sandyressler.com/) [Ressler](https://math.nist.gov/~SRessler)
+  * [Donated by the author to TUHS Archive](https://www.tuhs.org/Archive/Documentation/Books/Readme)
 * 2019: [UNIX: A History and a Memoir](https://www.cs.princeton.edu/~bwk/memoir.html)
   * by Brian Kernighan
 
 
 ## Secondary books
 
-* 1989: [Life with Unix: _A Guide for Everyone_](https://www.tuhs.org/Archive/Documentation/Books/Life_with_Unix_v2.pdf)
-  * by [Don Libes](https://www.nist.gov/el/systems-integration-division-73400/don-libes-publications-list) and [Sandy Ressler](https://math.nist.gov/~SRessler)
-  * Loaded with references and information.
-  * A certifiable trove of Unix information.
-  * [Donated by the author to TUHS Archive](https://www.tuhs.org/Archive/Documentation/Books/Readme)
 * 1992: [Advanced Programming in the UNIX Environment](http://www.apuebook.com/)
   * by [W. Richard Stevens](http://www.kohala.com/start/)
   * [2005: 2nd edition](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.2318&rep=rep1&type=pdf)
