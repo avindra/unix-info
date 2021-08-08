@@ -10,7 +10,7 @@ All UNIX users will encounter a [shell](./shell.md) language, as it is typically
 
 The code samples from Kernighan's talks tend to use [C](./C.md) and [AWK](./awk.md).
 
- * 1974: [The Elements of Programming Style](https://archive.org/details/elementsofprogra00kernrich/mode/2up)
+ * 1974: [The Elements of Programming Style](https://archive.org/details/elementsofprogra00kernrich/mode/2up) ([PDF](http://www2.ing.unipi.it/~a009435/issw/extra/kp_elems_of_pgmng_sty.pdf)) ([2e PDF](https://seriouscomputerist.atariverse.com/media/pdf/book/Elements%20of%20Programming%20Style.pdf))
    * by Brian W. Kernighan and [Phillip James Plaugher](https://www.plauger.com/)
    * title refers to William Strunk's [The Elements of Style](https://www.gutenberg.org/ebooks/37134) (1918)
  * 1992: [Foundations of Computer Science](http://infolab.stanford.edu/%7Eullman/focs.html) ([TOC](http://infolab.stanford.edu/~ullman/focs/toc.pdf))

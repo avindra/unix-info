@@ -11,7 +11,11 @@ Nevertheless, regular expressions are implemented in multiple programming langua
    * [IBM 7094 cheatsheet](https://swtch.com/~rsc/regexp/ibm7094.html)
  * 1987: [Structural Regular Expressions](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf)
    * by Rob Pike
- * 2003: [Regular-Expressions.info](https://www.regular-expressions.info/quickstart.html)
-   * by [Jan Goyvaerts](https://www.just-great-software.com/aboutjg.html)
  * 2007: [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/) ([lecture](https://swtch.com/~rsc/talks/regexp.pdf))
    * by [Russ Cox](https://swtch.com/~rsc/)
+
+#### Other resources
+
+ * 2003: [Regular-Expressions.info](https://www.regular-expressions.info/quickstart.html)
+   * by [Jan Goyvaerts](https://www.just-great-software.com/aboutjg.html)
+ * [Regular expression tables on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser/Regular_expression)
