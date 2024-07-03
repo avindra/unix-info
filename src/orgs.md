@@ -8,7 +8,7 @@ It has many resources for the UNIX student:
 
    - active discussions with participation from UNIX creators and community
    - [vast digital archive](https://wiki.tuhs.org/doku.php?id=source:unix_archive)
-   - [mailing list archive](https://minnie.tuhs.org/pipermail/tuhs/)
+   - [mailing list archive](https://www.tuhs.org/pipermail/tuhs/)
 
 TUHS was orginally formed as "the [PDP-11](./hardware.md) Unix Preservation Society"
 ### Others

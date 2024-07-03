@@ -11,4 +11,4 @@ Papers from other folks associated with the labs are available more specifically
   * by Ken Thompson
   * [2021 overview](https://www.youtube.com/watch?v=SJ7lOus1FzQ) [by Brailsford](https://www.nottingham.ac.uk/news/expertiseguide/computer-science-/professor-david-brailsford-.aspx)
 * 1984: [UNIX Operating System Security](https://people.engr.ncsu.edu/gjin2/Classes/246/Spring2019/Security.pdf) ([DOI](https://doi.org/10.1002/j.1538-7305.1984.tb00058.x))
-  * [Frederick T. Grampp](https://minnie.tuhs.org/pipermail/tuhs/2021-March/023390.html) and [Robert H. Morris](https://en.wikipedia.org/wiki/Robert_Morris_(cryptographer))
+  * [Frederick T. Grampp](https://www.tuhs.org/pipermail/tuhs/2021-March/023390.html) and [Robert H. Morris](https://en.wikipedia.org/wiki/Robert_Morris_(cryptographer))
