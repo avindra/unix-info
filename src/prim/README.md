@@ -8,7 +8,7 @@ This document is the earliest known formal description of the UNIX system. It ha
 
 * [1971](https://www.tuhs.org/pipermail/tuhs/2015-November/007703.html): [Draft: The UNIX Time-Sharing System](https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/UnixEditionZero-Threshold_OCR.pdf) ([Txt](https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/UnixEditionZero.txt))
   * by Dennis Ritchie
-* 1974: [The UNIX Time-Sharing System](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.595&rep=rep1&type=pdf) ([ACM](https://dl.acm.org/doi/10.1145/361011.361061)) ([mirror](http://www.tom-yam.or.jp/2238/ref/unix.pdf)) ([mirror 2](https://www.tuhs.org/Archive/Documentation/Papers/unix_cacm74.pdf))
+* 1974: [The UNIX Time-Sharing System](https://dl.acm.org/doi/pdf/10.1145/361011.361061) ([ACM](https://dl.acm.org/doi/10.1145/361011.361061)) ([single column](http://www.tom-yam.or.jp/2238/ref/unix.pdf)) ([digitized](https://www.tuhs.org/Archive/Documentation/Papers/unix_cacm74.pdf))
   * by Dennis Ritchie and Ken Thompson
   * [Annotated and transcribed PDF](https://people.eecs.berkeley.edu/~brewer/cs262/UNIX-annotated.pdf)
     * [No annotations](https://dsf.berkeley.edu/cs262/unix.pdf)
@@ -27,11 +27,11 @@ This document is the earliest known formal description of the UNIX system. It ha
 
 * 1964: [Internal memo from Doug McIlroy](https://www.bell-labs.com/usr/dmr/www/mdmpipe.pdf)
    * [Dennis Ritchie's remarks](https://www.bell-labs.com/usr/dmr/www/mdmpipe.html)
-* 1972: [Kernel Subroutine Descriptions](http://www.bitsavers.org/pdf/bellLabs/unix/Kernel_Subroutine_Descriptions_Mar72.pdf)
+* 1972: [Kernel Subroutine Descriptions](https://web.archive.org/web/20230223010805/http://www.bitsavers.org/pdf/bellLabs/unix/Kernel_Subroutine_Descriptions_Mar72.pdf) ([mirror](https://archive.org/details/bitsavers_attunixEarineDescriptionsMar72_8245163/mode/2up))
   * handwritten notes on various UNIX system calls
 * 1977: [The UNIX Time-sharing System—A Retrospective](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.7620&rep=rep1&type=pdf) ([mirror](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-1947.pdf))
   * by Dennis Ritchie
-* 1978: [UNIX Implementation](https://people.eecs.berkeley.edu/~prabal/resources/osprelim/Tho78.pdf) ([mirror](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-1931.pdf))
+* 1978: [UNIX Implementation](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-1931.pdf) ([reformatted](https://pages.cs.wisc.edu/~eli/537/lectures/thompson.pdf))  <!-- dead: https://people.eecs.berkeley.edu/~prabal/resources/osprelim/Tho78.pdf -->
   * by Ken Thompson
 * 1979: [The Unix I/O System](http://www.tom-yam.or.jp/2238/ref/iosys.pdf) ([source code](https://9p.io/7thEdMan/vol2/iosys))
   * by Dennis Ritchie
