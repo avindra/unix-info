@@ -15,7 +15,8 @@ Origin of jschauma course is not certain. It may be even older
   * Institution: `Cornell University`
 * 2003: [COMS 214: Advanced Unix Tools](http://www.cs.cornell.edu/courses/cs214/2004sp/)
   * Institution: `Cornell University`
-* 2003: [Unix: An Oral History](http://www.princeton.edu/~hos/frs122/unixhist/oralhistory.htm)
+* 2003: [Unix: An Oral History](https://dspinellis.github.io/oral-history-of-unix/)
+  <!-- dead: http://www.princeton.edu/~hos/frs122/unixhist/oralhistory.htm -->
   * Institution: `Princeton University`
   * comprised mostly of writings and essays
 * 2006: [CS631APUE - Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)

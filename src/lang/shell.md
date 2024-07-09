@@ -9,7 +9,8 @@ Shell languages often mix structured programming constructs with bespoke command
   * [view converted Markdown on GitHub](https://github.com/susam/tucl/blob/master/the-unix-command-language.md#the-unix-command-language)
   * The syntax (` | `) was [contributed by Douglas McIlroy](https://www.tuhs.org/pipermail/tuhs/2020-December/022535.html).
   * The original syntax can be found in 1987's [A Research UNIX Reader](https://archive.org/details/a_research_unix_reader/page/n27/mode/2up).
-* 1976: [Using a Command Language as a High-Level Programming Language](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.7617&rep=rep1&type=pdf)
+* 1976: [Using a Command Language as a High-Level Programming Language](https://grosskurth.ca/bib/1976/mashey-command.pdf) ([doi](https://dl.acm.org/doi/abs/10.5555/800253.807670))
+  <!-- dead: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.7617&rep=rep1&type=pdf -->
   * by John Mashey
 * 1978: [The UNIX Shell](https://archive.org/details/bstj57-6-1971/mode/2up) ([html](https://becksteinlab.physics.asu.edu/pages/unix/shell.html)) ([mirror](https://www.tuhs.org/Archive/Documentation/Papers/BSTJ/bstj57-6-1971.pdf))
   * by [Stephen Richard Bourne](https://dl.acm.org/profile/81100584611)
