@@ -19,5 +19,5 @@ Much information about Unix is available through it's manuals. The manuals are s
 * 1982: [Introduction to the UNIX Operating System](http://www.bitsavers.org/pdf/uNIX/uNIX_Jan82.pdf)
   * by [Stephen M. Walters](http://www.starrynights.us/Biography/Biography.htm)
   * A mix of notes, standard man pages and assembly code
-* 1997: [UNIX For Beginners (2e)](https://people.computing.clemson.edu/~dhouse/courses/405/docs/unix4beg.pdf) ([alternate format](https://wolfram.schneider.org/bsd/7thEdManVol2/beginners/beginners.pdf)) ([HTML to PDF dump](https://www.ualberta.ca/computing-science/media-library/docs/unix-beginners.pdf))
+* 1997: [UNIX For Beginners (2e)](https://people.computing.clemson.edu/~dhouse/courses/405/docs/unix4beg.pdf) ([alternate format](https://wolfram.schneider.org/bsd/7thEdManVol2/beginners/beginners.pdf)) ([HTML to PDF dump](https://www.ualberta.ca/computing-science/media-library/docs/unix-beginners.pdf)) ([1e scan](http://commons.princeton.edu/motorcycledesign/wp-content/uploads/sites/70/2018/06/bell_labs_1368_001.pdf))
   * by Brian Kernighan
