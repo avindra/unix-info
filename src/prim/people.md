@@ -51,3 +51,12 @@ These are interviews with people who worked on Unix, speaking about Unix or the 
  * 2020: [ACM Turing Award](https://awards.acm.org/about/2020-turing) ([Press](https://www.acm.org/media-center/2021/march/turing-award-2020))
    * presented to [Al Aho](https://awards.acm.org/award_winners/aho_1046358) and [Jeffrey Ullman](https://awards.acm.org/award_winners/ullman_1054360) for [compiler books](./../lang/compiler.md)
 
+
+<!--
+
+kernighan roadshow
+
+https://www.youtube.com/watch?v=nRvgrvstvWA
+https://www.youtube.com/watch?v=kw9KwjJCJH8
+
+-->

@@ -1,5 +1,6 @@
 
-[![Image of Ken Thompson and Dennis Ritchie at work in 1972. Before them, a DEC PDP-11, with a Teletype Model 33 attached](https://www.bell-labs.com/usr/dmr/www/ken-and-den.jpg)](https://www.bell-labs.com/usr/dmr/www/picture.html)
+[![Image of Ken Thompson and Dennis Ritchie at work in 1972. Before them, a DEC PDP-11, with a Teletype Model 33 attached](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/ken-and-den.jpg)](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/picture.html)
+
 
 # Introduction
 
